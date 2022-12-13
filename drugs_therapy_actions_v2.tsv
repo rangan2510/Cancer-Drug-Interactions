@@ -1,0 +1,1111 @@
+drug_name	drug_type	CID/CIDs	Source	therapy_type	action	action_class	approval_status	drugbank_id	synonyms
+a-443654	small molecule	10172943	GDSC	Targeted Therapy	Akt inhibitor,potent and selective	akt related			
+at7867	small molecule	11175137	GDSC|CTRPV2	Targeted Therapy	Akt1/2/3 and p70S6K/PKA inhibitor	akt related			
+mk-2206	small molecule	24964624	GDSC|CTRPV2	Targeted Therapy	MK-2206 dihydrochloride is an orally active allosteric Akt inhibitor used in treatment of solid tumors	akt related	investigational	DB16828	MK-2206 free base
+mk2206	small molecule	46930998	TCGA	Targeted Therapy	orally active allosteric Akt inhibitor used in treatment of solid tumors	akt related	investigational		
+chlorambucil	small molecule	2708	CTRPV2	Chemotherapy	alkylating agent	alkylating related	approved	DB00291	leukeran|nci-3088|lympholysin|chlorambucilum|cb-1348|ambochlorin|nsc-3088|chlorbutin|ecloril
+clofarabine	small molecule	119182	CTRPV2	Chemotherapy	Antimetabolite,inhibit DNA polymerase and ribonucleotide reductase	alkylating related	approved	DB00631	
+bendamustine	small molecule	65628	CTRPV2	Chemotherapy	Bendamustine (SDX-105 free base), a purine analogue, is a DNA cross-linking agent. Bendamustine activates DNA-damage stress response and apoptosis. Bendamustine has potent alkylating, anticancer and antimetabolite properties.	alkylating related	approved	DB06769	Bendamustina|Bendamustine|Ribomustine|SDX 105|SDX-105|SDX105
+decitabine	small molecule	451668	CTRPV2	Chemotherapy	Deoxycytidine analog and cellular diifferentiation inducer	alkylating related	approved	DB01262	dac|2'-deoxy-5-azacytidine|nsc-127716
+7-ethyl-10-hydroxycamptothecin	small molecule	104842	CTRPV2	Chemotherapy	TOPO I inhibitor	alkylating related	investigational	DB05482	sn-38
+bleomycin a2	small molecule	5460769	CTRPV2	Chemotherapy		alkylating related			
+cytarabine	small molecule	6253	GDSC	Chemotherapy	Cytotoxic agent, blocks DNA synthesis	alkylating related	approved	DB00987	cytarabine hydrochloride|cytarabine liposome|cytarabinoside|nsc-287459|u 19920a|aracytidine|ara-cytidine|arabinocytosine|u-19920|aracytin|cytarabinum|ara-c|arabinosyl cytosine|spongocytidine|u-19,920|aracytine
+fludarabine	small molecule	657237	GDSC	Chemotherapy	DNA synthsis inhibitor	alkylating related	approved	DB01073	fludarabine phosphate
+nelarabine	small molecule	3011155	GDSC|CTRPV2	Chemotherapy	Prodrug of ara-G for T-LBL/T-ALL	alkylating related	approved	DB01280	
+azacitidine	small molecule	9444	GDSC|CTRPV2	Chemotherapy		alkylating related	approved	DB00928	onureg|vidaza|u-18496|5-azacitidine|ladakamycin|nsc-102816|u-18,496|5-azacytidine
+streptozocin	small molecule	29327	TCGA	Chemotherapy	a potent DNA-methylating antibiotic, is a naturally occurring nitrosoamide used for extensively to produce diabetes in experimental models	alkylating related	approved	DB00428	zanosar
+oxaliplatin	small molecule	9887053	TCGA	Chemotherapy	Antitumor agent	alkylating related	approved	DB00526	eloxatin
+carboplatin	small molecule	426756	TCGA	Chemotherapy	Antitumor agent that forms platinum-DNA adducts.	alkylating related	approved	DB00958	paraplatin|Carboplatine|Carboplatino|CBDCA|NSC-241240
+capecitabine	small molecule	60953	TCGA	Chemotherapy	DNA, RNA and protein synthesis inhibitor	alkylating related	approved	DB01101	ecansya|xeloda|capecytabinum|nsc-759853|ro-09-1978000|capiibine|ro-091978000|captabin|capecitabine accord|capecitabine teva|capecitabine medac|capecitibine|capecytabine|xeloda|capecitabine sun|ro 09-1978/000
+cisplatin	small molecule	5702198	TCGA	Chemotherapy	first metal-based chemotherapeutic drugs, which is used for wide range of solid cancers such as testicular, ovarian, bladder, lung, cervical, head and neck cancer, gastric cancer and some other cancers.	alkylating related	approved	DB00515	platinol|cddp|Cis-DDP|cisplatino
+gemcitabine hcl	small molecule	60749	TCGA	Chemotherapy	nhibits DNA synthesis,deoxycytidine analog	alkylating related			gemzar
+topotecan hcl	small molecule	60699	TCGA	Chemotherapy	Topoisomerase 1 inhibitor	alkylating related	approved	DB01030	Topotecan|Topotecane|Topotecanum|SK&F-104864|SKF-104864
+carboplatinum	small molecule	38904	TCGA	Chemotherapy		alkylating related			
+cisplatinum	small molecule	441203	TCGA	Chemotherapy		alkylating related	approved	DB00515	
+eribulin	small molecule	11354606	TCGA	Chemotherapy		alkylating related	approved	DB08871	eribulin mesylate|halaven
+floxuridine	small molecule	5790	TCGA	Chemotherapy		alkylating related	approved	DB00322	
+folinic acid	small molecule	135403648	TCGA	Chemotherapy		alkylating related			folinic acid+fluorouracil+oxaliplatin
+fotemustine	small molecule	104799	TCGA	Chemotherapy		alkylating related	investigational	DB04106	mustophoran|mustoforan
+halichondrin b	small molecule	5915307	TCGA	Chemotherapy		alkylating related			
+hydrocortisone	small molecule	5754	TCGA	Chemotherapy		alkylating related	approved	DB00741	micort-hc|flexicort|terra-cortril|ophthocort|nsc-10483|u-cort|cortifoam|neo-cortef|cortisol|cor-oticin
+hydroxyurea	small molecule	3657	TCGA	Chemotherapy		alkylating related	approved	DB01005	hydroxyurea|127-07-1|Hydroxycarbamide|N-Hydroxyurea|1-HYDROXYUREA|Hydrea|Oxyurea|Carbamoyl oxime|Biosupressin|Hydroxycarbamine|Urea, hydroxy-|Onco-carbide|Carbamohydroxamic acid|Carbamohydroximic acid|Carbamyl hydroxamate|Hydura|Litalir|Hydurea|N-Carbamoylhydroxylamine|Droxia|Hidrix|Hydroxicarbamidum|Siklos|Hydroxylurea|Hydreia|Litaler|Idrossicarbamide [DCIT]|Hidroxicarbamida|Hydroxyharnstoff|Hydroxycarbamidum|Carbamohydroxyamic acid|N-Hydroxymocovina|Hydroxylamine, N-carbamoyl-|SQ 1089|Hydroxyharnstoff [German]|N-Hydroxymocovina [Czech]|hydroxy urea|NCI-C04831|Hydroxylamine, N-(aminocarbonyl)-|SK 22591|Hydroxycarbamidum [INN-Latin]|Hidroxicarbamida [INN-Spanish]|urea, N-hydroxy-|HU|CCRIS 958|HYDROXY-UREA|NSC 32065|UNII-X6Q56QN5QC|NSC32065|AI3-51139|Hydroxyurea (Cytodrox)|MFCD00007943|CHEMBL467|SQ-1089|X6Q56QN5QC|CHEBI:44423|NSC-32065|8029-68-3|NCGC00015520-03|Hydroxycarbamid|Oncocarbide|Idrossicarbamide|DSSTox_CID_5438|DSSTox_RID_77787|DSSTox_GSID_25438|NHY|Hydroxyurea (D4)|N-HYDROXY UREA|Mylocel|carbamide oxide|CAS-127-07-1|SMR000059149|Hydroxyurea (USP)|Droxia (TM)|Droxia (TN)|Hydrea (TM)|hydroxyaminomethanamide|HSDB 6887|SR-01000075919|DRG-0253|EINECS 204-821-7|HYDREA (TN)|Hydroxyurea [USAN:USP]|BRN 1741548|Hydroxycarbamide (JAN/INN)|hydroxyl urea|Xromi|S-phase/G-1 interface inhibitor|aminohydroxamic acid|carbamic acid oxime|Carbomohydroxamic acid|Spectrum_000909|Hydroxycarbamide [INN]|WLN: ZVMQ|Hydrea (Bristol Meyers)|Spectrum2_000064|Spectrum3_000462|Spectrum4_000012|Spectrum5_000836|Lopac-H-8627|MolMap_000029|H 8627|NCIMech_000139|Hydroxyurea, 98%, powder|Lopac0_000596|BSPBio_002164|KBioGR_000383|KBioSS_001389|4-03-00-00170 (Beilstein Handbook Reference)|hydroxycarbamide (hydroxyurea)|MLS001332381|MLS001332382|MLS002153389|DivK1c_000556|N-(Aminocarbonyl)hydroxylamine|SPECTRUM1500344|SPBio_000247|GTPL6822|DTXSID6025438|tetratogen: inhibits ribonucleoside diphosphate reductase|HMS501L18|KBio1_000556|KBio2_001389|KBio2_003957|KBio2_006525|KBio3_001384|NINDS_000556|Bio1_000451|Bio1_000940|Bio1_001429|HMS1920F09|HMS2091L17|HMS2234I03|HMS3261H14|HMS3373G18|HMS3655K20|HMS3869C03|NCI C04831|Pharmakon1600-01500344|ACT02611|ALBB-028465|AMY40858|HY-B0313|STR02555|ZINC8034120|Tox21_110168|Tox21_300319|Tox21_500596|BBL009928|BDBM50017811|CCG-35236|NSC757072|s1896|STL145898|AKOS005716276|AKOS006222547|Tox21_110168_1|ZINC100019199|DB01005|LP00596|MCULE-9465284053|NSC-757072|SDCCGSBI-0050578.P006|IDI1_000556|NCGC00015520-01|NCGC00015520-02|NCGC00015520-04|NCGC00015520-05|NCGC00015520-06|NCGC00015520-07|NCGC00015520-08|NCGC00015520-09|NCGC00015520-10|NCGC00015520-11|NCGC00015520-20|NCGC00093974-01|NCGC00093974-02|NCGC00093974-03|NCGC00093974-04|NCGC00093974-05|NCGC00254007-01|NCGC00261281-01|AC-22674|NCI60_002773|SBI-0050578.P004|DB-041849|EU-0100596|FT-0627160|FT-0627175|FT-0670210|H0310|SW218071-2|C07044|D00341|Hydroxyurea, Vetec(TM) reagent grade, >=98%|AB00052018-09|AB00052018-10|AB00052018_11|AB00052018_12|127H071|A805636|Q212272|J-504798|SR-01000075919-1|SR-01000075919-3|SR-01000075919-8|E0723DBA-5AF3-49D1-B5F6-59420AB87AC9|F8880-0905|Z1522566612|Hydroxycarbamide, European Pharmacopoeia (EP) Reference Standard|Hydroxyurea, United States Pharmacopeia (USP) Reference Standard
+leucovorin	small molecule	6006	TCGA	Chemotherapy		alkylating related	approved	DB00650	
+lomustine	small molecule	3950	TCGA	Chemotherapy		alkylating related	approved	DB01206	ccnu
+melphalan	small molecule	460612	TCGA	Chemotherapy		alkylating related	approved	DB01042	alkeran|evomela|melphalan|148-82-3|Alkeran|Melfalan|L-PAM|Phenylalanine mustard|L-Sarcolysine|L-Phenylalanine mustard|L-Sarcolysin|p-L-Sarcolysin|4-[Bis(2-chloroethyl)amino]-L-phenylalanine|Melphalanum|Melfalano|Phenylalanine nitrogen mustard|Levofalan|p-Di-(2-chloroethyl)amino-L-phenylalanine|Levopholan|Levofolan|p-Bis(beta-chloroethyl)aminophenylalanine|3-(p-(Bis(2-chloroethyl)amino)phenyl)-L-alanine|L-Sarkolysin|p-N-Bis(2-chloroethyl)amino-L-phenylalanine|4-(Bis(2-chloroethyl)amino)-L-phenylalanine|CB 3025|(2S)-2-amino-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid|3-p-(Di(2-chloroethyl)amino)-phenyl-L-alanine|NCI-C04853|L-3-(p-(Bis(2-chloroethyl)amino)phenyl)alanine|Alanine Nitrogen Mustard|NSC-8806|UNII-Q41OR9510P|CB-3025|CHEBI:28876|p-N,N-bis(2-chloroethyl)amino-L-phenylalanine|CHEMBL852|SK 15673|Sarcolysinum|ALKERAN (TN)|Rcra waste number U150|Q41OR9510P|Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-, L-|Alanine, 3-[p-[bis(2-chloroethyl)amino]phenyl]-, L-|8057-25-8|SK-15673|NCGC00090757-02|(2S)-2-azaniumyl-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoate|DSSTox_CID_804|DSSTox_RID_75797|DSSTox_GSID_20804|Melfalano [INN-Spanish]|Melphalanum [INN-Latin]|Phenylalanine, 4-[bis(2-chloroethyl)amino]-|Evomela|(S)-2-amino-3-(4-(bis(2-chloroethyl)amino)phenyl)propanoic acid|(2s)-2-amino-3-(4-[bis(2-chloroethyl)amino]phenyl)propanoic acid|(S)-2-Amino-3-{4-[bis-(2-chloro-ethyl)-amino]-phenyl}-propionic acid|NSC8806|CAS-148-82-3|SMR000058720|CCRIS 374|HSDB 3234|EINECS 205-726-3|RCRA waste no. U150|NSC 241286|BRN 2816456|L-3-(para-(Bis(2-chloroethyl)amino)phenyl)alanine|Phelinun|(2S)-2-amino-3-{4-[bis(2-chloroethyl)amino]phenyl}propanoic acid|MFCD00057717|NSC241286|Sarcolycin, l-|Melphalan, powder|NSC-241286|Prestwick_1006|Melphalan [USAN:USP:INN:BAN:JAN]|Spectrum_000397|3025 C.B.|Spectrum2_000074|Spectrum3_000684|Spectrum4_000882|Spectrum5_001601|DL-Melphalan hydrochloride|3-(p-(Bis(2-chloroethyl)amino)phenyl)alanine|Epitope ID:141802|4-[Bis-(2-chloroethyl)amino]-L-phenylalanine|SCHEMBL5872|BSPBio_002407|KBioGR_001284|KBioSS_000877|4-14-00-01689 (Beilstein Handbook Reference)|MLS001333666|MLS002153368|BIDD:GT0044|DivK1c_000653|SPECTRUM1500382|SPBio_000287|Melphalan (JP17/USP/INN)|GTPL7620|ZINC1673|DTXSID6020804|NIOSH/AY3360000|HMS502A15|KBio1_000653|KBio2_000877|KBio2_003445|KBio2_006013|KBio3_001627|L-phenylalanine mustard (L-PAM)|NINDS_000653|HMS2090B09|HMS2091B16|HMS2235D21|Pharmakon1600-01500382|Tox21_111010|Tox21_202522|BDBM50025837|CCG-39704|DL-442|NSC757098|s8266|AKOS015895374|Tox21_111010_1|CS-3120|DB01042|NSC-757098|IDI1_000653|SMP2_000174|NCGC00090757-01|NCGC00090757-03|NCGC00090757-04|NCGC00090757-05|NCGC00090757-06|NCGC00260071-01|AS-13314|H877|HY-17575|SBI-0052787.P003|AY33600000|4-[bis(2-chloroethyl)-amino]-L-phenylalanine|4-[bis(2-chloroethyl)-amino]-l-phenyl-alanine|4-[bis(2-chloroethyl)amino]-(L)-phenylalanine|C07122|D00369|AB00053282-07|AB00053282-08|AB00053282_09|148M823|A808810|Alanine, 3-(p-(bis(2-chloroethyl)amino)phenyl)-|SR-05000001667|Q2298283|SR-05000001667-1|W-108096|BRD-K87827419-001-02-8|2-amino-3-[4-bis(2-chloroethyl)amino]phenylpropanoic acid|UNII-A960M0G5TP component SGDBTWWWUNNDEQ-LBPRGKRZSA-N|(2S)-2-azanyl-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid|2-Amino-3-{4-[bis-(2-chloro-ethyl)-amino]-phenyl}-propionic acid|2-Amino-3-{4-[bis-(2-chloro-ethyl)-amino]-phenyl}-propionic acid(L-PAM)|2-Amino-3-{4-[bis-(2-chloro-ethyl)-amino]-phenyl}-propionic acid (Melphalan)|2-Amino-3-{4-[bis-(2-chloro-ethyl)-amino]-phenyl}-propionic acid(Melphalan)|
+mitotane	small molecule	4211	TCGA	Chemotherapy		alkylating related	approved	DB00648	
+pemetrexed disodium	small molecule	135413520	TCGA	Chemotherapy		alkylating related	approved	DB00642	Pemetrexed|LY-231514|LY231514|NSC-698037
+treosulfan	small molecule	9882105	TCGA	Chemotherapy		alkylating related	approved	DB11678	difydroxybusulfan|ovastat|treosulfan
+vinorelbine tartrate	small molecule	45055483	TCGA	Chemotherapy		alkylating related	approved	DB00361	
+procarbazine	small molecule	4915	TCGA|CTRPV2	Chemotherapy	Antineoplastic chemotherapy drug	alkylating related	approved	DB01168	
+dacarbazine	small molecule	135398738	TCGA|CTRPV2	Chemotherapy	Antineoplastic( malignant melanoma and sarcomas)	alkylating related	approved	DB00851	dacarbazine|4342-03-4|DTIC|Deticene|Biocarbazine|Biocarbazine R|ICDMT|DTIC-Dome|Dacarbazinum|NSC-45388|ICDT|5-(3,3-Dimethyl-1-triazeno)imidazole-4-carboxamide|5-(3,3-Dimethyltriazeno)imidazole-4-carboxamide|Di-me-triazenoimidazolecarboxamide|5-(Dimethyltriazeno)imidazole-4-carboxamide|NSC45388|(Dimethyltriazeno)imidazolecarboxamide|Imidazole carboxamide|NSC 45388|DTIE|4-(3,3-Dimethyl-1-triazeno)imidazole-5-carboxamide|NCI-C04717|Dacarbazinum [INN-Latin]|Dacarbazino [INN-Spanish]|4-(5)-(3,3-Dimethyl-1-triazeno)imidazole-5(4)-carboxamide|MFCD00057167|Dtic-Dome (TN)|UNII-7GR28W0FJI|4-(Dimethyltriazeno)imidazole-5-carboxamide|7GR28W0FJI|5-(3,3-Dimethyl-1-triazenyl)imidazole-4-carboxamide|Decarbazine|4-[(1E)-3,3-Dimethyltriaz-1-en-1-yl]-1H-imidazole-5-carboxamide|Imidazole-4-carboxamide, 5-(3,3-dimethyl-1-triazeno)-|HSDB 3219|4-[(E)-dimethylaminodiazenyl]-1H-imidazole-5-carboxamide|Dacarbazino|5-[(1E)-dimethyltriaz-1-en-1-yl]-1H-imidazole-4-carboxamide|SR-05000001598|Dacarbasine|Dicarbazine|CCRIS 190|Dacarbazine (JAN/USP/INN)|5-(Dimethyltriazeno)imidazole-4-carboximide|(E)-Dacarbazine|Dimethyltriazenoimidazolecarboxamide|NCGC00091861-01|EINECS 224-396-1|4(5)-(3,3-Dimethyl-1-triazeno)imidazole-4-carboxamide|(5E)-5-(dimethylaminohydrazinylidene)imidazole-4-carboxamide|4(5)-(3,3-Dimethyl-1-triazeno)imidazole-5(4)-carboxamide|AI3-52825|4-(or 5)-(3,3-Dimethyl-1-triazeno)imidazole-5(or 4)-carboxamide|Dacarbazine (DTIC-Dome)|CHEMBL476|SCHEMBL5560|SCHEMBL5561|SPECTRUM1500218|SCHEMBL1014331|Carboxamide, 5-(3,3-dimethyl-1-triazeno)imidazole-4-|CHEBI:94587|HMS501A08|Imidazole-4-carboxamide, 5-(3,3-dimethyl-1-triazenyl)-|CHEBI:177836|BDBM233149|HMS2090A20|HMS2091I20|NCI C04717|Pharmakon1600-01500218|HY-B0078|CCG-35381|CCG-36068|CCG-40272|NSC759610|NSC799994|s1221|WLN: T5M CNJ DVZ ENUNN1&1|AKOS005220502|AKOS015850745|AKOS026750028|CS-1772|DB00851|KS-5186|NSC-759610|NSC-799994|Dacarbazine [USAN:USP:INN:BAN:JAN]|Dacarbazine, antineoplastic purine analog|NCGC00091861-02|NCGC00091861-03|NCGC00091861-04|NCGC00091861-05|NCGC00188955-01|H539|SBI-0051328.P003|C06936|Carboxamide,3-dimethyl-1-triazeno)imidazole-4-|D00288|J10199|Imidazole-4-carboxamide,3-dimethyl-1-triazeno)-|342D034|A826278|SR-05000001598-1|SR-05000001598-3|W-106228|1H-Imidazole-4-carboxamide,3-dimethyl-1-triazenyl)-|4-[(E)-dimethylaminoazo]-1H-imidazole-5-carboxamide|BRD-K35520305-001-04-5|BRD-K35520305-001-07-8|(5E)-5-(dimethylaminohydrazono)imidazole-4-carboxamide|(5Z)-5-(dimethylaminohydrazono)imidazole-4-carboxamide|5- (3,3-Dimethyl-1-triazenyl) imidazole-4-carboxamide|5-(dimethyltriaz-1-en-1-yl)-1H-imidazole-4-carboxamide|Imidazole-4(or 5)-carboxamide,3-dimethyl-1-triazeno)-|5-[(E)-dimethylaminodiazenyl]-1H-imidazole-4-carboxamide|Dacarbazine, British Pharmacopoeia (BP) Reference Standard|Dacarbazine, European Pharmacopoeia (EP) Reference Standard|(5E)-5-(dimethylaminohydrazinylidene)-4-imidazolecarboxamide|4-(or 5)-(3,3-Dimethyl-1-triazeno)imidazole-5(or  4)-carboxamide|Dacarbazine, United States Pharmacopeia (USP) Reference Standard|Dacarbazine, Pharmaceutical Secondary Standard; Certified Reference Material
+trabectedin	small molecule	108150	TCGA|CTRPV2	Chemotherapy	Antitumour agent	alkylating related	approved	DB05109	yondelis|yl54|et-743|yondelis
+ifosfamide	small molecule	3690	TCGA|CTRPV2	Chemotherapy	Cytostatic agent	alkylating related	approved	DB01181	ifosfamid|ifex
+dexamethasone	small molecule	5743	TCGA|CTRPV2	Chemotherapy	Dexamethasone, as one member of the glucocorticoid family, can protect against arthritis-related changes in cartilage structure and function, including matrix loss, inflammation and cartilage viability.	alkylating related	approved	DB01234	
+thalidomide	small molecule	5426	TCGA|CTRPV2	Chemotherapy	Immunomodulatory agent,sedative drug,angiogenesis inhibitor	alkylating related	approved	DB01041	
+medrol	small molecule	6741	TCGA|GDSC	Chemotherapy	Apoptosis inducer,GR agonist	alkylating related	approved	DB00959	Methylprednisolon|Methylprednisolone|Methylprednisolonum|Metilprednisolona|J3.872E|NSC-19987
+bleomycin	small molecule	5360373	TCGA|GDSC	Chemotherapy	Bleomycin binds to DNA, and causes single-strand scission. The scission of DNA may be the cause of the inhibition of thymidine incorporation into DNA of growing cells and the inhibition of cell division	alkylating related	approved	DB00290	bleomycin sulfate|bleocin|blenamax|bleomycins|bleomycin hexal|nsc-125066|bleomycin hydrochloride
+carmustine	small molecule	2578	TCGA|GDSC	Chemotherapy	cell-cycle phase nonspecific alkylating antineoplastic agent	alkylating related	approved	DB00262	carmustin|bcnu|bicnu|gliadel|carmustine implant|carmustine|154-93-8|1,3-Bis(2-chloroethyl)-1-nitrosourea|Carmustin|Gliadel|Carmubris|Nitrumon|BiCNU|Bischloroethyl nitrosourea|Bi CNU|Carmustinum|Becenun|1,3-Bis(2-chloroethyl)nitrosourea|Bischlorethylnitrosurea|N,N'-BIS(2-CHLOROETHYL)-N-NITROSOUREA|Bischlorethylnitrosourea|Carmustina|Urea, N,N'-bis(2-chloroethyl)-N-nitroso-|Bis(2-chloroethyl)nitrosourea|NSC-409962|FDA 0345|SRI 1720|BiCNU (TN)|DTI 015|NCI-C04773|SK 27702|Carmustine (98%)|Bis(chloroethyl)nitrosourea|NSC 409962|UNII-U68WG3173Y|bis-chloroethylnitrosourea|NSC409962|CHEMBL513|1,3-bis(2-chloroethyl)-1-nitroso-urea|CHEBI:3423|Urea, 1,3-bis(2-chloroethyl)-1-nitroso-|Becenum|U68WG3173Y|MFCD00057706|1,3-bis(2-chloroethyl)-3-nitrosourea|NCGC00015204-05|1,3-Bis(.beta.-chloroethyl)-1-nitrosourea|Gliadel Wafer|Bischloroethylnitrosourea|DSSTox_CID_2743|DSSTox_RID_76712|Carmustinum [INN-Latin]|DSSTox_GSID_22743|Carmustina [INN-Spanish]|Bis(2-chloroethyl)1-nitrosourea|Bis-N,N'-(chloroethyl)nitrosourea|C5H9Cl2N3O2|CAS-154-93-8|CCRIS 810|1,3-Bis(beta-chloroethyl)-1-nitrosourea|BCNU [Chloroethyl nitrosoureas]|SR-01000075736|EINECS 205-838-2|BRN 2049744|Camustine|Carustine|AI3-52216|HSDB 7761|BiCNU; Nitrumon|Carmustine [USAN:USP:INN:BAN]|Carmustine- Bio-X|Prestwick_997|Gliadel (TN)|Bischloroethyl nitrosourea [Chloroethyl nitrosoureas]|Gliadel (MGI Pharm)|Spectrum_000265|Carmustine, >=98%|Spectrum4_000888|Spectrum5_000920|Lopac-C-0400|WLN: ONN2GVM2G|C 0400|SCHEMBL4503|Lopac0_000188|Carmustine (JAN/USP/INN)|KBioGR_001296|KBioSS_000745|MLS001333962|DivK1c_000835|AMY382|GTPL6800|DTXSID8022743|HMS502J17|KBio1_000835|KBio2_000745|KBio2_003313|KBio2_005881|AOB6824|DTI-015|NINDS_000835|HMS2092J22|HMS2230I05|HMS3260F17|HMS3369D17|Pharmakon1600-01503110|BCP27690|FDA-0345|SRI-1720|ZINC3830387|Tox21_110097|Tox21_500188|BDBM50015950|CCG-39925|NSC758392|STK624770|AKOS005558013|Tox21_110097_1|BCP9000490|DB00262|LP00188|MCULE-3131772074|NSC-758392|SDCCGSBI-0050176.P004|IDI1_000835|Urea,3-bis(2-chloroethyl)-1-nitroso-|NCGC00015204-01|NCGC00015204-02|NCGC00015204-03|NCGC00015204-04|NCGC00015204-06|NCGC00015204-07|NCGC00015204-08|NCGC00015204-09|NCGC00015204-18|NCGC00093665-01|NCGC00093665-02|NCGC00093665-03|NCGC00093665-04|NCGC00260873-01|Urea,N'-bis(2-chloroethyl)-N-nitroso-|AC-24196|AS-12106|BC164289|HY-13585|N,N''-Bis(2-chloroethyl)-N-nitrosourea|NCI60_003931|SK-27702|SMR000058426|SBI-0050176.P003|EU-0100188|FT-0602937|S3669|BCNU; 1,3-Bis(2-chloroethyl)-1-nitrosourea|C06873|D00254|AB00052431-07|AB00052431_08|154C938|A809590|Q415869|SR-01000075736-1|SR-01000075736-3|W-108025|Z1563145982|Carmustine, United States Pharmacopeia (USP) Reference Standard|1-(2-Chloroethyl)-1-([(2-chloroethyl)amino]carbonyl)-2-oxohydrazine #
+vinblastine	small molecule	13342	TCGA|GDSC	Chemotherapy	Extracted from Catharanthus roseus (L.)G.Don;Store the product in sealed, cool and dry condition	alkylating related	approved	DB00570	vinblastine sulfate
+actinomycin-d	small molecule	457193	TCGA|GDSC	Chemotherapy	natural chromopeptide isolated from Streptomyces species, and has one heterocyclic chromophore and two cyclic pentapeptide lactone rings.	alkylating related	approved	DB00970	dactinomycin|actinomycin d
+epirubicin	small molecule	41867	TCGA|GDSC	Chemotherapy	semisynthetic L-arabino derivative of doxorubicin, has an antineoplastic agent by inhibiting Topoisomerase. Epirubicin inhibits DNA and RNA synthesis. Epirubicin is a Forkhead box protein p3 (Foxp3) inhibitor and inhibits regulatory T cell activity.	alkylating related	approved	DB00445	epirubicinum|nsc-256942|4'-epi-adriamycin|epidoxorubicin|ellence|epiadriamycin|farmorubicin
+irinotecan	small molecule	60838	TCGA|GDSC	Chemotherapy	Topoisomerase I inhibitor	alkylating related	approved	DB00762	camptosar|onivyde|irinotecan hydrochloride|irinotecan hydrochloride liposome
+pemetrexed	small molecule	135410875	TCGA|GDSC	Chemotherapy	TS, DHFR,GARFT and AICARFT inhibitor	alkylating related	approved	DB00642	alimta|almita
+temozolomide	small molecule	5394	TCGA|GDSC|CTRPV2	Chemotherapy	An oral DNA alkylating agent used to treat some brain cancers	alkylating related	approved	DB00853	temozolamide|temodar|temomedac|themozolomide|temodal
+doxorubicin	small molecule	31703	TCGA|GDSC|CTRPV2	Chemotherapy	anthracycline class that has the broadest spectrum of activity.	alkylating related	approved	DB00997	adriamyicin|adriamycin|doxil|doxorubicinum|myocet|doxorubicin hydrochloride liposome
+fluorouracil	small molecule	3385	TCGA|GDSC|CTRPV2	Chemotherapy	Antitumor agent;inhibitor of thymidylate synthase	alkylating related	approved	DB00544	actikerall|carac|efudex|fluoroplex|tolak|5 fluorouracil|fluorouracilum|fluorouracil injection|fluoruracil|fluorouracil--topical|5-Fluorouracil|fluorouracil|51-21-8|5-FU|Fluoroplex|Efudex|Adrucil|Carac|Fluracil|5-fluoropyrimidine-2,4(1H,3H)-dione|Fluoroblastin|Kecimeton|Queroplex|Carzonal|Timazin|Arumel|Efudix|Fluril|5-Fluoracil|Phthoruracil|Fluracilum|Ulup|Fluorouracilum|5-fluoro-1H-pyrimidine-2,4-dione|Fluro Uracil|Ftoruracil|Efurix|Fluri|5-Fluoro-2,4(1H,3H)-pyrimidinedione|5 Fluorouracil|5-Fluoruracil|5-Fluoropyrimidine-2,4-dione|Effluderm (free base)|Fluorouracilo|2,4(1H,3H)-Pyrimidinedione, 5-fluoro-|2,4-Dihydroxy-5-fluoropyrimidine|Uracil, 5-fluoro-|Ro 2-9757|5-fluoropyrimidine-2,4-diol|5-Fluor-2,4-pyrimidindiol|5-fluoro uracil|5-Ftouracyl|NSC 19893|Fluorouracil, 5-|NSC-19893|5-Fluoro-2,4-pyrimidinedione|Fluorouracil (Adrucil)|5-Fluor-2,4-dihydroxypyrimidin|U-8953|5-fluoro-uracil|191047-65-1|Ro-2-9757|UNII-U3P01618RT|FU|CHEMBL185|2,4-Pyrimidinediol, 5-fluoro- (9CI)|MLS000069498|5FU|Fluroblastin|Phtoruracil|CHEBI:46345|Fluoro-uracile|Fluoro-uracilo|U3P01618RT|NSC19893|5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione|5-Faracil|Cinco FU|MFCD00006018|191047-64-0|191115-88-5|URF|NCGC00015442-02|Fluorouracile|Effluderm|SMR000038082|DSSTox_CID_634|Fluorouracile [DCIT]|5-Fluoracil [German]|5-Fluoracyl|5-Fluoruracil [German]|DSSTox_RID_75705|DSSTox_GSID_20634|Fluorouracilum [INN-Latin]|Fluorouracilo [INN-Spanish]|5-Fluoropyrimidin-2,4-diol|2,4-Dioxo-5-fluoropyrimidine|Fluorouracil Cream|CAS-51-21-8|Fluoroplex (TN)|5-Fluor-2,4-pyrimidindiol [Czech]|Adrucil (TN)|CCRIS 2582|Carac (TN)|5-Fluor-2,4-dihydroxypyrimidin [Czech]|HSDB 3228|SR-01000075881|5-Fluor-2,4(1H,3H)-pyrimidindion [Czech]|EINECS 200-085-6|5-Fluor-2,4(1H,3H)-pyrimidindion|Fluorouricil|Fluouracil|inhibits thymilidate synthetase|Tolak|2,4-Dioxo-5-fluoropryimidine|5-fluorourasil|AI3-25297|Fluoro Uracil|5-florouracil|5-fluorouacil|5-FU (TN)|5-Fluracil|1upf|5F-uracil|U 8953|1-fluoro-1h-pyrimidine-2,4-dione|Adrucil (ICN)|Adrucil (Fluorouracil)|Fluorouracil - Adrucil|Fluorouracil [USAN:USP:INN:BAN:JAN]|Spectrum_000841|Opera_ID_134|5-Fluorouracil, 99%|Spectrum2_000076|Spectrum3_000434|Spectrum4_000557|Spectrum5_000718|WLN: T6MVMVJ EF|Lopac-F-6627|F0151|UPCMLD-DP130|EC 200-085-6|F 6627|SCHEMBL3646|5-fluorpyrimidin-2,4-diol|Lopac0_000536|BSPBio_002048|KBioGR_001253|KBioSS_001321|2(1H)-Pyrimidinone, 5-fluoro-4-hydroxy- (9CI)|4(3H)-Pyrimidinone, 5-fluoro-2-hydroxy- (9CI)|MLS002415705|5-fluoro-2,4-Pyrimidinediol|DivK1c_000054|SPECTRUM1500305|SPBio_000291|5 FU|5-fluoro-2,4-dioxo-pyrimidin|5-fluoro-pyrimidine-2,4-diol|GTPL4789|DTXSID2020634|UPCMLD-DP130:001|Fluorouracil (JP17/USP/INN)|HMS500C16|KBio1_000054|KBio2_001321|KBio2_003889|KBio2_006457|KBio3_001268|5-Fluoro-2,3H)-pyrimidinedione|2,4-Pyrimidinedione, 5-fluoro-|NINDS_000054|BCPP000428|HMS1920O18|HMS2090I04|HMS2091F19|HMS3259O03|HMS3261L13|HMS3654K22|HMS3715H03|HMS3865L03|Pharmakon1600-01500305|5-Fluorouracil, analytical standard|BCP02083|2,3H)-Pyrimidinedione, 5-fluoro-|Fluorouracil (5-Fluoracil, 5-FU)|Fluorouracil (5-Fluoracil; 5-FU)|Tox21_110150|Tox21_202335|Tox21_300112|Tox21_500536|BDBM50340677|CCG-39879|DL-399|NSC757036|Ro-29757|s1209|STK297802|STL367375|ZINC38212689|AKOS000119162|AKOS003237897|AKOS008044307|Tox21_110150_1|BCP9000239|CS-0993|DB00544|KS-5129|LP00536|LS40596|MCULE-6338086431|NC00454|NSC-757036|SDCCGSBI-0050519.P005|IDI1_000054|NCGC00015442-01|NCGC00015442-03|NCGC00015442-04|NCGC00015442-05|NCGC00015442-06|NCGC00015442-07|NCGC00015442-08|NCGC00015442-09|NCGC00015442-10|NCGC00015442-11|NCGC00015442-12|NCGC00015442-15|NCGC00015442-16|NCGC00015442-24|NCGC00015442-30|NCGC00091349-01|NCGC00091349-02|NCGC00091349-03|NCGC00091349-04|NCGC00091349-05|NCGC00091349-07|NCGC00091349-08|NCGC00254023-01|NCGC00259884-01|NCGC00261221-01|1004-03-1|5-Fluoro-2,4-(1H,3H)-pyrimidinedione|AC-11201|BF166014|HY-90006|NCI60_001652|SRI-10792-04|SRI-10792-05|SRI-10792-06|SRI-10792_07|SRI-10792_08|5-Fluoro-1H-pyrimidine-2,4-dione(5FU)|5-Fluorouracil, >=99% (HPLC), powder|SBI-0050519.P004|5-Fluoro-1H-pyrimidine-2,4-dione(5-FU)|DB-051923|DB-065735|5-Fluoro-1H-pyrimidine-2,4-dione (5-FU)|AM20100252|EU-0100536|FT-0601511|FT-0668745|FT-0695666|FT-0695667|FT-0707652|SW199617-3|5-Fluoro-1H-pyrimidine-2,4-dione(5-FUra)|Fluorouracil, meets USP testing specifications|51F218|C07649|D00584|5-Fluorouracil, Vetec(TM) reagent grade, >=99%|Q238512|W-60379|(5-fluorouracil)5-Fluoro-1H-pyrimidine-2,4-dione|5-Fluoro-1H-pyrimidine-2,4-dione(5-fluoro uracil)|SR-01000075881-1|SR-01000075881-3|SR-01000075881-5|W-202929|5-Fluoro-1H-pyrimidine-2,4-dione (5-Fluorouracil)|BRD-K24844714-001-02-1|Z275128052|5-Fluoro-1H-pyrimidine-2,4-dione(5-fluorouracil)(5-FU)|5-Fluorouracil, certified reference material, TraceCERT(R)|Fluorouracil, British Pharmacopoeia (BP) Reference Standard|Fluorouracil, European Pharmacopoeia (EP) Reference Standard|Fluorouracil, United States Pharmacopeia (USP) Reference Standard|pyrimidine antimetabolite: inhibits nucleic acid replication; tetratogen|Fluorouracil, Pharmaceutical Secondary Standard; Certified Reference Material
+fluorouracil	small molecule	14907381	TCGA|GDSC|CTRPV2	Chemotherapy	Antitumor agent;inhibitor of thymidylate synthase	alkylating related	approved	DB00544	actikerall|carac|efudex|fluoroplex|tolak|5 fluorouracil|fluorouracilum|fluorouracil injection|fluoruracil|fluorouracil--topical|5-Fluorouracil|fluorouracil|51-21-8|5-FU|Fluoroplex|Efudex|Adrucil|Carac|Fluracil|5-fluoropyrimidine-2,4(1H,3H)-dione|Fluoroblastin|Kecimeton|Queroplex|Carzonal|Timazin|Arumel|Efudix|Fluril|5-Fluoracil|Phthoruracil|Fluracilum|Ulup|Fluorouracilum|5-fluoro-1H-pyrimidine-2,4-dione|Fluro Uracil|Ftoruracil|Efurix|Fluri|5-Fluoro-2,4(1H,3H)-pyrimidinedione|5 Fluorouracil|5-Fluoruracil|5-Fluoropyrimidine-2,4-dione|Effluderm (free base)|Fluorouracilo|2,4(1H,3H)-Pyrimidinedione, 5-fluoro-|2,4-Dihydroxy-5-fluoropyrimidine|Uracil, 5-fluoro-|Ro 2-9757|5-fluoropyrimidine-2,4-diol|5-Fluor-2,4-pyrimidindiol|5-fluoro uracil|5-Ftouracyl|NSC 19893|Fluorouracil, 5-|NSC-19893|5-Fluoro-2,4-pyrimidinedione|Fluorouracil (Adrucil)|5-Fluor-2,4-dihydroxypyrimidin|U-8953|5-fluoro-uracil|191047-65-1|Ro-2-9757|UNII-U3P01618RT|FU|CHEMBL185|2,4-Pyrimidinediol, 5-fluoro- (9CI)|MLS000069498|5FU|Fluroblastin|Phtoruracil|CHEBI:46345|Fluoro-uracile|Fluoro-uracilo|U3P01618RT|NSC19893|5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione|5-Faracil|Cinco FU|MFCD00006018|191047-64-0|191115-88-5|URF|NCGC00015442-02|Fluorouracile|Effluderm|SMR000038082|DSSTox_CID_634|Fluorouracile [DCIT]|5-Fluoracil [German]|5-Fluoracyl|5-Fluoruracil [German]|DSSTox_RID_75705|DSSTox_GSID_20634|Fluorouracilum [INN-Latin]|Fluorouracilo [INN-Spanish]|5-Fluoropyrimidin-2,4-diol|2,4-Dioxo-5-fluoropyrimidine|Fluorouracil Cream|CAS-51-21-8|Fluoroplex (TN)|5-Fluor-2,4-pyrimidindiol [Czech]|Adrucil (TN)|CCRIS 2582|Carac (TN)|5-Fluor-2,4-dihydroxypyrimidin [Czech]|HSDB 3228|SR-01000075881|5-Fluor-2,4(1H,3H)-pyrimidindion [Czech]|EINECS 200-085-6|5-Fluor-2,4(1H,3H)-pyrimidindion|Fluorouricil|Fluouracil|inhibits thymilidate synthetase|Tolak|2,4-Dioxo-5-fluoropryimidine|5-fluorourasil|AI3-25297|Fluoro Uracil|5-florouracil|5-fluorouacil|5-FU (TN)|5-Fluracil|1upf|5F-uracil|U 8953|1-fluoro-1h-pyrimidine-2,4-dione|Adrucil (ICN)|Adrucil (Fluorouracil)|Fluorouracil - Adrucil|Fluorouracil [USAN:USP:INN:BAN:JAN]|Spectrum_000841|Opera_ID_134|5-Fluorouracil, 99%|Spectrum2_000076|Spectrum3_000434|Spectrum4_000557|Spectrum5_000718|WLN: T6MVMVJ EF|Lopac-F-6627|F0151|UPCMLD-DP130|EC 200-085-6|F 6627|SCHEMBL3646|5-fluorpyrimidin-2,4-diol|Lopac0_000536|BSPBio_002048|KBioGR_001253|KBioSS_001321|2(1H)-Pyrimidinone, 5-fluoro-4-hydroxy- (9CI)|4(3H)-Pyrimidinone, 5-fluoro-2-hydroxy- (9CI)|MLS002415705|5-fluoro-2,4-Pyrimidinediol|DivK1c_000054|SPECTRUM1500305|SPBio_000291|5 FU|5-fluoro-2,4-dioxo-pyrimidin|5-fluoro-pyrimidine-2,4-diol|GTPL4789|DTXSID2020634|UPCMLD-DP130:001|Fluorouracil (JP17/USP/INN)|HMS500C16|KBio1_000054|KBio2_001321|KBio2_003889|KBio2_006457|KBio3_001268|5-Fluoro-2,3H)-pyrimidinedione|2,4-Pyrimidinedione, 5-fluoro-|NINDS_000054|BCPP000428|HMS1920O18|HMS2090I04|HMS2091F19|HMS3259O03|HMS3261L13|HMS3654K22|HMS3715H03|HMS3865L03|Pharmakon1600-01500305|5-Fluorouracil, analytical standard|BCP02083|2,3H)-Pyrimidinedione, 5-fluoro-|Fluorouracil (5-Fluoracil, 5-FU)|Fluorouracil (5-Fluoracil; 5-FU)|Tox21_110150|Tox21_202335|Tox21_300112|Tox21_500536|BDBM50340677|CCG-39879|DL-399|NSC757036|Ro-29757|s1209|STK297802|STL367375|ZINC38212689|AKOS000119162|AKOS003237897|AKOS008044307|Tox21_110150_1|BCP9000239|CS-0993|DB00544|KS-5129|LP00536|LS40596|MCULE-6338086431|NC00454|NSC-757036|SDCCGSBI-0050519.P005|IDI1_000054|NCGC00015442-01|NCGC00015442-03|NCGC00015442-04|NCGC00015442-05|NCGC00015442-06|NCGC00015442-07|NCGC00015442-08|NCGC00015442-09|NCGC00015442-10|NCGC00015442-11|NCGC00015442-12|NCGC00015442-15|NCGC00015442-16|NCGC00015442-24|NCGC00015442-30|NCGC00091349-01|NCGC00091349-02|NCGC00091349-03|NCGC00091349-04|NCGC00091349-05|NCGC00091349-07|NCGC00091349-08|NCGC00254023-01|NCGC00259884-01|NCGC00261221-01|1004-03-1|5-Fluoro-2,4-(1H,3H)-pyrimidinedione|AC-11201|BF166014|HY-90006|NCI60_001652|SRI-10792-04|SRI-10792-05|SRI-10792-06|SRI-10792_07|SRI-10792_08|5-Fluoro-1H-pyrimidine-2,4-dione(5FU)|5-Fluorouracil, >=99% (HPLC), powder|SBI-0050519.P004|5-Fluoro-1H-pyrimidine-2,4-dione(5-FU)|DB-051923|DB-065735|5-Fluoro-1H-pyrimidine-2,4-dione (5-FU)|AM20100252|EU-0100536|FT-0601511|FT-0668745|FT-0695666|FT-0695667|FT-0707652|SW199617-3|5-Fluoro-1H-pyrimidine-2,4-dione(5-FUra)|Fluorouracil, meets USP testing specifications|51F218|C07649|D00584|5-Fluorouracil, Vetec(TM) reagent grade, >=99%|Q238512|W-60379|(5-fluorouracil)5-Fluoro-1H-pyrimidine-2,4-dione|5-Fluoro-1H-pyrimidine-2,4-dione(5-fluoro uracil)|SR-01000075881-1|SR-01000075881-3|SR-01000075881-5|W-202929|5-Fluoro-1H-pyrimidine-2,4-dione (5-Fluorouracil)|BRD-K24844714-001-02-1|Z275128052|5-Fluoro-1H-pyrimidine-2,4-dione(5-fluorouracil)(5-FU)|5-Fluorouracil, certified reference material, TraceCERT(R)|Fluorouracil, British Pharmacopoeia (BP) Reference Standard|Fluorouracil, European Pharmacopoeia (EP) Reference Standard|Fluorouracil, United States Pharmacopeia (USP) Reference Standard|pyrimidine antimetabolite: inhibits nucleic acid replication; tetratogen|Fluorouracil, Pharmaceutical Secondary Standard; Certified Reference Material
+cyclophosphamide	small molecule	2907	TCGA|GDSC|CTRPV2	Chemotherapy	Cyclophosphamide is a frequently used chemotherapy, often in combination with other chemotherapy types, for the treatment of breast cancer, malignant lymphomas, multiple myeloma, and neuroblastoma	alkylating related	approved	DB00531	cyclophosphane|neosar|cytoxan|cyclophosphamide|cyclophosphamidum|50-18-0|Cyclophosphamid|Cytoxan|Cyclophosphane|Neosar|Cytophosphan|Procytox|Clafen|Endoxan|Cyclophosphan|Cyclostin|Sendoxan|Cyclophosphamidum|Cytophosphane|Claphene|Endoxana|Endoxanal|Genoxal|Endoxan-Asta|Endoxan R|Zyklophosphamid|Mitoxan|(RS)-Cyclophosphamide|Cyclophosphoramide|Cyklofosfamid|Endoxane|Enduxan|Semdoxan|Senduxan|(+-)-Cyclophosphamide|Cyclophosphamide anhydrous|Cyclophosphanum|Rcra waste number U058|Asta B 518|2H-1,3,2-Oxazaphosphorin-2-amine, N,N-bis(2-chloroethyl)tetrahydro-, 2-oxide|NSC 26271|Bis(2-chloroethyl)phosphoramide cyclic propanolamide ester|B 518|CB 4564|Cycloblastin|NCI-C04900|SK 20501|Cyclofosphamide|CHEBI:4027|N,N-Bis(2-chloroethyl)-1,3,2-oxazaphosphinan-2-amine 2-oxide|NSC-26271|(-)-Cyclophosphamide|UNII-6UXW23996M|N,N-Bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide|NSC26271|Cytoxan (TN)|50-18-0 (anhydrous)|2-[Bis(2-chloroethylamino)]-tetrahydro-2H-1,3,2-oxazaphosphorine-2-oxide|Ciclophosphamide|2-(Bis(2-chloroethyl)amino)-2H-1,3,2-oxazaphosphorine 2-oxide|6UXW23996M|N,N-Bis(2-chloroethyl)-N',O-propylenephosphoric acid ester diamide|N,N-Di(2-chloroethyl)-N,O-propylene-phosphoric acid ester diamide|Ciclofosfamide|2H-1,3,2-Oxazaphosphorin-2-amine, N,N-bis(2-chloroethyl)tetrahydro-,2-oxide|Phosphorodiamidic acid, N,N-bis(2-chloroethyl)-N'-(3-hydroxypropyl)-, intramol. ester|Lyophilized Cytoxan|CY|Cyclophosphamide-d4|Ciclofosfamida|D,L-Cyclophosphamide|ASTA|Cyklofosfamid [Czech]|N,N-bis(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine|Ciclophosphamide [INN]|Zyklophosphamid [German]|Cyclophosphamide (anhydrous)|ASTA B518|Ciclofosfamida [INN-Spanish]|Cyclophosphamidum [INN-Latin]|Occupation, cyclophosphamide exposure|CCRIS 188|4-Hydroxy-cyclophosphan-mamophosphatide|Cyclophosphamide (anhydrous form)|Cyclophosphamide (TN)|HSDB 3047|NSC-756711|Cyclophosphamide (INN)|SR-01000075737|NCGC00015209-05|EINECS 200-015-4|RCRA waste no. U058|BRN 0011744|Cyclophosphamide [USP:INN]|2-(Bis(2-chloroethyl)amino)-2H-1,2-oxazaphosphorine 2-oxide|2-[Bis(2-chloroethyl)amino]-2H-1,2-oxazaphosphorine 2-oxide|1-Bis(2-chloroethyl)amino-1-oxo-2-aza-5-oxaphosphoridin|AI3-26198|(Bis(chloro-2-ethyl)amino)-2-tetrahydro-3,5,6-oxazaphosphorine-1,3,2-oxide-2 hydrate|[Bis(chloro-2-ethyl)amino]-2-tetrahydro-3,5,6-oxazaphosphorine-1,3,2-oxide-2 hydrate|173547-45-0|CB-4564|Cyclophosphamide-[d4]|Spectrum_000858|Anhydrous cyclophosphamide|CHEMBL88|Spectrum2_001146|Spectrum3_000370|Spectrum4_000304|Spectrum5_000795|Lopac-C-0768|N,N-Bis(beta-chloroethyl)-N',O-propylenephosphoric acid ester diamide|N,N-Bis(beta-chloroethyl)-N',O-trimethylenephosphoric acid ester diamide|Epitope ID:131782|2-(Bis(2-chloroethyl)amino)tetrahydro-2H-1,3,2-oxazophosphorine 2-oxide|C 0768|N,N-Bis-(beta-chloraethyl)-N',O-propylen-phosphorsaeure-ester-diamid [German]|SCHEMBL4346|(.+/-.)-Cyclophosphamide|Lopac0_000238|BSPBio_002099|KBioGR_000888|KBioSS_001338|DivK1c_000246|SPBio_001071|GTPL7154|SCHEMBL4345553|DTXSID5020364|SCHEMBL10262910|CMSMOCZEIVJLDB-UHFFFAOYSA-|KBio1_000246|KBio2_001338|KBio2_003906|KBio2_006474|KBio3_001319|CYCLOPHOSPAMIDE MONOHYDRATE|WLN: T6MPOTJ BO BN2G2G|NINDS_000246|2-(bis(2-chloroethyl)amino)-1,3,2-oxazaphosphinane 2-oxide|HMS2090A12|HMS3260P17|HMS3715J05|Pharmakon1600-01500213|AMY33449|BCP02139|Tox21_500238|2-CHLORO-5-METHYLBENZANILIDE|BDBM50237604|N,N-bis(2-chloroethyl)-2-oxo-1,3,2lambda5-oxazaphosphinan-2-amine|N,N-Bis-(beta-chloraethyl)-N',O-propylen-phosphorsaeure-ester-diamid|NSC273033|NSC273034|NSC756711|STK177249|2H-1,3,2-Oxazaphosphorine, 2-(bis(2-chloroethyl)amino)tetrahydro-, 2-oxide|AKOS005410738|CS-1425|DB00531|LP00238|MCULE-5327530727|NSC-273033|NSC-273034|SDCCGSBI-0050226.P004|IDI1_000246|N,3,2-oxazaphosphorin-2-amine-2-oxide|N,O-propylen-phosphorsaeure-ester-diamid|NCGC00015209-01|NCGC00015209-02|NCGC00015209-03|NCGC00015209-04|NCGC00015209-06|NCGC00015209-07|NCGC00015209-08|NCGC00015209-09|NCGC00015209-12|NCGC00015209-28|NCGC00091741-02|NCGC00091741-03|NCGC00260923-01|AS-73255|BP-25411|HY-17420|NCI60_002097|N,O-propylenephosphoric acid ester diamide|SBI-0050226.P003|DB-082057|N,O-propylene-phosphoric acid ester diamide|A2343|EU-0100238|FT-0624276|FT-0665387|N,O-trimethylenephosphoric acid ester diamide|EN300-74526|C07888|D07760|AB00053446-09|AB00053446-11|AB00053446-12|AB00053446_13|AB00053446_14|AB00053446_15|005C978|Q408524|W-60377|N,O-propylenephosphoric acid ester amide monohydrate|SR-01000075737-1|SR-01000075737-6|W-105248|BRD-A09722536-002-02-4|UNII-6UXW23996M component CMSMOCZEIVJLDB-CQSZACIVSA-N|2-[bis(2-chloroethyl)amino]-1,3,2??-oxazaphosphinan-2-one|2-[bis(2-chloroethyl)amino]-1,3,2$l^{5}-oxazaphosphinan-2-one|N,N-Bis(2-chloroethyl)-1,3,2-oxazaphosphinan-2-amine 2-oxide #|2-(Di(2-chloroethyl)amino)-2-phospha(V)-tetrahydro-2H-1,3-oxazine-2-one|2-[Bis(2-chloroethyl)amino]tetrahydro-1,3,2-oxazaphosphorin-2-oxide|2H-1,2-Oxazaphosphorine, 2-[bis(2-chloroethyl)amino]tetrahydro-, 2-oxide|2H-1,3,2-Oxazaphosphorine, 2-(bis(2-chloroethyl)amino)tetrahydro-,2-oxide|N,N-Bis(.beta.-chloroethyl)-N',O-trimethylenephosphoric acid ester diamide|N,N-Bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine-2-oxide|N,N-Bis-(.beta.-chloraethyl)-N',O-propylen-phosphorsaeure-ester-diamid|(+/-)-2-[Bis(2-chloroethyl)amino]tetrahydro-2 H-1,3,2-oxazaphosphorine 2-oxide|(R)-2-[Bis(2-chloroethyl)amino]tetrahydro-2H-1,3,2-oxazaphosphorin 2-oxide|(S)-2-[Bis(2-chloroethyl)amino]tetrahydro-2H-1,3,2-oxazaphosphorine 2-oxide|2H-1,2-Oxazaphosphorin-2-amine, N,N-bis(2-chloroethyl)tetrahydro-, 2-oxide|2H-1,2-Oxazaphosphorin-2-amine, N,N-bis(2-chloroethyl)tetrahydro-, 2-oxide, (+)-|2H-1,2-Oxazaphosphorin-2-amine, N,N-bis(2-chloroethyl)tetrahydro-, 2-oxide, (-)-|2H-1,2-Oxazaphosphorine, 2-[bis(2-chloroethyl)amino]tetrahydro-, 2-oxide, monohydrate|N,N-bis(2-chloroethyl)-2-oxo-1-oxa-3-aza-2$l^{5}-phosphacyclohexan-2-amine|Phosphorodiamidic acid,N-bis(2-chloroethyl)-N'-(3-hydroxypropyl)-, intramol. ester
+methotrexate	small molecule	126941	TCGA|GDSC|CTRPV2	Chemotherapy	Folate antagonist,inhibits DFHR	alkylating related	approved	DB00563	metoject|nordimet|otrexup|rasuvo|reditrex|trexall|xatmep
+gemcitabine	small molecule	60750	TCGA|GDSC|CTRPV2	Chemotherapy	inhibitor of DNA synthesis	alkylating related	approved	DB00441	infugem|gemzar|ly188011|ly-188011|nsc-613327|gemcitabine injection|gemcitabine hydrochloride
+docetaxel	small molecule	148124	TCGA|GDSC|CTRPV2	Chemotherapy	Microtubulin disassembly inhibitor	alkylating related	approved	DB01248	taxotere|rp-56976|doxetaxel
+mitomycin	small molecule	5746	TCGA|GDSC|CTRPV2	Chemotherapy	Mitomycin A is a bacterial metabolite originally isolated from S.	alkylating related	approved	DB00305	mitomycin-c|mitomycin c
+etoposide	small molecule	36462	TCGA|GDSC|CTRPV2	Chemotherapy	Topo II inhibitor	alkylating related	approved	DB00773	vepesid|vp-16|etopophos|toposar|vepesid|etopside|vp-16-213|sintopozid|etoposide resolution mixture|etoposidum|nsc-141540
+topotecan	small molecule	60700	TCGA|GDSC|CTRPV2	Chemotherapy	Topoisomerase 1 inhibitor	alkylating related	approved	DB01030	topotecan hydrochloride
+teniposide	small molecule	452548	TCGA|GDSC|CTRPV2	Chemotherapy	Topoisomerase inhibitor	alkylating related	approved	DB00444	
+busulfan	small molecule	2478		Chemotherapy	a DNA alkylating agent	alkylating related	approved	DB01008	busulfan|55-98-1|Myleran|Busulphan|Sulphabutin|Leucosulfan|Myelosan|Busulfex|Citosulfan|Mielucin|Misulban|Mitostan|Myeloleukon|Mylecytan|Sulfabutin|Mablin|Mielevcin|Milecitan|Mielosan|Mileran|butane-1,4-diyl dimethanesulfonate|Buzulfan|1,4-Dimesyloxybutane|1,4-BUTANEDIOL DIMETHANESULFONATE|Myeleukon|Busulfanum|Myelosanum|1,4-Dimethanesulfonoxybutane|Tetramethylene dimethane sulfonate|1,4-Butanediol, dimethanesulfonate|Busulfano|Busulphane|1,4-Dimethylsulfonyloxybutane|1,4-Dimethanesulfonyloxybutane|1,4-Bis(methanesulfonoxy)butane|1,4-Butanediol dimethylsulfonate|1,4-Dimethylsulfonoxybutane|1,4-Bis(methanesulfonyloxy)butane|GT 41|NCI-C01592|4-methylsulfonyloxybutyl methanesulfonate|CB 2041|AN 33501|Methanesulfonic acid, tetramethylene ester|Tetramethylene bis(methanesulfonate)|1,4-Dimethanesulphonyloxybutane|NSC 750|NSC-750|1,4-Butanediol dimethanesulphonate|Tetramethylenester kyseliny methansulfonove|C.B. 2041|X 149|GT 2041|Tetramethylene bis[methanesulfonate]|UNII-G1LN9045DK|NSC750|1,4-Bis[methanesulfonoxy]butane|CHEBI:28901|2041 C. B.|G.T. 41|G1LN9045DK|4-(methanesulfonyloxy)butyl methanesulfonate|MFCD00007562|NCGC00090905-06|Busilvex|Mitosan|DSSTox_CID_910|Busulfanum [INN-Latin]|DSSTox_RID_75857|Busulfano [INN-Spanish]|DSSTox_GSID_20910|Methanesulfonic|C6H14O6S2|CAS-55-98-1|CCRIS 418|SR-01000765405|EINECS 200-250-2|BRN 1791786|Bisulfex|AI3-25012|Busulfan;|Busulfan/Myleran|Busulfan solution|Busulfex IV|Busulfan [USP:INN:BAN:JAN]|HSDB 7605|Tetramethylenester kyseliny methansulfonove [Czech]|Prestwick_989|Tetramethylene {bis[methanesulfonate]}|Spectrum_000092|2041 C.B.|Spectrum2_000067|Spectrum3_000320|Spectrum4_000259|Spectrum5_000928|CHEMBL820|NCIMech_000192|SCHEMBL4373|WLN: WS1&O4OSW1|BSPBio_001920|KBioGR_000698|KBioSS_000512|MLS001076666|Busulfan (Myleran, Busulfex)|DivK1c_000847|SPECTRUM1500152|Busulfan (JP17/USP/INN)|SPBio_000253|GTPL7136|DTXSID3020910|COVZYZSDYWQREU-UHFFFAOYSA-|HMS502K09|KBio1_000847|KBio2_000512|KBio2_003080|KBio2_005648|KBio3_001420|NINDS_000847|HMS1920I07|HMS2091O09|HMS2233H04|HMS3259G15|HMS3370E11|HMS3655A21|HMS3712A20|Pharmakon1600-01500152|AMY33355|HY-B0245|ZINC1530572|Tox21_111038|Tox21_201848|Tox21_300318|1, {4-Bis[methanesulfonoxy]butane}|2041CB|AC-198|BDBM50237623|CCG-35458|NSC755916|s1692|AKOS003614975|Tox21_111038_1|DB01008|KS-5212|MCULE-1840882522|NC00498|NSC-755916|IDI1_000847|NCGC00090905-01|NCGC00090905-02|NCGC00090905-03|NCGC00090905-04|NCGC00090905-05|NCGC00090905-07|NCGC00090905-08|NCGC00090905-09|NCGC00090905-10|NCGC00090905-11|NCGC00090905-12|NCGC00254038-01|NCGC00259397-01|NCI60_041640|O994|SMR000058613|SBI-0051300.P003|FT-0623291|FT-0663910|SW198555-3|C06862|D00248|D88731|4-[(Methylsulfonyl)oxy]butyl methanesulfonate #|AB00051929-10|AB00051929-11|AB00051929_12|AB00051929_14|Busulfan, analytical standard, for drug analysis|Q348922|SR-01000765405-2|SR-01000765405-3|SR-01000765405-7|Busulfan, European Pharmacopoeia (EP) Reference Standard|Z276508890|129316-96-7
+cladribine	small molecule	20279		Chemotherapy	protein inhibitor,Apoptosis inducer in CLL cells	alkylating related	approved	DB00242	
+arsenic trioxide	small molecule	14888		Chemotherapy		alkylating related	approved	DB01169	
+bendamustine hydrochloride	small molecule	77082		Chemotherapy		alkylating related	approved	DB06769	
+daunorubicin	small molecule	30323		Chemotherapy		alkylating related	approved	DB00694	cerubidine|vyxeos|rubidomycin
+daunorubicin hydrochloride	small molecule	133611884		Chemotherapy		alkylating related	approved		
+mercaptopurine	small molecule	667490		Chemotherapy		alkylating related	approved	DB01033	Mercaptopurina|Mercaptopurine|Mercaptopurinum|Mercapurin|PHARMACOLOGY
+procarbazine hydrochloride	small molecule	9703		Chemotherapy		alkylating related	approved	DB01168	Procarbazin|Procarbazina|Procarbazine|Procarbazinum|RO-4-6467
+raltitrexed	small molecule	135400182		Chemotherapy		alkylating related	approved	DB00293	tomudex
+thioguanine	small molecule	2723601		Chemotherapy		alkylating related	approved	DB00352	
+thiotepa	small molecule	5453		Chemotherapy		alkylating related	approved	DB04572	
+tipiracil	small molecule	6323266		Chemotherapy		alkylating related	approved	DB09343	tipiracil hydrochloride|lonsurf
+trifluridine	small molecule	6256		Chemotherapy		alkylating related	approved	DB00432	lonsurf|viroptic
+valrubicin	small molecule	454216		Chemotherapy		alkylating related	approved	DB00385	
+abvd	combination			Chemotherapy		alkylating related			doxorubicin+bleomycin+vinblastine+dacarbazine
+beacopp	combination			Chemotherapy		alkylating related			bleomycin+etoposide+doxorubicin+cyclophosphamide+vincristine+procarbazine+prednisolone
+bep	combination			Chemotherapy		alkylating related			bleomycin+etoposide+platinum
+carboplatin and etoposide	combination			Chemotherapy		alkylating related			carboplatin+etoposide
+chop	combination			Chemotherapy		alkylating related			cyclophosphamide+doxorubicin+vincristine+prednisolone
+cmf	combination			Chemotherapy		alkylating related			cyclophosphamide+methotrexate+fluorouracil
+folfiri	combination	136170999	TCGA	Chemotherapy		alkylating related			folinic acid+fluorouracil+irinotecan
+folfirinox	combination			Chemotherapy		alkylating related			folinic acid+fluorouracil+irinotecan+oxaliplatin
+ice	combination			Chemotherapy		alkylating related			ifosfamide+carboplatin+etoposide
+mvac	combination			Chemotherapy		alkylating related			methotrexate+vinblastine+doxorubicin+cisplatin
+paclitaxel and carboplatin	combination			Chemotherapy		alkylating related			carbotaxol|pc
+pcv	combination			Chemotherapy		alkylating related			procarbazine+lomustine+vincristine
+tac	combination			Chemotherapy		alkylating related			docetaxel+doxorubicin+cyclophosphamide
+tpf	combination			Chemotherapy		alkylating related			docetaxel+cisplatin+fluorouracil 
+vac	combination			Chemotherapy		alkylating related			vincristine+actinomycin d+cyclophosphamide
+xelox	combination	71301229		Chemotherapy		alkylating related			oxaliplatin+capecitabine
+pegaspargase	biotech			Chemotherapy		alkylating related	approved	DB00059	
+2b3-101				Chemotherapy		alkylating related			
+copolang				Chemotherapy		alkylating related			
+epirubicoin				Chemotherapy		alkylating related			
+oligomycin a	small molecule	5281899	CTRPV2	Targeted Therapy	an inhibitor of ATP synthase	ATP related			
+bafilomycin a1	small molecule	11497983	CTRPV2	Targeted Therapy	an inhibitor of vacuolar H ATPase (V-ATPase)	ATP related	experimental	DB06733	barasertib
+pf-573228	small molecule	11612883	CTRPV2	Targeted Therapy	ATP-competitive FAK inhibitor	ATP related			
+nvp-bsk805	small molecule	46398810	CTRPV2	Targeted Therapy	ATP-competitive JAK2 inhibitor	ATP related			
+brefeldin a	small molecule	5287620	CTRPV2	Targeted Therapy	ATPase inhibitor	ATP related	experimental	DB07348	Ascotoxin|Cyanein|Decumbin|Nectrolide|Synergisidin|NSC-107456|NSC-244390|NSC-56310|NSC-89671
+ku 0060648	small molecule	11964036	CTRPV2	Targeted Therapy	Dual DNA-PK/PI3-K inhibitor, ATP-competitive	ATP related			
+lrrk2-in-1	small molecule	46843906	CTRPV2	Targeted Therapy	LRRK2 inhibitor,cell-permeable and ATP competitive	ATP related			
+sgx-523	small molecule	24779724	CTRPV2	Targeted Therapy	MET inibitor, highly selective, ATP-competitive	ATP related	investigational	DB06314	6-{[6-(1-methyl-1H-pyrazol-4-yl)[1,2,4]triazolo[4,3-b]pyridazin-3-yl]sulfanyl}quinoline|SGX 523|SGX-523|SGX523
+blebbistatin	small molecule	3476986	CTRPV2	Targeted Therapy	non-muscle myosin II ATPases inhibitor, cell-permeable	ATP related	experimental		
+dbeq	small molecule	676352	CTRPV2	Targeted Therapy	P97 ATPase inhibitor	ATP related			
+ipa-3	small molecule	521106	GDSC	Targeted Therapy	a highly selective and non-ATP-competitive inhibitor that targets the autoregulatory mechanism of group I Paks	ATP related			
+ro-3306	small molecule	135400873	GDSC	Targeted Therapy	An ATP-competitive, potent CDK1 inhibitor	ATP related			
+thapsigargin	small molecule	446378	GDSC	Targeted Therapy	an inhibitor of the sarcoplasmic/endoplasmic reticulum Ca2+ ATPase pump	ATP related			
+afuresertib	small molecule	46843057	GDSC	Targeted Therapy	ATP-competitive and potent pan-Akt kinase inhibitor 	ATP related	investigational	DB11648	
+pf-562271	small molecule	11713159	GDSC	Targeted Therapy	ATP-competitive FAK inhibitor	ATP related			
+jnj38877605	small molecule	46911863	GDSC	Targeted Therapy	C-Met inhibitor,ATP-competitive	ATP related			
+pha-665752	small molecule	10461815	GDSC	Targeted Therapy	C-Met inhibitor,potent and ATP-competitive	ATP related			
+gw-2580	small molecule	11617559	GDSC	Targeted Therapy	CFMS kinase/CSF-1R inhibitor,selective and ATP-competitive	ATP related			
+sb216763	small molecule	176158	GDSC	Targeted Therapy	GSK-3 inhibitor,ATP-competitive,potent and selective	ATP related			
+wye-125132	small molecule	25260757	GDSC	Targeted Therapy	highly potent, ATP-competitive, and specific inhibitor of mTOR kinase	ATP related			
+cct-018159	small molecule	984170	GDSC	Targeted Therapy	inhibitor of the ATPase activity of Hsp90	ATP related	experimental	DB07594	CCT 018159|CCT-018159|CCT018159
+at13148	small molecule	24905401	GDSC	Targeted Therapy	Multi-AGC kinase inhibitor,ATP-competitive	ATP related			
+vx-702	small molecule	10341154	GDSC	Targeted Therapy	P38α MAPK inhibitor,highly selective and ATP-competitive	ATP related			
+gsk690693	small molecule	16725726	GDSC	Targeted Therapy	Pan-AKT inhibitor,ATP-competitive and potent	ATP related			
+bx-912	small molecule	11754511	GDSC	Targeted Therapy	PDK1 inhibitor,potent and ATP-competitive	ATP related			
+snx-2112	small molecule	24772860	GDSC|CTRPV2	Targeted Therapy	Hsp90 inhibitor,ATP-competitve,potent and selective	ATP related	investigational	DB17055	Benzamide|2-((trans-4-hydroxycyclohexyl)amino)-4-(4,5,6,7-tetrahydro-6,6-dimethyl-4-oxo-3-(trifluoromethyl)-1h-indazol-1-yl)-|PF-04928473|SNX-2112
+azd-1480	small molecule	16659841	GDSC|CTRPV2	Targeted Therapy	JAK2 inhibitor,ATP-competitive and novel	ATP related	investigational	DB12588	azd1480
+azd7762	small molecule	11152667	GDSC|CTRPV2	Targeted Therapy	kinase inhibitor,ATP competitive	ATP related	investigational	DB12242	AZD-7762|AZD7762
+tgx-221	small molecule	9907093	GDSC|CTRPV2	Targeted Therapy	PI3Kβ inhibitor,potent,selective and ATP competitive	ATP related			tgx221
+bi-2536	small molecule	11364421	GDSC|CTRPV2	Targeted Therapy	Plk1 inhibitor,potent and ATP-competitive	ATP related	investigational	DB16107	BI 2536|BI-2536
+brivanib	small molecule	11234052	GDSC|CTRPV2	Targeted Therapy	protein inhibitor,VEGFR-2 inhibitor,ATP-competitive	ATP related	investigational	DB11958	Brivanib|BMS-540215
+copanlisib hydrochloride	small molecule	135565785		Targeted Therapy	protein inhibitor,potent, selective and ATP-competitive pan-class I PI3K inhibitor, with IC50s of 0.5 nM, 0.7 nM, 3.7 nM and 6.4 nM for PI3Kα, PI3Kδ, PI3Kβ and PI3Kγ, respectively. Copanlisib dihydrochloride has more than 2,000-fold selectivity against other lipid and protein kinases, except for mTOR. Copanlisib dihydrochloride has superior antitumor activity.	ATP related	approved		
+larotrectinib	small molecule	46188928		Targeted Therapy	tyrosine kinase inhibitor,An ATP-competitive oral, selective inhibitor	ATP related	approved	DB14723	vitrakvi
+am-580	small molecule	2126	CTRPV2	Targeted Therapy	selective RARα agonist	cellular differentiation			
+wz8040	small molecule	44607531	CTRPV2	Targeted Therapy	EGFR T790M inhibitor,irreversible amd potent	EGFR inhibitor			
+wz4002	small molecule	44607530	CTRPV2	Targeted Therapy	Mutant-selective EGFR inhibitor(L858R,T790M), irreversible and potent	EGFR inhibitor			
+azd3759	small molecule	78209992	GDSC	Targeted Therapy	EGFR inhibitor, oral active	EGFR inhibitor	investigational	DB14795	
+ast-1306	small molecule	24739943	GDSC	Targeted Therapy	EGFR/HER2 inhibitor	EGFR inhibitor			
+apicidin	small molecule	6918328	CTRPV2	Targeted Therapy	A potent HDAC inhibitor	HDAC related			
+tacedinaline	small molecule	2746	CTRPV2	Targeted Therapy	HDAC inhibitor	HDAC related	investigational	DB12291	tacedinalina
+trichostatin a	small molecule	444732	GDSC	Targeted Therapy	A potent histone deacetylase (HDAC) inhibitor and an antifungal antibioti	HDAC related	experimental	DB04297	TSA
+ar-42	small molecule	6918848	GDSC	Targeted Therapy	HDAC inhibitor,novel and potent	HDAC related			
+dacinostat	small molecule	6445533	GDSC	Targeted Therapy	HDAC inhibitor,potent and novel	HDAC related			
+romidepsin	small molecule	5352062	GDSC	Chemotherapy	HDAC1/HDAC2 inhibitor,potent and selective	HDAC related	approved	DB06176	Romidepsin|Romidepsina|Romidepsine|Romidepsinum|FK 228|FK-228|FK228|FR 901228|FR-901228|FR901228|NSC 630176|NSC-630176|NSC630176|
+cudc-101	small molecule	24756910	GDSC	Targeted Therapy	Multitargeted HDAC inhibitor	HDAC related			
+cay10603	small molecule	24951314	GDSC	Targeted Therapy	potent and selective inhibitor of HDAC6	HDAC related			
+Ricolinostat	small molecule	53340666	GDSC	Targeted Therapy	Selective HDAC6 inhibitor	HDAC related	investigational	DB12376	ACY-1215|ACY-63
+panobinostat	small molecule	6918837	GDSC|CTRPV2	Targeted Therapy	HDAC inhibitor	HDAC related		DB06603	lbh-589
+entinostat	small molecule	4261	GDSC|CTRPV2	Targeted Therapy	HDAC1 and HDAC3 inhibitor	HDAC related	investigational	DB11841	Entinostat|Entinostatum|BAY 86-5274|BAY86-5274|MS 27-275|MS 275|MS-27-275|MS-275|MS-275-27|SNDX 275|SNDX-275|
+tubastatin a	small molecule	49850262	GDSC|CTRPV2	Targeted Therapy	HDAC6 inhibitor,potent and selective	HDAC related			
+pci-34051	small molecule	24753719	GDSC|CTRPV2	Targeted Therapy	HDAC8 inhibitor,potent and selective	HDAC related			brd-k88742110
+belinostat	small molecule	6918638	GDSC|CTRPV2	Targeted Therapy	Hydroxamate-type HDAC inhibitor	HDAC related	approved	DB05015	Belinostat|PX-105684|PXD-101|PXD101
+vorinostat	small molecule	5311	TCGA|GDSC|CTRPV2	Chemotherapy	A HDAC inhibitor	HDAC related	approved	DB02546	saha
+silmitasertib	small molecule	24748573	CTRPV2	Targeted Therapy	a potent and selective casein kinase 2 (CK2) inhibitor	kinase inhibitor	investigational	DB15408	Silmitasertib|CX 4945
+az-3146	small molecule	56973724	CTRPV2	Targeted Therapy	AZ3146 is a potent and selective Monopolar Spindle 1 (Mps1) kinase inhibitor	kinase inhibitor			
+pf-4800567 hydrochloride	small molecule	71751553	CTRPV2	Targeted Therapy	casein kinase 1ε inhibitor	kinase inhibitor			
+pluripotin	small molecule	12003241	CTRPV2	Targeted Therapy	dual inhibitor of extracellular signal-regulated kinase 1 (ERK1, MAPK3) and RasGAP	kinase inhibitor			
+pd 153035	small molecule	4705	CTRPV2	Targeted Therapy	EGFR kinase inhibitor	kinase inhibitor			
+compound 1b	small molecule	139129603	CTRPV2	Targeted Therapy	HER family tyrosine kinase inhibitor	kinase inhibitor			
+narciclasine	small molecule	72376	CTRPV2	Targeted Therapy	Modulates the Rho/ROCK/LIM kinase/cofilin pathway	kinase inhibitor			
+kw-2449	small molecule	11427553	CTRPV2	Targeted Therapy	Multikinase inhibitor	kinase inhibitor			
+raf-265	small molecule	11656518	CTRPV2	Targeted Therapy	Multiple intracellular kinases inhibitor	kinase inhibitor	investigational	DB05984	raf265
+necrostatin-1	small molecule	2828334	CTRPV2	Targeted Therapy	Necrostatin-1 is a RIP1 kinase inhibito	kinase inhibitor			
+mln2480	small molecule	25161177	CTRPV2	Targeted Therapy	Pan-Raf kinase inhibitor	kinase inhibitor	investigational		
+ski-ii	small molecule	753704	CTRPV2	Targeted Therapy	Sphingosine kinase(SK) inhibitor	kinase inhibitor			
+Bemcentinib	small molecule	46215462	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational	DB12411	Bemcentinib| BGB-324|BGB324|R428
+fedratinib	small molecule	16722836	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB12500	tg-101348|inrebic
+Glesatinib	small molecule	24901704	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational	DB06302	Glesatinib| MG-90265|MG-90265X|MG90265|MG90265X|MGCD-265|MGCD265
+momelotinib	small molecule	25062766	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational	DB11763	Momelotinib|CYT-387|CYT387
+tamatinib	small molecule	11213558	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	experimental	DB07159	
+tandutinib	small molecule	3038522	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor, FLT3 inhibitor,potent and selective	kinase inhibitor	investigational	DB05465	
+neratinib	small molecule	9915743	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor, HER2/EGFR inhibitor,potent and irreversible	kinase inhibitor	approved	DB11828	HKI-272
+lenvatinib	small molecule	9823820	CTRPV2	Targeted Therapy	tyrosine kinase inhibitor, multitargeted tyrosine kinase inhibitor including VEGF, FGF and SCF receptors,oral multitargeted tyrosine kinase inhibitor including VEGF, FGF and SCF receptors that has been shown to improve the survival rate of patients with radioiodine-refractory thyroid cancer. 	kinase inhibitor	approved	DB09078	Lenvatinib|E 7080|E-7080|E7080|ER-203492-00
+canertinib	small molecule	156414	CTRPV2|GDSC	Targeted Therapy	tyrosine kinase inhibitor,HER family tyrosine kinase inhibitor	kinase inhibitor	investigational	DB05424	ci-1033|Canertinib|PD-183805
+as601245	small molecule	10109823	GDSC	Targeted Therapy	A c-Jun NH2-terminal protein kinase inhibitor	kinase inhibitor			
+a-484954	small molecule	14998470	GDSC	Targeted Therapy	A eukaryotic elongation factor-2 (eEF-2) kinase inhibitor	kinase inhibitor			
+fmk	small molecule	644243	GDSC	Targeted Therapy	a potent, highly specific and irreversible ribosomal s6 kinase (RSK) inhibitor	kinase inhibitor			
+akt inhibitor viii	small molecule	135398501	GDSC	Targeted Therapy	Allosteric Akt kinase inhibitor	kinase inhibitor			
+ve821	small molecule	51000408	GDSC	Targeted Therapy	ATR kinase inhibitor	kinase inhibitor			
+zm447439	small molecule	9914412	GDSC	Targeted Therapy	Aurora Kinase inhibitor	kinase inhibitor			
+azd1208	small molecule	58423153	GDSC	Targeted Therapy	AZD1208 is a potent, highly selective, and orally available Pim kinase inhibitor	kinase inhibitor			
+lfm-a13	small molecule	54676905	GDSC	Targeted Therapy	BTK-specific tyrosine kinase inhibitor	kinase inhibitor			
+kb nb 142-70	small molecule	45258277	GDSC	Targeted Therapy	Inhibitor of protein kinase D,selective	kinase inhibitor			
+whi-p97	small molecule	3796	GDSC	Targeted Therapy	Janus kinase (JAK)-3 inhibitor	kinase inhibitor			
+ribociclib	small molecule	44631912	GDSC	Targeted Therapy	kinase inhibitor	kinase inhibitor	approved	DB11730	Ribociclib|LEE-011|LEE-011A|LEE011|LEE011A
+seliciclib	small molecule	160355	GDSC	Targeted Therapy	kinase inhibitor, CDK inhibitor,potent and selective	kinase inhibitor	investigational	DB06195	R-roscovitine|Seliciclib|AL-39256|CYC-202|CYC202|NSC-701554
+a-83-01	small molecule	16218924	GDSC	Targeted Therapy	potent inhibitor of TGF-β type I receptor ALK5 kinase	kinase inhibitor			
+sl0101	small molecule	10459196	GDSC	Targeted Therapy	ribosomal S6 kinase inhibitor	kinase inhibitor			
+cmk	small molecule	16663089	GDSC	Targeted Therapy	RSK2 kinase inhibitor	kinase inhibitor			
+(5z)-7-oxozeaenol	small molecule	9863776	GDSC	Targeted Therapy	TAK1 mitogen-activated protein kinase kinase kinase (MAPKKK) inhibitor	kinase inhibitor			
+alectinib	small molecule	49806720	GDSC	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB11363	alecensa|alecensaro
+entospletinib	small molecule	59473233	GDSC	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational	DB12121	Entospletinib|GS 9973|GS-9973|GS9973
+mirdametinib	small molecule	9826528	GDSC	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational	DB07101	pd0325901
+osimertinib	small molecule	71496458	GDSC	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB09330	tagrisso
+amuvatinib	small molecule	11282283	GDSC	Targeted Therapy	tyrosine kinase inhibitor,	kinase inhibitor			
+pelitinib	small molecule	6445562	GDSC	Targeted Therapy	tyrosine kinase inhibitor, a potent, and irreversible inhibitor of epidermal growth factor receptor (EGF-R) tyrosine kinase that inhibits the activity of EGF-R	kinase inhibitor			
+lestaurtinib	small molecule	126565	GDSC	Targeted Therapy	tyrosine kinase inhibitor, JAK2/FLT3/TrkA inhibitor	kinase inhibitor	investigational	DB06469	Lestaurtinib|A-154475|A-154475.0|CEP-701|KT-555|KT-5555|KT5555|SP-924|SP924|SPM-924
+refametinib	small molecule	44182295	GDSC	Targeted Therapy	tyrosine kinase inhibitor, MEK 1/ MEK 2 inhibitor	kinase inhibitor			
+ulixertinib	small molecule	11719003	GDSC	Targeted Therapy	tyrosine kinase inhibitor, reversible ERK1/2 inhibitor	kinase inhibitor	investigational	DB13930	bvd-523|bvd-erk
+ponatinib	small molecule	24826799	GDSC	Targeted Therapy	tyrosine kinase inhibitor,A pan-BCR-ABL inhibitor,multi-kinase inhibitor	kinase inhibitor	approved	DB08901	Ponatini|Ponatinibum|AP 24534|AP-24534|AP24534
+sapitinib	small molecule	11488320	GDSC	Targeted Therapy	tyrosine kinase inhibitor,ErbB inhibitor	kinase inhibitor	investigational	DB12183	Sapitinib|AZD-8931|AZD8931
+dacomitinib	small molecule	11511120	GDSC	Targeted Therapy	tyrosine kinase inhibitor,HER inhibitor	kinase inhibitor	approved	DB11963	vizimpro|pf-00299804
+savolitinib	small molecule	68289010	GDSC	Targeted Therapy	tyrosine kinase inhibitor,highly potent and selective c-Met inhibitor with an IC50 of 5 nM.	kinase inhibitor	investigational	DB12048	Volitinib|AZD6094|HMPL-504
+ly2109761	small molecule	11655119	GDSC	Targeted Therapy	TβRI/II kinase inhibitor	kinase inhibitor			
+wee1 inhibitor	small molecule	10384072	GDSC	Targeted Therapy	Wee1 kinase inhibito	kinase inhibitor			
+ku-60019	small molecule	15953870	GDSC|CTRPV2	Targeted Therapy	ATM kinase inhibitor,potent and selective	kinase inhibitor			
+plx-4720	small molecule	24180719	GDSC|CTRPV2	Targeted Therapy	BRAF kinase inhibitor	kinase inhibitor	experimental	DB06999	N-[3-(5-chloro-1H-pyrrolo[2,3-b]pyridine-3-carbonyl)-2,4-difluorophenyl]propane-1-sulfonamide|PLX 4720|PLX-4720|PLX4720
+bms-345541	small molecule	9813758	GDSC|CTRPV2	Targeted Therapy	cell permeable inhibitor of the IκB kinases IKKα and IKKβ (IC50s = 4 and 0.3 μM).	kinase inhibitor			
+dinaciclib	small molecule	46926350	GDSC|CTRPV2	Targeted Therapy	kinase inhibitor	kinase inhibitor	investigational	DB12021	Dinaciclib|SCH 727965|SCH-727965
+staurosporine	small molecule	44259	GDSC|CTRPV2	Immunotherapy	kinase inhibitor	kinase inhibitor	experimental	DB02010	
+mk-1775	small molecule	24856436	GDSC|CTRPV2	Targeted Therapy	potent and selective small-molecule inhibitor of Wee1 kinase with an IC50 value of 5.2 nM.	kinase inhibitor	investigational	DB11740	AZD 1775|AZD-1775|AZD1775|MK 1775|MK-1775|MK1775
+tozasertib	small molecule	5494449	GDSC|CTRPV2	Targeted Therapy	protein inhibitor,Aurora kinase inhibitor	kinase inhibitor			vx-680
+dactolisib	small molecule	11977753	GDSC|CTRPV2	Targeted Therapy	protein inhibitor,novel therapeutic agent that targets 2 molecules in thePI3K/Akt/mTOR (phosphatidylinositol 3-kinase) pathway, PI3K and mTOR.	kinase inhibitor	investigational	DB11651	dactolisib|BEZ-235|BEZ235|nvp-bez235
+crizotinib	small molecule	11626560	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB08865	
+ibrutinib	small molecule	24821094	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB09053	Ibrutinib|CRA-032765|PC-32765|PCI 32765|PCI-32765|PCI-32765-00
+quizartinib	small molecule	24889392	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational	DB12874	Quizartinib|Quizartinibum|AC 010220|AC 220|AC-010220|AC-220|AC010220|AC220
+ruxolitinib	small molecule	25126798	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,A JAK inhibitor	kinase inhibitor	approved	DB08877	
+bosutinib	small molecule	5328940	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,A potent inhibitor of Src and Abl kinases	kinase inhibitor	approved	DB06616	
+tucatinib	small molecule	51039094	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,An inhibitor of HER2	kinase inhibitor	approved	DB11652	tukysa
+nilotinib	small molecule	644241	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,Bcr-Abl kinase inhibitor,selective	kinase inhibitor		DB04868	
+linsitinib	small molecule	11640390	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,IGF1R/IR inhibitor,potent and novel	kinase inhibitor	investigational	DB06075	Linsitinib|ASP-7487|OSI-906|OSI-906AA
+afatinib	small molecule	10184653	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,Irreversible EGFR/HER2 inhibitor	kinase inhibitor	approved	DB08916	afatinib dimaleate
+masitinib	small molecule	10074640	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,potent and active	kinase inhibitor	vet approved	DB11526	Masitinib|AB 1010|AB-1010|AB1010
+saracatinib	small molecule	10302451	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,Src/Abl inhibitor,potent and selective	kinase inhibitor	investigational	DB11805	Saracatinib|AZD-0530|AZD0530
+foretinib	small molecule	42642645	GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,VEGF and HGF receptor inhibitor	kinase inhibitor	investigational	DB12307	Foretinib|EXEL-2880|GSK-089|GSK-1363089|GSK-1363089G|GSK089|GSK1363089|GSK1363089G|XL 880|XL-880|XL880
+everolimus	small molecule	6442177	TCGA	Immunotherapy	orally active derivative of rapamycin that inhibits the Ser/Thr kinase, mTOR (mammalian target of rapamycin).	kinase inhibitor	approved	DB01590	afinitor|votubia|zortress
+gleevec	small molecule	123596	TCGA	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB00619	Imatinib|Imatinibum|CGP-57148B
+mirdametinib	small molecule	9826528	TCGA	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational	DB07101	pd0325901
+ralimetinib	small molecule	11539025	TCGA	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor		DB11787	
+vemurafenib	small molecule	42611257	TCGA|CTRPV2	Targeted Therapy	protein inhibitor,A BRAF kinase inhibitor	kinase inhibitor	approved	DB08881	Vemurafenib|Vémurafénib|Vemurafenibum|PLX-4032|PLX4032|RG-7204|RG7204|RO-51-85426|RO-5185426|RO5185426
+mitoxantrone	small molecule	51082	TCGA|GDSC	Chemotherapy	a topoisomerase II inhibitor; also inhibits protein kinase C (PKC) activit	kinase inhibitor	approved	DB01204	mitoxantrone hydrochloride|70476-82-3|Mitoxantrone dihydrochloride|Mitoxantrone HCl|Novantrone|Novantron|Mitoxantrone 2HCl|Mitoxantrone (dihydrochloride)|Mitozantrone|MITOXANTHRONE HYDROCHLORIDE|CL-232315|mitozantrone dihydrochloride|UNII-U6USW86RD0|DHAD|1,4-Dihydroxy-5,8-bis((2-((2-hydroxyethyl)amino)ethyl)amino)anthracene-9,10-dione dihydrochloride|NSC-301739|U6USW86RD0|CL 232,315|CHEBI:50727|1,4-dihydroxy-5,8-bis-[2-(2-hydroxyethylamino)ethylamino]anthraquinone 2hcl|MFCD00242943|1,4-dihydroxy-5,8-bis[2-(2-hydroxyethylamino)ethylamino]anthracene-9,10-dione;dihydrochloride|Immunex|70476-82-3 (HCl)|DSSTox_CID_25173|DSSTox_RID_80722|DSSTox_GSID_45173|Bisantrone|1,4-Dihydroxy-5,8-bis[[2-[(2-hydroxyethyl)amino]ethyl]amino]-9,10-anthracenedione dihydrochloride|CCRIS 2592|HSDB 6543|NCGC00015693-02|Mitozantrone hydrochloride|EINECS 274-619-1|CAS-70476-82-3|NSC 301739|Onkotrone|Ralenova|Eslep|C22H30Cl2N4O6|CL 232315|Mitoxantron HCl|SR-01000076001|mitoxanthrone hcl|Mitoxantrone Dihcl|Novantron (TN)|1,4-dihydroxy-5,8-bis({2-[(2-hydroxyethyl)amino]ethyl}amino)anthracene-9,10-dione dihydrochloride|Prestwick_571|1,4-dihydroxy-5,8-bis[2-(2-hydroxyethylamino)ethylamino]anthracene-9,10-dione hydrochloride|Mitoxantrone hydrochloride [USAN:USP:JAN]|SCHEMBL3928|1,4-Dihydroxy-5,8-bis((2-((2-hydroxyethyl)amino)ethyl)amino)anthraquinone dihydrochloride|SPECTRUM1503278|MITOXANTRONEHYDROCHLORIDE|CHEMBL1417019|DTXSID0045173|HMS1569M11|HMS1922O21|BCP23424|dhaq dihydrochloride 65271-80-9|Tox21_110197|Tox21_500779|CCG-39938|HY-13502A|s2485|Mitoxantrone hydrochloride (JAN/USP)|AKOS015895228|Tox21_110197_1|AC-1591|BCP9000932|LP00779|1,4-Dihydroxy-5,8-bis-[2-(2-hydroxyethylamino)ethylamino]anthraquinone dihydrochloride|NCGC00015693-09|NCGC00094116-01|NCGC00094116-02|NCGC00094116-03|NCGC00094116-04|NCGC00261464-01|9,10-Anthracenedione, 1,4-dihydroxy-5,8-bis((2-((2-hydroxyethyl)amino)ethyl)amino)-, dihydrochloride|AS-13162|H492|BCP0726000265|DB-055419|EU-0100779|SW196745-5|Mitoxantrone dihydrochloride, >=97% (HPLC)|D02166|M 6545|271M809|SR-01000076001-1|SR-01000076001-8|W-104553|Q27122209|Z2569867923|Mitoxantrone dihydrochloride pound>>Mitozantrone dihydrochloride|Mitoxantrone hydrochloride, European Pharmacopoeia (EP) Reference Standard|1,4-dihydroxy-5,8-bis-[[2-(2-hydroxyethylamino)ethyl]amino]-anthraquinone dihydrochloride|1,4-Dihydroxy-5,8-bis-[2-(2-hydroxy-ethylamino)-ethylamino]-anthraquinone dihydrochloride|1,4-dihydroxy-5,8-bis-[2-(2-hydroxyethylamino)ethylamino]anthraquinonedihydrochloride|1,4-dihydroxy-5,8-bis[[2-(2-hydroxyethylamino)ethyl]amino]anthraquinone dihydrochloride|Mitoxantrone hydrochloride, United States Pharmacopeia (USP) Reference Standard|1,4-dihydroxy-5,8-bis({2-[(2-hydroxyethyl)amino]ethyl}amino)-9,10-dihydroanthracene-9,10-dione dihydrochloride|1,4-dihydroxy-5,8-bis(2-(2-hydroxyethylamino)ethylamino)anthracene-9,10-dione dihydrochloride
+palbociclib	small molecule	5330286	TCGA|GDSC	Targeted Therapy	kinase inhibitor	kinase inhibitor	approved	DB09073	pd 0332991
+vismodegib	small molecule	24776445	TCGA|GDSC	Targeted Therapy	protein inhibitor,Aurora A Kinase inhibitor, Potent and selective	kinase inhibitor	approved	DB08828	gdc-0449|vismodegib
+alisertib	small molecule	24771867	TCGA|GDSC|CTRPV2	Targeted Therapy	protein inhibitor,Aurora A Kinase inhibitor, Potent and selective	kinase inhibitor	investigational	DB05220	mln8237
+sorafenib	small molecule	216239	TCGA|GDSC|CTRPV2	Targeted Therapy	protein inhibitor,Raf kinases and tyrosine kinases inhibitor	kinase inhibitor	approved	DB00398	nexavar|naxavar|sarafenib|sorafenib tosylate
+tyrosine kinase inhibitor	small molecule	24956525	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	investigational		
+selumetinib	small molecule	10127622	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,A MEK inhibitor	kinase inhibitor	approved	DB11689	Selumetinib|Sélumétinib|Selumetinibum|ARRY 142886|ARRY-142886|ARRY142886|AZD 6244|AZD-6244|AZD6244
+erlotinib	small molecule	176870	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,EGFR tyrosine kinase inhibitor	kinase inhibitor	approved	DB00530	erlotinib hydrochloride|cp-358,774|ro-508231|r-1415|rg-1415|cp-35877401|cp-358774|osi-774|tarceva
+tarceva	small molecule	176871	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,EGFR tyrosine kinase inhibitor	kinase inhibitor	approved	DB00530	erlotinib hydrochloride|cp-358,774|ro-508231|r-1415|rg-1415|cp-35877401|cp-358774|osi-774
+lapatinib	small molecule	208908	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,EGFR/HER2 inhibitor,potent,selective and reversible	kinase inhibitor		DB01259	
+trametinib	small molecule	11707110	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,MEK1 and MEK2 inhibitor, potent and selective	kinase inhibitor	approved	DB08911	
+imatinib	small molecule	5291	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,Protein-tyrosine kinase inhibitor	kinase inhibitor	approved	DB00619	imatinib mesylate
+sunitinib	small molecule	5329102	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,RTK inhibitor	kinase inhibitor	approved	DB01268	sunitinib malate|sutent
+gefitinib	small molecule	123631	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,Selective EGFR inhibitor	kinase inhibitor	approved	DB00317	
+dasatinib	small molecule	3062316	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,Src and BCR-Abl inhibitor	kinase inhibitor	approved	DB01254	
+axitinib	small molecule	6450551	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,VEGFR1/ c-Kit inhibitor	kinase inhibitor	approved	DB06626	inlyta|nsc-757441|ag-13736|ag-013736
+cabozantinib	small molecule	25102847	TCGA|GDSC|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,VEGFR2/Met/Ret/Kit/FLT//AXL inhibitor	kinase inhibitor	approved	DB08875	
+abemaciclib	small molecule	46220502		Targeted Therapy	kinase inhibitor	kinase inhibitor	approved	DB12001	
+acalabrutinib	small molecule	71226662		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB11703	
+binimetinib	small molecule	10288191		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB11967	Binimetinib|ARRY-162|ARRY-438162|MEK-162|MEK162|NVP-MEK162
+capmatinib	small molecule	25145656		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB11791	tabrecta
+capmatinib hydrochloride	small molecule	122201352		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved		
+ceritinib	small molecule	57379345		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB09063	Céritinib|Ceritinib|Ceritinibum|LDK 378|LDK-378|LDK378|NVP-LDK378-NX
+cobimetinib fumarate	small molecule	71491931		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB05239	Cobimetinib|GDC 0973|GDC-0973|GDC0973|RG 7420|RG-7420|RG7420|RO5514041|XL 518|XL-518|XL51
+fedratinib hydrochloride	small molecule	67517580		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB12500	Fedratinib|SAR 302503|SAR-302503|SAR302503|TG-101348|TG101348
+gilteritinib fumarate	small molecule	76970819		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved		
+infigratinib	small molecule	53235510		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB11886	truseltiq
+infigratinib phosphate	small molecule	56669626		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB11886	Infigratinib|BGJ 398|BGJ-398|BGJ398|NVP-BGJ398|WHO 10032
+larotrectinib sulfate	small molecule	67330085		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved		
+mobocertinib	small molecule	118607832		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB16390	exkivity
+neratinib maleate	small molecule	67307512		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved		
+osimertinib mesylate	small molecule	78357807		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved		
+pacritinib citrate	small molecule	46216795		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor			
+pralsetinib	small molecule	129073603		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB15822	Pralsetinib|BLU 667|BLU-123244|BLU-667|BLU123244|WHO 11004|X-581238|X581238
+tepotinib	small molecule	25171648		Targeted Therapy	tyrosine kinase inhibitor	kinase inhibitor	approved	DB15133	tepmetko|tepotinib hydrochloride
+brigatinib	small molecule	68165256		Targeted Therapy	tyrosine kinase inhibitor,A highly potent and selective ALK inhibitor	kinase inhibitor	approved	DB12267	Brigatinib|AP-26113|AP26113
+erdafitinib	small molecule	67462786		Targeted Therapy	tyrosine kinase inhibitor,A pan-FGFR tyrosine kinase inhibitor	kinase inhibitor	approved	DB12147	Erdafitinib|JNJ-42756493
+zanubrutinib	small molecule	135565884		Targeted Therapy	tyrosine kinase inhibitor,A potent and covalent BTK inhibitor	kinase inhibitor	approved	DB15035	brukinsa
+selpercatinib	small molecule	134436906		Targeted Therapy	tyrosine kinase inhibitor,A RET kinase inhibitor	kinase inhibitor	approved	DB15685	retevmo
+trametinib dimethyl sulfoxide	small molecule	50992434		Targeted Therapy	tyrosine kinase inhibitor,Allosteric MEK1/MEK2 kinase inhibitor	kinase inhibitor	approved	DB08911	
+pemigatinib	small molecule	86705695		Targeted Therapy	tyrosine kinase inhibitor,An FGFR inhibitor	kinase inhibitor	approved	DB15102	INCB054828|Pemigatinib
+ponatinib hydrochloride	small molecule	46908927		Targeted Therapy	tyrosine kinase inhibitor,An inhibitor of native and mutant Bcr-Abl	kinase inhibitor	approved	DB08901	
+lenvatinib mesylate	small molecule	11237762		Targeted Therapy	tyrosine kinase inhibitor,An inhibitor of VEGFR2 and VEGFR3	kinase inhibitor	approved		
+pexidartinib	small molecule	25151352		Targeted Therapy	tyrosine kinase inhibitor,an orally inhibitor with potent selective activity against the CSF1 receptor (IC50=20nM), KIT (IC50 =10nM) and FMS-like tyrosine kinase 3.	kinase inhibitor	approved	DB12978	turalio|plx3397
+lapatinib ditosylate	small molecule	9941095		Targeted Therapy	tyrosine kinase inhibitor,EGFR/HER2 inhibitor, potent and selective	kinase inhibitor	approved	DB01259	
+pacritinib	small molecule	46216796		Targeted Therapy	tyrosine kinase inhibitor,FMS-like tyrosine kinase 3 (FLT3) and Janus kinase 2 (JAK2) are tyrosine kinases that mediate cytokine signaling and are frequently mutated in cancers, particularly acute myeloid leukemia.	kinase inhibitor	approved	DB11697	vonjo
+ruxolitinib phosphate	small molecule	25127112		Targeted Therapy	tyrosine kinase inhibitor,JAK1/JAK2 inhibitor	kinase inhibitor	approved	DB08877	
+lorlatinib	small molecule	71731823		Targeted Therapy	tyrosine kinase inhibitor,MEK 1/ MEK 2 inhibitor	kinase inhibitor	approved	DB12130	Lorlatinib|PF 06463922|PF-06463922
+cabozantinib-s-malate	small molecule	25102846		Targeted Therapy	tyrosine kinase inhibitor,MET andVEGF receptor2 inhibitor	kinase inhibitor	approved		
+mobocertinib succinate	small molecule	146026179		Targeted Therapy	tyrosine kinase inhibitor,orally active and irreversible EGFR/HER2 inhibitor. Mobocertinib succinate potently inhibits oncogenic variants containing activating EGFRex20ins mutations with selectivity over wild-type EGFR. Mobocertinib succinate can be used in NSCLC research.	kinase inhibitor	approved		
+entrectinib	small molecule	25141092		Targeted Therapy	tyrosine kinase inhibitor,Orally active inhibitor of ALK kinase	kinase inhibitor	approved		
+ripretinib	small molecule	71584930		Targeted Therapy	tyrosine kinase inhibitor,orally bioavailable, selective KIT and PDGFRA switch-control inhibitor. Ripretinib (DCC-2618) targets and binds to both wild-type and mutant forms of KIT and PDGFRA specifically at their switch pocket binding sites, thereby preventing the switch from inactive to active conformations of these kinases and inactivating their wild-type and mutant forms. Ripretinib (DCC-2618) also inhibits multiple other kinase targets, such as FLT3 and KDR (or VEGFR-2). DCC-2618 exerts antineoplastic effect and induces apoptosis.	kinase inhibitor	approved	DB14840	qinlock
+avapritinib	small molecule	118023034		Targeted Therapy	tyrosine kinase inhibitor,potent and selective exon 17 mutant KIT kinase inhibitor with IC50 of 0.27 nM for KIT D816V.	kinase inhibitor	approved	DB15233	
+gilteritinib	small molecule	49803313		Targeted Therapy	tyrosine kinase inhibitor,relapsed and /or refractory AML (R/R AML).	kinase inhibitor	approved	DB12141	xospata
+cobimetinib	small molecule	16222096		Targeted Therapy	tyrosine kinase inhibitor,Selective MEK inhibitor	kinase inhibitor	approved	DB05239	GDC 0973|GDC-0973|GDC0973|RG 7420|RG-7420|RG7420|RO5514041|XL 518|XL-518|XL518|PHARMACOLOGY|
+parbendazole	small molecule	26596	CTRPV2	Targeted Therapy	a potent inhibitor of microtubule assembly	microtubule related			
+epothilone b	small molecule	448013	GDSC	Targeted Therapy	Microtubule stabilizing macrolide	microtubule related	experimental	DB03010	Epo B|Epothilone B|patupilona|Patupilone|EPO 906|EPO 906A|EPO-906|EPO-906A
+ixabepilone	small molecule	6445540	TCGA	Chemotherapy	Epothilone B analog;microtubule-stabilizing agent	microtubule related	approved	DB04845	bms-247550-01|ixempra|nsc-747973|azaepothilone b|bms 247550-01|bms-247550
+cabazitaxel	small molecule	9854073	TCGA	Chemotherapy	Microtubule associated inhibitor	microtubule related	approved	DB06772	jevtana
+vincristine	small molecule	5978	TCGA|GDSC|CTRPV2	Chemotherapy	Microtubule disrupter,antitumor agent	microtubule related	approved	DB00541	vincristine sulfate|marqibo|vincasar
+paclitaxel	small molecule	36314	TCGA	Chemotherapy	tricyclic diterpenoid compound	Mitotic inhibitor	approved	DB01229	abraxane|taxol|nab-paclitaxel
+ku-0063794	small molecule	16736978	CTRPV2	Targeted Therapy	MTORC1 and mTORC2 inhibitor	mtor related			
+torin2	small molecule	51358113	GDSC	Targeted Therapy	a potent, selective and orally available inhibitor of mTOR	mtor related			torin 2
+ru-ski 43	small molecule	46006640	GDSC	Targeted Therapy	RU-SKI 43 is a potent and selective Hedgehog acyltransferase (Hhat) inhibitor. RU-SKI 43 reduces Gli-1 activation through Smoothened-independent non-canonical signaling and decreases Akt and mTOR pathway activity	mtor related			
+azd8055	small molecule	25262965	GDSC|CTRPV2	Targeted Therapy	MTOR inhibitor	mtor related	investigational	DB12774	AZD 8055|AZD8055
+osi-027	small molecule	135398516	GDSC|CTRPV2	Targeted Therapy	MTORC1/ mTORC2 inhibitor	mtor related	investigational	DB12387	
+temsirolimus	small molecule	6918289	TCGA	Immunotherapy	A MTOR inhibitor	mtor related	approved	DB06287	torisel
+ridaforolimus	small molecule	11520894	TCGA	Immunotherapy	MTOR inhibitor	mtor related	investigational	DB06233	ap-23573
+hli 373	small molecule	135403620	CTRPV2	Targeted Therapy	an inhibitor of Hdm2 ubiquitin ligase (E3). Hdm2 ubiquitin ligase(E3) is a major regulator of p53 by promoting its ubiquitylation and proteasomal degradation	p53 related			
+pifithrin-mu	small molecule	327653	CTRPV2	Targeted Therapy	Inhibitor of p53 binding and anti-apoptotic	p53 related			
+nutlin-3	small molecule	216345	CTRPV2	Targeted Therapy	MDM2 antagonist,inhibits MDM2-p53 interaction	p53 related	investigational	DB17039	2-piperazinone|4-(((4r,5s)-4,5-bis(4-chlorophenyl)-4|5-dihydro-2-(4-methoxy-2-(1-methylethoxy)phenyl)-1h-imidazol-1-yl)carbonyl)-|rel|NSC-732664
+rita	small molecule	374536	CTRPV2	Targeted Therapy	Mdm2-p53 interaction and p53 ubiquitination blocking	p53 related			
+pifithrin-alpha	small molecule	9929138	CTRPV2	Targeted Therapy	p53 inhibitor	p53 related			
+sch-529074	small molecule	12001922	CTRPV2	Targeted Therapy	restores mutant p53 activity	p53 related			
+nsc319726	small molecule	5351307	GDSC	Targeted Therapy	reactivator of mutant p53	p53 related			
+tenovin-6	small molecule	24772043	GDSC	Targeted Therapy	SIRT inhibitor and p53 activator	p53 related			
+serdemetan	small molecule	11609586	GDSC|CTRPV2	Targeted Therapy	P53 activator, blocking Mdm2-p53 interaction	p53 related	investigational	DB12027	Serdemetan|JNJ-26854165
+prima-1met	small molecule	52918385	GDSC|CTRPV2	Targeted Therapy	restore mutant p53 activity, induce BAX and PUMA	p53 related			prima-1-met
+mira-1	small molecule	227681	GDSC|CTRPV2	Targeted Therapy	Restorer of wild-type p53 conformation/cellular function	p53 related			nsc19630
+xl765	small molecule	49867926	CTRPV2	Targeted Therapy	mTOR/PI3K inhibitor	pi3k inhibitor	investigational	DB05241	
+tg-100-115	small molecule	10427712	CTRPV2	Targeted Therapy	PI3Kγ/PI3Kδ inhibitor	pi3k inhibitor	investigational	DB05552	
+myricetin	small molecule	5281672	CTRPV2	Targeted Therapy	prevents cancer cell death via apoptosis via regulation of PI3K/Akt and MAPK signalling pathways[	pi3k inhibitor	experimental	DB02375	
+pilaralisib	small molecule	56599306	GDSC	Targeted Therapy	A class I PI3K inhibitor	pi3k inhibitor	investigational	DB11772	Pilaralisib| SAR-245408|SAR245408|XL-147|XL147
+gne-317	small molecule	70676303	GDSC	Targeted Therapy	brain-penetrant PI3K inhibitor	pi3k inhibitor			
+azd8835	small molecule	76685059	GDSC	Targeted Therapy	PI3Kα and PI3Kδ inhibitor	pi3k inhibitor			
+amg-319	small molecule	68947304	GDSC	Targeted Therapy	PI3Kδ inhibitor	pi3k inhibitor	investigational	DB16879	amg319
+azd8186	small molecule	52913813	GDSC	Targeted Therapy	Potent and selective inhibitor of PI3Kβ and PI3Kδ	pi3k inhibitor	investigational	DB15029	AZD8186
+voxtalisib	small molecule	16123056	GDSC	Targeted Therapy	protein inhibitor, A dual inhibitor of PI3K and mTORC	pi3k inhibitor			
+czc24832	small molecule	42623951	GDSC	Targeted Therapy	Selective PI3K-γ inhibitor	pi3k inhibitor			
+pi-103	small molecule	9884685	GDSC|CTRPV2	Targeted Therapy	Class I PI3K, mTOR and DNA-PK inhibitor	pi3k inhibitor	investigational	DB17046	Phenol, 3-(4-(4-morpholinyl)pyrido(3',2':4,5)furo(3,2-d)pyrimidin-2-yl)-|PI-103|PIK-103
+azd6482	small molecule	44137675	GDSC|CTRPV2	Targeted Therapy	PI3Kβ inhibitor,potent and selective	pi3k inhibitor	investigational	DB14980	AZD6482
+pik-93	small molecule	6852167	GDSC|CTRPV2	Targeted Therapy	PI3Kγ/PI4KIIIβ/PI3Kα inhibitor	pi3k inhibitor			
+ic-87114	small molecule	9908783	GDSC|CTRPV2	Targeted Therapy	PI3Kδ inhibitor	pi3k inhibitor			
+rigosertib	small molecule	6918736	TCGA|CTRPV2	Targeted Therapy	protein inhibitor,PI3K/PLK1 inhibitor	pi3k inhibitor	investigational	DB12146	Rigosertib|ON 01910|ON-01910
+sb-525334	small molecule	9967941	CTRPV2	Targeted Therapy	(TGF-beta1) receptor inhibitor	receptor related			
+gw-405833	small molecule	9911463	CTRPV2	Targeted Therapy	a partial agonist of the cannabinoid CB2 receptor	receptor related			
+trifluoperazine	small molecule	5566	CTRPV2	Targeted Therapy	antipsychotic agent, acts by blocking central dopamine receptors	receptor related	approved	DB00831	
+prochlorperazine	small molecule	4917	CTRPV2	Targeted Therapy	Dopamine (D2) receptor antagonist	receptor related	approved	DB00433	compazine|compro
+fgin-1-27	small molecule	132496	CTRPV2	Targeted Therapy	high affinity agonist of the translocator protein (TSPO,peripheral benzodiazepine receptor)	receptor related			
+cimetidine	small molecule	2756	CTRPV2	Targeted Therapy	histamine 2 receptor blocker	receptor related	approved	DB00501	tagamet
+hyperforin	small molecule	441298	CTRPV2	Targeted Therapy	Hyperforin is a natural activator of the steroid X receptor and inhibitor of several cytochrome P450 (CYP) isoforms	receptor related	approved	DB01892	
+importazole	small molecule	2949965	CTRPV2	Targeted Therapy	inhibitor of the nuclear transport receptor importin-β.	receptor related			
+sb-431542	small molecule	4521392	CTRPV2	Targeted Therapy	inhibitor of the type I TGF-β receptor	receptor related			
+cd-1530	small molecule	9952709	CTRPV2	Targeted Therapy	RAR receptor agonist	receptor related			
+fingolimod	small molecule	107970	CTRPV2	Immunotherapy	S1P receptors agonist	receptor related	approved	DB08868	
+sch-79797	small molecule	4259181	CTRPV2	Targeted Therapy	SCH79797 is a highly potent, selective nonpeptide protease activated receptor 1 (PAR1) antagonist.	receptor related			
+istradefylline	small molecule	5311037	CTRPV2	Targeted Therapy	Selective A2A receptor antagonist	receptor related	approved	DB11757	Istradefylline|Kw 6002|KW-6002
+azd3514	small molecule	46893585	GDSC	Targeted Therapy	Androgen receptor downregulator	receptor related			
+zibotentan	small molecule	9910224	GDSC	Targeted Therapy	ETA receptor antagonist	receptor related			
+t0901317	small molecule	447912	GDSC	Targeted Therapy	Liver X receptor agonist,potent and selective	receptor related			
+fty-720	small molecule	107969	GDSC	Targeted Therapy	S1P receptors agonist	receptor related			
+tt-232	small molecule	6918265	GDSC	Targeted Therapy	sst1/sst4 somatostatin receptors agonist	receptor related	investigational	DB12088	tln-232
+bexarotene	small molecule	82146	GDSC|CTRPV2	Targeted Therapy	Retinoid Receptor agonist	receptor related	approved	DB00307	targretin
+degarelix	small molecule	16136245	TCGA	Hormone Therapy	competitive and reversible gonadotropin-releasing hormone receptor (GnRHR/LHRHR) antagonist.	receptor related	approved	DB06699	fe200486 (as acetate salt)
+erythropoietin	biotech	11751549	TCGA	Targeted Therapy	Peptide mimetic of erythropoietin (EPO). EMP-20 has been described to be an excellent starting point for the design of compounds with erythropoietin (EPO) mimetic activity and can serve as a minimal model for an EPO receptor antagonist.	receptor related	approved	DB00016	
+leuprolide acetate	small molecule	657180	TCGA	Hormone Therapy	Pituitary GnRH receptors agonist	receptor related	approved		lupron
+ondansetron	small molecule	4595	TCGA	Targeted Therapy	serotonin 5-HT3 receptor antagonist	receptor related	approved	DB00904	zofran|zuplenz
+bicalutamide	small molecule	2375	TCGA|GDSC	Hormone Therapy	Androgen receptor antagonist	receptor related	approved	DB01128	nsc-759816|casodex|ici-176334|ici176,334-1|ici 176,334
+fulvestrant	small molecule	104741	TCGA|GDSC|CTRPV2	Hormone Therapy	Estrogen receptor antagonist,high affinity	receptor related	approved	DB00947	faslodex
+cediranib	small molecule	9933475	TCGA|GDSC|CTRPV2	Targeted Therapy	protein inhibitor,VEGFR inhibitor receptor,highly potent	receptor related	investigational	DB04849	AZD-2171|AZD2171
+tretinoin	small molecule	444795	TCGA|GDSC|CTRPV2	Targeted Therapy	vitamin A-derived, non-peptidic, small lipophilic molecule that acts as ligand for nuclear RA receptors (RARs), converting them from transcriptional repressors to activators.	receptor related	approved	DB00755	cis-retinoic acid
+ki8751	small molecule	11317348	CTRPV2	Targeted Therapy	VEGFR-2 inhibitor,potent and selective	VEGF related			
+linifanib	small molecule	11485656	GDSC|CTRPV2	Targeted Therapy	protein inhibitor,VEGFR/PDGFR inhibitor	VEGF related	investigational	DB06080	ABT-869|Linifanib|A-741439|RG-3635
+nintedanib	small molecule	135423438	GDSC|CTRPV2	Targeted Therapy	protein inhibitor,VEGFR/PDGFR/FGFR inhibitor	VEGF related	approved	DB09079	BIBF 1120|BIBF-1120BIBF1120
+regorafenib	small molecule	11167602	TCGA	Targeted Therapy	protein inhibitor,Inhibitor of VEGFR/PDGFR/FGFR/mutant kit/RET/Raf-1	VEGF related	approved	DB08896	
+vandetanib	small molecule	3081361	TCGA|CTRPV2	Targeted Therapy	protein inhibitor,VEGFR2/EGFR antagonist	VEGF related	approved	DB05294	zactima
+tivozanib	small molecule	9911830	TCGA|GDSC|CTRPV2	Targeted Therapy	protein inhibitor,VEGFR inhibitor,potent and selective	VEGF related	approved	DB11800	tivozanib hydrochloride|fotivda
+pazopanib	small molecule	10113978	TCGA|GDSC|CTRPV2	Targeted Therapy	protein inhibitor,VEGFR/PDGFR/FGFR inhibitor	VEGF related	approved	DB06589	pazopanib hydrochloride
+etomoxir	small molecule	9840324	CTRPV2	Targeted Therapy	(CPT)-1 and DGAT activity inhibitor				
+erastin	small molecule	11214940	CTRPV2	Targeted Therapy	a cell-permeable ferroptosis activatior and antitumor agent				
+phloretin	small molecule	4788	CTRPV2	Targeted Therapy	A dihydrochalcone found in apple		experimental	DB07810	2',4,4',6'-Tetrahydroxy-Dihydrochalcone|2',4,4',6'-Tetrahydroxydihydrochalcone|Dihydronaringenin|Phloretol|FEMA NO. 4390
+ml210	small molecule	49766530	CTRPV2	Targeted Therapy	A GPX4 inhibitor				
+methylstat	small molecule	53392493	CTRPV2	Targeted Therapy	a methyl ester prodrug of a Jumonji C domain-containing histone demethylase (JMJD) inhibitor 				
+gsk2636771	small molecule	56949517	CTRPV2	Targeted Therapy	a p110β isoform-specific inhibitor of PIK3 		investigational		GSK2636771
+sildenafil	small molecule	135398744	CTRPV2	Targeted Therapy	a phosphodiesterase-5 (PDE-5) inhibitors		approved	DB00203	fevatio|viagra|vizarsin
+mk-0752	small molecule	9803433	CTRPV2	Targeted Therapy	a potent gamma secretase inhibito		investigational	DB12852	MK-0752
+sitagliptin	small molecule	4369359	CTRPV2	Targeted Therapy	a potent inhibitor of DPP4 		approved	DB01261	
+fumonisin b1	small molecule	2733487	CTRPV2	Targeted Therapy	A PP5/PP2Cα/PP2A/PP1γ2/PP2B inhibitor				
+prl-3 inhibitor i	small molecule	73707371	CTRPV2	Targeted Therapy	A PRL-3 inhibitor				
+bms-270394	small molecule	445455	CTRPV2	Targeted Therapy	A RARγ agonist		experimental	DB07031	BMS 270394|BMS 961|BMS-270394|BMS270394
+pf-750	small molecule	25154868	CTRPV2	Targeted Therapy	a selective and covalent fatty acid amide hydrolase (FAAH) inhibitor,				
+o-6-benzylguanine	small molecule	4578	CTRPV2	Targeted Therapy	a suicide inhibitor of the enzyme O6-alkylguanine-DNA alkyltransferase which leads to interruption of DNA repair		investigational	DB11919	o(6)-benzylguanine|o6-benzylguanine
+px-12	small molecule	219104	CTRPV2	Targeted Therapy	A Trx-1 inhibitor		investigational	DB05448	px 12|px-12
+curcumin	small molecule	969516	CTRPV2	Targeted Therapy	A tyrosinase inhibitor		approved	DB11672	
+purmorphamine	small molecule	5284329	CTRPV2	Targeted Therapy	activates the Hedgehog (Hh) signaling pathway				
+ci-976	small molecule	122327	CTRPV2	Targeted Therapy	acyl-coenzyme A:cholesterol acyltransferase (ACAT) inhibitor				
+ml031	small molecule	2113511	CTRPV2	Targeted Therapy	agonist of S1P2				
+stemregenin 1	small molecule	46199207	CTRPV2	Targeted Therapy	AhR antagonist				
+pd318088	small molecule	10231331	CTRPV2	Targeted Therapy	Allosteric MEK1/2 inhibitor, non-ATP competitive				
+tosedostat	small molecule	15547703	CTRPV2	Targeted Therapy	Aminopeptidase inhibitor		investigational	DB11781	
+cil56	small molecule	654092	CTRPV2	Targeted Therapy	An inducer of non-apoptotic cell death; YAP1 (YES related protein 1) targeted inhibitor				
+cytochalasin b	small molecule	5311281	CTRPV2	Targeted Therapy	An inhibitor of actin polymerization		experimental	DB16766	Cytochalasin-B|Phomin
+pyrazolanthrone	small molecule	8515	CTRPV2	Targeted Therapy	an inhibitor of c-Jun N-terminal kinases (JNKs)		experimental	DB01782	1,9-Pyrazoloanthrone|Anthra(1,9-cd)pyrazol-6(2H)-one|Pyrazoleanthrone|C.I. 70300|CI 70300|NSC-75890|SP-600125|SP600125|
+fqi-1	small molecule	656346	CTRPV2	Targeted Therapy	An inhibitor of Late SV40 Factor				
+incyclinide	small molecule	54678924	CTRPV2	Targeted Therapy	An inhibitor of MMP-13, MMP-1, and MMP-8		investigational	DB11647	Incyclinide|CMT 3|CMT-3|COL 3|COL-3
+salermide	small molecule	135659046	CTRPV2	Targeted Therapy	an inhibitor of Sirt1 and Sirt2; can cause strong cancer-specific apoptotic cell death				
+ml334 diastereomer	small molecule	56840728	CTRPV2	Targeted Therapy	An inhibitor of the Nrf2-Keap1 protein-protein interaction				
+ml311	small molecule	3384730	CTRPV2	Targeted Therapy	An Mcl-1 inhibitor				
+betulinic acid	small molecule	64971	CTRPV2	Targeted Therapy	Anti-HIV and antitumor compound,pentacyclic triterpenoid		approved	DB12480	beta-betulinic acid|ALS-357|NSC-113090
+itraconazole	small molecule	55283	CTRPV2	Targeted Therapy	antifungal agent		approved	DB01167	
+qs-11	small molecule	66890843	CTRPV2	Targeted Therapy	ARFGAP1 inhibitor,Wnt/beta-catenin pathway modulator				
+etp-46464	small molecule	72199292	CTRPV2	Targeted Therapy	ATR inhibitor,potent and selective				
+gdc-0879	small molecule	11717001	CTRPV2	Targeted Therapy	B-Raf inhibitor,potent and selective				
+prima-1	small molecule	322968	CTRPV2	Targeted Therapy	BAX inhibitor				
+tw-37	small molecule	11455910	CTRPV2	Targeted Therapy	Bcl-2 inhibitor, inhibits Bcl-2,Bcl-XL and Mcl-1				tw 37
+ko-143	small molecule	10322450	CTRPV2	Targeted Therapy	BCRP inhibitor				
+ly-2183240	small molecule	11507802	CTRPV2	Targeted Therapy	Blocker of anandamide uptake,highly potent		investigational	DB17035	1h-tetrazole-1-carboxamide, 5-((1,1'-biphenyl)-4-ylmethyl)-n,n-dimethyl-|5-(biphenyl-4-ylmethyl)-n,n-dimethyl-1h-tetrazole-1-carboxamide|LY-2183240
+cay10594	small molecule	25105715	CTRPV2	Targeted Therapy	CAY10594 is an effective inhibitor of phospholipase D2 (PLD2) 				
+nsc95397	small molecule	262093	CTRPV2	Targeted Therapy	Cdc25 dual specificity phosphatases inhibitor				
+sns-032	small molecule	3025986	CTRPV2	Targeted Therapy	CDK inhibitor		investigational	DB05969	
+nvp-231	small molecule	4096211	CTRPV2	Targeted Therapy	CerK inhibitor				
+kpt185	small molecule	53495165	CTRPV2	Targeted Therapy	CRM1 inhibitor,selective and irrversible				
+sb-225002	small molecule	3854666	CTRPV2	Targeted Therapy	CXCR2 antagonist, potent and selective				
+darinaparsin	small molecule	11683005	CTRPV2	Targeted Therapy	decreases the tumor-initiating subpopulation in DU145 and PC3 cells and halts the cell cycle in the G2/M phase		investigational	DB06179	ZIO-101
+wp1130	small molecule	11222830	CTRPV2	Targeted Therapy	Deubiquitinase (DUB) inhibitor, Cell permeable				
+isoevodiamine	small molecule	151289	CTRPV2	Targeted Therapy	dietary supplement				
+zebularine	small molecule	100016	CTRPV2	Targeted Therapy	DNA methylation inhibitor		experimental	DB03068	
+rg-108	small molecule	702558	CTRPV2	Targeted Therapy	DNA methyltransferase inhibitor				
+manumycin a	small molecule	6438330	CTRPV2	Targeted Therapy	farnesyltransferase inhibitor				
+cerulenin	small molecule	5282054	CTRPV2	Targeted Therapy	fatty acid synthase (FAS) inhibitor		approved	DB01034	
+bix-01294	small molecule	25150857	CTRPV2	Targeted Therapy	G9a and GLP inhibitor				
+gant-61	small molecule	421610	CTRPV2	Targeted Therapy	GLI antagonist		investigational		
+pdmp	small molecule	3129	CTRPV2	Targeted Therapy	glucosylceramide synthase inhibitor				
+stf-31	small molecule	984333	CTRPV2	Targeted Therapy	GLUT1 and NAMPT inhibitor		experimental	DB16761	STF 31
+tigecycline	small molecule	54686904	CTRPV2	Targeted Therapy	Glycylcycline antibiotic		approved	DB00560	tygacil
+lovastatin	small molecule	53232	CTRPV2	Targeted Therapy	HMG-CoA reductase inhibitor		approved	DB00227	advicor|altoprev
+simvastatin	small molecule	54454	CTRPV2	Targeted Therapy	HMG-CoA reductase inhibitor		approved	DB00641	
+fluvastatin	small molecule	446155	CTRPV2	Targeted Therapy	HMGCR inhibitor		approved	DB01095	fluvastatina|fluvastatine|fluvastatinum
+ver-155008	small molecule	25195348	CTRPV2	Targeted Therapy	HSP 70 inhibitor,adenosine-derived				
+sid 26681509	small molecule	16725315	CTRPV2	Targeted Therapy	Human cathepsin L inhibitor,potent and reversible				
+bardoxolone methyl	small molecule	400769	CTRPV2	Targeted Therapy	IKK inhibitor, potent antioxidant inflammation modulator		investigational	DB05983	Bardoxolone methyl|NSC-713200|RTA 402|RTA-402
+pf-184	small molecule	57519531	CTRPV2	Targeted Therapy	IKKβ inhibitor				
+triptolide	small molecule	107985	CTRPV2	Targeted Therapy	IL-2/MMP-3/MMP7/MMP19 inhibitor		investigational	DB12025	
+myriocin	small molecule	6438394	CTRPV2	Targeted Therapy	immunosuppressant and specific serine palmitoyltransferase inhibitor				
+indisulam	small molecule	216468	CTRPV2	Targeted Therapy	Indisulam (E 7070) is a carbonic anhydrase inhibitor with anticancer activity.		investigational	DB06370	Indisulam|E-7070|E7070
+c6-ceramide	small molecule	5702613	CTRPV2	Targeted Therapy	inhibition of the mitochondrial respiratory chain				
+bax channel blocker	small molecule	2729026	CTRPV2	Targeted Therapy	Inhibitor of Bax-mediated mitochondrial cytochrome c release				
+ceranib-2	small molecule	122388991	CTRPV2	Targeted Therapy	inhibitor of cellular ceramidase activity				
+kh-cb19	small molecule	44237094	CTRPV2	Targeted Therapy	inhibitor of CLK1 and CLK4, potent and selective				
+cid-5951923	small molecule	5951923	CTRPV2	Targeted Therapy	inhibitor of Krüppel-like factor 5 (KLF5) transcription factor				
+ml239	small molecule	135999136	CTRPV2	Targeted Therapy	inhibitor of the breast cancer stem cells				
+jw-74	small molecule	16013152	CTRPV2	Targeted Therapy	inhibitor of the catalytic PARP domain of TNKS1/2				
+pyr-41	small molecule	5335621	CTRPV2	Targeted Therapy	inhibitor of Ubiquitin-Activating Enzyme (E1)				
+isoliquiritigenin	small molecule	638278	CTRPV2	Targeted Therapy	inhibits aldose reductase		experimental	DB03285	E)-1-(2,4-Dihydroxy-phenyl)-3-(4-hydroxy-phenyl)-propenone|(E)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)-2-propene-1-one|2',4,4'-Trihydroxychalcone|4,2',4'-Trihydroxychalcone|trans-2',4,4'-trihydroxychalcone|GU 17|GU-17
+nsc632839	small molecule	5351362	CTRPV2	Targeted Therapy	Isopeptidases inhibitor				
+leptomycin b	small molecule	6917907	CTRPV2	Targeted Therapy	Leptomycin B is a potent inhibitor of the nuclear export of proteins.				
+cbb-1007	small molecule	72199289	CTRPV2	Targeted Therapy	LSD1 inhibitor,potent and selective				
+tacrolimus	small molecule	445643	CTRPV2	Immunotherapy	Macrolide calcineurin inhibitor,immunosuppressant		approved	DB00864	
+mdivi-1	small molecule	3825829	CTRPV2	Targeted Therapy	Mdivi-1 (Mitochondrial division inhibitor 1) inhibits traumatic brain injury (TBI)-induced dynamin-related protein 1(Drp1) up-regulation, autophagy dysfunction and mitophagy activation				
+sj-172550	small molecule	1317464	CTRPV2	Targeted Therapy	MDMX inhibitor				
+ciclopirox	small molecule	2749	CTRPV2	Targeted Therapy	membrane transfer system inhibitor		approved	DB01188	ciclodan|cnl8|loprox|penlac|stieprox
+mi-2	small molecule	54765302	CTRPV2	Targeted Therapy	Menin-MLL Inhibitor				
+lomeguatrib	small molecule	3025944	CTRPV2	Targeted Therapy	MGMT inhibitor		investigational		
+ml162	small molecule	3689413	CTRPV2	Targeted Therapy	ML-162 is a GPX4 inhibitor 				
+chs-828	small molecule	148198	CTRPV2	Targeted Therapy	NAMPT inhibitor		investigational	DB12980	gmx-1778
+necrostatin-7	small molecule	1239801	CTRPV2	Targeted Therapy	Necrostatin-7 (Nec-7) is a necroptosis inhibitor 				
+bms-195614	small molecule	445091	CTRPV2	Targeted Therapy	Neutral RARα selective antagonist				
+spautin-1	small molecule	51037431	CTRPV2	Targeted Therapy	Novel autophagy inhibitor				
+a-804598	small molecule	53325874	CTRPV2	Targeted Therapy	P2X7 antagonist,potent and selective				
+skepinone-l	small molecule	45279963	CTRPV2	Targeted Therapy	P38-MAPK inhibitor,potent and selective				
+gossypol	small molecule	3503	CTRPV2	Targeted Therapy	PAF inhibitor		investigational	DB13044	
+pf-3758309	small molecule	25227462	CTRPV2	Targeted Therapy	PAK4 inhibitor		investigational	DB11775	PF-3758309
+vorapaxar	small molecule	10077130	CTRPV2	Targeted Therapy	PAR-1 antagonist,		approved	DB09030	Vorapaxar|MFCD16038876|ZCE93644N2
+jw-55	small molecule	2946601	CTRPV2	Targeted Therapy	PARP domain inhibitor				
+azd7545	small molecule	16741245	CTRPV2	Targeted Therapy	PDHK inhibitor,potent and selective				
+pitstop2	small molecule	136227331	CTRPV2	Targeted Therapy	Pitstop2 is an inhibitor of the interaction between the clathrin terminal domain and amphiphysin				
+sotrastaurin	small molecule	10296883	CTRPV2	Targeted Therapy	PKC inhibitor		investigational	DB12369	Sotrastaurin|Sotrastaurina|Sotrastaurinum|AEB071
+gsk461364	small molecule	15983966	CTRPV2	Targeted Therapy	Plk1 inhibitor				
+abiraterone	small molecule	132971	CTRPV2	Hormone Therapy	Potent CYP17 inhibitor		approved	DB05812	abiraterone acetate|nsc-741232|cb 7598|cb-7598
+birinapant	small molecule	49836020	CTRPV2	Targeted Therapy	Potent XIAP/cIAP1 antagonist		investigational	DB11782	
+necrosulfonamide	small molecule	1566236	CTRPV2	Targeted Therapy	Potent, selective necroptosis inhibitor				
+ixazomib	small molecule	25183872	CTRPV2	Targeted Therapy	proteasome inhibitor		approved	DB09570	mln2238|ninlaro|mln2238
+Galunisertib	small molecule	10090485	CTRPV2	Targeted Therapy	protein inhibitor		investigational	DB11911	Galunisertib|Galunisertibum|LY 2157299|LY-2157299|LY2157299
+onalespib	small molecule	11955716	CTRPV2	Targeted Therapy	protein inhibitor		investigational	DB06306	at13387
+sonidegib	small molecule	24775005	CTRPV2	Targeted Therapy	protein inhibitor		approved	DB09143	erismodegib
+valdecoxib	small molecule	119607	CTRPV2	Targeted Therapy	protein inhibitor,COX-2 inhibitor		investigational	DB00580	
+ch-55	small molecule	6184667	CTRPV2	Targeted Therapy	RAR agonist				
+le-135	small molecule	10410894	CTRPV2	Targeted Therapy	RARβ antagonist				
+ac55649	small molecule	1714884	CTRPV2	Targeted Therapy	RARβ2 agonist, potent and selective				
+cd-437	small molecule	135411	CTRPV2	Targeted Therapy	RARγ-selective agonist,potent and cell-permeable				
+gsk4112	small molecule	50905018	CTRPV2	Targeted Therapy	Rev-Erbα agonist				
+sr8278	small molecule	53393127	CTRPV2	Targeted Therapy	Rev-Erbα antagonist				
+sb-743921	small molecule	49867937	CTRPV2	Targeted Therapy	SB743921		investigational	DB05546	SB-743921|SB-743921 free base
+nsc23766	small molecule	409805	CTRPV2	Targeted Therapy	Selective inhibitor of Rac1-GEF interaction.				
+marinopyrrole a	small molecule	24797083	CTRPV2	Targeted Therapy	Selective Mcl-1 inhibitor				
+jw-480	small molecule	57330099	CTRPV2	Targeted Therapy	serine hydrolase KIAA1363 (AADACL1) inhibitor				
+srt-1720	small molecule	24180125	CTRPV2	Targeted Therapy	SRT 1720 is a selective activator of human SIRT1 and shows less potent activities for SIRT2 and SIRT3		investigational	DB17057	2-quinoxalinecarboxamide, n-(2-(3-(1-piperazinylmethyl)imidazo(2,1-b)thiazol-6-yl)phenyl)-|N-(2-(3-(1-piperazinylmethyl)imidazo(2,1-b)thiazol-6-yl)phenyl)-2-quinoxalinecarboxamide|SRT1720|SRT1720
+nsc 74859	small molecule	252682	CTRPV2	Targeted Therapy	Stat3 inhibitor				
+niclosamide	small molecule	4477	CTRPV2	Targeted Therapy	STAT3 signaling pathway inhibitor		approved	DB06803	
+cucurbitacin i	small molecule	5281321	CTRPV2	Targeted Therapy	STAT3/JAK2 signaling inhibitor				
+ym-155	small molecule	11178236	CTRPV2	Targeted Therapy	Survivin suppressant,apoptosis inhibitor				
+hc-067047	small molecule	2742550	CTRPV2	Targeted Therapy	TRPV4 antagonist				
+chm-1	small molecule	375860	CTRPV2	Targeted Therapy	Tubulin polymerization inhibitor				
+hbx-41108	small molecule	16065773	CTRPV2	Targeted Therapy	Ubiquitin-specific protease (USP) 7 inhibitor				
+unc0321	small molecule	46901937	CTRPV2	Targeted Therapy	UNC0321 is a potent and selective histone methyltransferase G9a inhibitor				
+epigallocatechin-3-monogallate	small molecule	65064	CTRPV2		used as dietary suppliment				
+iu1	small molecule	675434	CTRPV2	Targeted Therapy	Usp14 inhibitor				
+smer-3	small molecule	568763	CTRPV2	Targeted Therapy	yeast SCF family E3 ubiquitin ligase (SCFMet30) inhibitor				
+ro4929097	small molecule	49867930	CTRPV2	Targeted Therapy	γ secretase inhibitor				
+semagacestat	small molecule	9843750	CTRPV2	Targeted Therapy	γ-secretase inhibitor		investigational	DB12463	Semagacestat|LY-450139|LY450139|px-866
+16-beta-bromoandrosterone	small molecule	16219061	CTRPV2				approved		
+1s 3r-rsl-3	small molecule	1750826	CTRPV2						
+3-cl-ahpc	small molecule	9866186	CTRPV2						
+aa-cocf3	small molecule	5280436	CTRPV2						
+austocystin d	small molecule	5470400	CTRPV2						
+avicin d	small molecule	44566777	CTRPV2						
+avrainvillamide	small molecule	11719255	CTRPV2						
+b02	small molecule	5738263	CTRPV2						
+bec	small molecule	9877608	CTRPV2						
+brd-a94377914	small molecule	124202324	CTRPV2						
+brd-k01737880	small molecule	44484893	CTRPV2						
+brd-k02251932	small molecule	44486219	CTRPV2						
+brd-k02492147	small molecule	54639126	CTRPV2						
+brd-k04800985	small molecule	44487872	CTRPV2						
+brd-k09344309	small molecule	44493952	CTRPV2						
+brd-k09587429	small molecule	54639701	CTRPV2						
+brd-k13999467	small molecule	54618164	CTRPV2						
+brd-k14844214	small molecule	54618305	CTRPV2						
+brd-k16147474	small molecule	44498493	CTRPV2						
+brd-k17060750	small molecule	54639665	CTRPV2						
+brd-k19103580	small molecule	44491742	CTRPV2						
+brd-k20514654	small molecule	73707440	CTRPV2						
+brd-k26531177	small molecule	613753	CTRPV2						
+brd-k27224038	small molecule	54618359	CTRPV2						
+brd-k27986637	small molecule	44505237	CTRPV2						
+brd-k29086754	small molecule	44494015	CTRPV2						
+brd-k30019337	small molecule	44486093	CTRPV2						
+brd-k33199242	small molecule	44495899	CTRPV2						
+brd-k33514849	small molecule	54618795	CTRPV2						
+brd-k34485477	small molecule	44484440	CTRPV2						
+brd-k37390332	small molecule	44620216	CTRPV2						
+brd-k41334119	small molecule	44490293	CTRPV2						
+brd-k41597374	small molecule	54619267	CTRPV2						
+brd-k44224150	small molecule	44487330	CTRPV2						
+brd-k45681478	small molecule	1716436	CTRPV2						
+brd-k48334597	small molecule	44489367	CTRPV2						
+brd-k48477130	small molecule	1474550	CTRPV2						
+brd-k49290616	small molecule	54638372	CTRPV2						
+brd-k50799972	small molecule	54649381	CTRPV2						
+brd-k52037352	small molecule	44493528	CTRPV2						
+brd-k55116708	small molecule	44507138	CTRPV2						
+brd-k55473186	small molecule	73707442	CTRPV2						
+brd-k63431240	small molecule	54618771	CTRPV2						
+brd-k64610608	small molecule	44489675	CTRPV2						
+brd-k66453893	small molecule	44202524	CTRPV2						
+brd-k70511574	small molecule	9888590	CTRPV2						
+brd-k71935468	small molecule	6729245	CTRPV2						
+brd-k75293299	small molecule	44489127	CTRPV2						
+brd-k84807411	small molecule	44494148	CTRPV2						
+brd-k86535717	small molecule	54649500	CTRPV2						
+brd-k90370028	small molecule	70680404	CTRPV2						
+brd-k92856060	small molecule	2945648	CTRPV2						
+brd-k94991378	small molecule	731789	CTRPV2						
+brd-k96431673	small molecule	54639024	CTRPV2						
+brd-k96970199	small molecule	54619238	CTRPV2						
+brd-k99006945	small molecule	71576742	CTRPV2						
+brd4132	small molecule	7326481	CTRPV2						
+brd6340	small molecule	1641662	CTRPV2						
+brd9647	small molecule	1242560	CTRPV2						
+brd9876	small molecule	613000	CTRPV2						
+cay10618	small molecule	44819697	CTRPV2						
+cct036477	small molecule	3634881	CTRPV2						
+cyanoquinoline 11	small molecule	17759555	CTRPV2						
+debio-1143	small molecule	25022340	CTRPV2				investigational	DB16305	at-406|ap inhibitor at-406|xevinapant
+elocalcitol	small molecule	11396600	CTRPV2				investigational	DB06194	BXL-628|BXL628|RO-26-9228
+gsk-j4	small molecule	71729975	CTRPV2						
+isonicotinohydroxamic acid	small molecule	72967	CTRPV2						
+jq-1	small molecule	46907787	CTRPV2					DB17021	jq1
+khs101	small molecule	71304818	CTRPV2						
+l-685458	small molecule	5479543	CTRPV2						
+merck60	small molecule	6918878	CTRPV2						
+mi-1	small molecule	1323703	CTRPV2						
+ml006	small molecule	2842253	CTRPV2						
+ml029	small molecule	2858523	CTRPV2						
+ml050	small molecule	3136844	CTRPV2						
+ml083	small molecule	650361	CTRPV2						
+ml203	small molecule	44543605	CTRPV2						
+ml258	small molecule	53301938	CTRPV2						
+ml312	small molecule	44487061	CTRPV2						
+n9-isopropylolomoucine	small molecule	6610355	CTRPV2				withdrawn		
+nakiterpiosin	small molecule	11966550	CTRPV2						
+neopeltolide	small molecule	16115403	CTRPV2						
+neuronal differentiation inducer iii	small molecule	19582717	CTRPV2						
+npc-26	small molecule	3465537	CTRPV2						
+nsc30930	small molecule	81146	CTRPV2						
+nsc48300	small molecule	241158	CTRPV2						
+obatoclax	small molecule	11404337	CTRPV2				investigational	DB12191	Obatoclax|GX 015-070|GX 05-070|GX15-070
+omacetaxine mepesuccinate	small molecule	285033	CTRPV2				approved	DB04865	synribo
+ouabain	small molecule	439501	CTRPV2				approved	DB01092	
+palmostatin b	small molecule	45100481	CTRPV2						
+pandacostat	small molecule	135928012	CTRPV2						
+sz4ta2	small molecule	11657048	CTRPV2						
+Tirbanibulin	small molecule	23635314	CTRPV2				approved	DB06137	Tirbanibulin|KX-01|KX-2-391|KX-2391|KX2-391
+triazolothiadiazine	small molecule	67156097	CTRPV2						
+turofexorate isopropyl	small molecule	10026128	CTRPV2				investigational	DB12719	way-362450
+vu0155056	small molecule	25105704	CTRPV2						
+doramapimod	small molecule	156422	CTRPV2|GDSC	Immunotherapy	P38 MAPK inhibitor,cell permeable and highly selective		investigational	DB03044	birb-796
+agk-2	small molecule	2130404	CTRPV2|GDSC	Targeted Therapy	SIRT2 inhibitor, potent and selectiv				agk2
+venetoclax	small molecule	49846579	CTRPV2|GDSC				approved	DB11581	abt-199
+nutlin-3a (-)	small molecule	11433190	GDSC	Targeted Therapy	a murine double microbody 2 (MDM2) antagonist				
+s-trityl-l-cysteine	small molecule	76044	GDSC	Targeted Therapy	a non-natural amino acid and an inhibitor of Eg5, also known as KSP and Kif11, a mitotic kinesin necessary for mitotic spindle formation				
+azd5582	small molecule	49847690	GDSC	Targeted Therapy	a novel class of dimeric Smac mimetics as potent IAP antagonist; binds potently to the BIR3 domains of cIAP1, cIAP2, and XIAP 				
+umi-77	small molecule	992586	GDSC	Targeted Therapy	a novel small-molecule inhibitor of Mcl-1 with Ki 				
+tak-715	small molecule	9952773	GDSC	Targeted Therapy	A p38 MAPK inhibitor				
+midostaurin	small molecule	9829523	GDSC	Immunotherapy	A PKC inhibitor		approved	DB06595	4'-N-benzoylstaurosporine|Midostaurin|CGP 41251|CGP-41251|NVP-PKC412|PKC 412|PKC-412
+ceralasertib	small molecule	54761306	GDSC	Targeted Therapy	a potent and selective sulfoximine morpholinopyrimidine ATR inhibitor with excellent preclinical physicochemical and pharmacokinetic (PK) characteristics		investigational	DB14917	azd6738
+mn-64	small molecule	2802462	GDSC	Targeted Therapy	a potent and selective tankyrase inhibitor				
+epz004777	small molecule	56962336	GDSC	Targeted Therapy	a potent epigenetic modulators, can reverse TGF-β1 induced T regulatory cells and may be used to treat diverse immune disorders.				
+epz5676	small molecule	57345410	GDSC	Targeted Therapy	a potent inhibitor of DOT1L histone methyltransferase				
+sgc0946	small molecule	56962337	GDSC	Targeted Therapy	a potent small-molecule inhibitor of protein methyltransferase (PMT) DOT1L, a unique protein lysine methyltransferase (PKMT) catalyzing the methylation of histone H3 on Lysine 79 (H3K79)				
+wiki4	small molecule	2984337	GDSC	Targeted Therapy	a potent tankyrase inhibitor				
+cay10566	small molecule	16732433	GDSC	Targeted Therapy	a potent, orally bioavailable and selective stearoyl-CoA desaturase1 (SCD1) inhibitor				
+prt062607	small molecule	44462758	GDSC	Targeted Therapy	A potent, orally bioavailable Syk inhibitor				
+remodelin	small molecule	44442376	GDSC	Targeted Therapy	a small molecule inhibitor of N-acetyltransferase 10 (NAT10).Dysregulation of N-acetyltransferase 10 (NAT10) is associated with the development of many types of tumors				
+a-770041	small molecule	9549184	GDSC	Targeted Therapy	a Src-family Lck inhibitor				
+pyridostatin	small molecule	25227847	GDSC	Targeted Therapy	a synthetic small-molecule stabilizer of G-quadruplexe				
+ldn-193189	small molecule	25195294	GDSC	Targeted Therapy	ALK inhibitor				
+sb505124	small molecule	9858940	GDSC	Targeted Therapy	ALK4/ALK5/ALK7 inhibitor				
+dmog	small molecule	560326	GDSC	Targeted Therapy	an antagonist of α-ketoglutarate cofactor and an inhibitor of HIF-proline hydroxylase, leading to the stability and accumulation of HIF-1α protein in the nucleus				
+lenalidomide	small molecule	216326	GDSC	Targeted Therapy	an antineoplastic agent exhibiting antitumor activity through a variety of mechanisms, including immune system activation, angiogenesis inhibition, and direct antineoplastic effects. 		approved	DB00480	
+lcl161	small molecule	24737642	GDSC	Targeted Therapy	Antagonist of IAPs inhibitor		investigational	DB12085	
+qs11	small molecule	42623900	GDSC	Targeted Therapy	ARFGAP1 inhibitor,Wnt/beta-catenin pathway modulato				
+cp466722	small molecule	44551660	GDSC	Targeted Therapy	ATM inhibitor,potent and reversible				
+az20	small molecule	46244454	GDSC	Targeted Therapy	ATR inhibitor,potent and selective				
+gsk1070916	small molecule	46885626	GDSC	Targeted Therapy	Aurora B/C inhibitor				
+stf-62247	small molecule	704473	GDSC	Targeted Therapy	Autophagy inducer in renal cell				
+wehi-539	small molecule	71297207	GDSC	Targeted Therapy	Bcl-xL inhibitor,potent and selective				
+gnf-2	small molecule	5311510	GDSC	Targeted Therapy	Bcr-Abl inhibitor				
+pfi-1	small molecule	71271629	GDSC	Targeted Therapy	BET inhibitor				
+i-brd9	small molecule	91668541	GDSC	Targeted Therapy	BRD9 inhibitor				
+bromosporine	small molecule	72943187	GDSC	Immunotherapy	Bromodomain inhibitor,non-selective				
+c-75	small molecule	4248455	GDSC	Targeted Therapy	C75 is a synthetic fatty-acid synthase (FASN) inhibitor; inhibits prostate cancer cells PC3 				
+cpi-637	small molecule	121271792	GDSC	Targeted Therapy	CBP/EP300 bromodomain inhibitor				
+cgp-60474	small molecule	644215	GDSC	Targeted Therapy	CDKs and PKC inhibitor, potent				
+mk-8776	small molecule	16224745	GDSC	Targeted Therapy	Chk1 inhibitor,potent and selective		investigational	DB11899	SCH 900776
+mycophenolic acid	small molecule	446541	GDSC	Targeted Therapy	Dehydrogenase inhibitor. an an immunosuppresant drug and has potent anti-proliferative activity		approved	DB01024	Acide mycophenolique|Acido micofenolico|Acidum mycophenolicum|Micofenolico acido|Mycophenolate|Mycophenolic acid|Mycophenolsäure|68618|NSC-129185
+pyrimethamine	small molecule	4993	GDSC	Targeted Therapy	DHFR inhibitor		approved	DB00205	Chloridine|Chloridyn|Diaminopyritamin|Ethylpyrimidine|Pirimetamina|Primethamine|Pyriméthamine|Pyrimethamine|Pyrimethaminum|NSC-3061|RP-4753|WR-2978|
+dihydrorotenone	small molecule	243725	GDSC	Targeted Therapy	Dihydrorotenone, a natural pesticide, is a potent mitochondrial inhibitor				
+lmp744	small molecule	397888	GDSC	Targeted Therapy	DNA intercalator and Topoisomerase (Top1) inhibitor 				
+nu7441	small molecule	11327430	GDSC	Targeted Therapy	DNA-PK inhibitor				
+nvp-bhg712	small molecule	16747388	GDSC	Targeted Therapy	EphB4 inhibitor,potent and selective				
+fr-180204	small molecule	11493598	GDSC	Targeted Therapy	ERK inhibitor				
+vx-11e	small molecule	11634725	GDSC	Targeted Therapy	ERK inhibitor				
+sch772984	small molecule	24866313	GDSC	Targeted Therapy	ERK1 and ERK2 inhibitor		approved		
+gsk343	small molecule	71268957	GDSC	Targeted Therapy	EZH2 inhibitor,potent,selective and cell permeable				
+tipifarnib	small molecule	159324	GDSC	Targeted Therapy	Farnesyltransferase inhibitor,potent and specific		investigational	DB04960	Tipifarnib|Zarnestra|R-115777|R115777
+pd173074	small molecule	1401	GDSC	Targeted Therapy	FGFR inhibitor				
+fti-277	small molecule	3005532	GDSC	Targeted Therapy	FTI-277 is an inhibitor of farnesyl transferase (FTase); a highly potent Ras CAAX peptidomimetic which antagonizes both H- and K-Ras oncogenic signaling				
+unc0642	small molecule	53315878	GDSC	Targeted Therapy	G9a and GLP histone lysine methyltransferase inhibitor				
+a-366	small molecule	76285486	GDSC	Targeted Therapy	G9a/GLP histone lysine methyltransferase inhibitor				
+tws119	small molecule	9549289	GDSC	Targeted Therapy	GSK-3β inhibitor				
+cyclopamine	small molecule	442972	GDSC	Targeted Therapy	Hedgehog (Hh) signaling Inhibitor				
+cp724714	small molecule	9874913	GDSC	Targeted Therapy	HER2 inhibitor				
+hg6-64-1	small molecule	53302361	GDSC	Targeted Therapy	HG6-64-1 is a potent and selective B-Raf inhibitor				
+iox2	small molecule	54685215	GDSC	Targeted Therapy	HIF-1α prolyl hydroxylase-2 (PHD2) inhibitor				
+agi-5198	small molecule	56645356	GDSC	Targeted Therapy	IDH1 inhibitor against R132 mutant,selective and cell-permeable				
+agi-6780	small molecule	71299339	GDSC	Targeted Therapy	IDH2/R140Q mutation inhibitor				
+imd-0354	small molecule	5081913	GDSC	Targeted Therapy	IKKβ inhibitor				
+gsk2801	small molecule	73010930	GDSC	Targeted Therapy	inhibitor of BAZ2A and BAZ2B bromodomains				
+sgc-cbp30	small molecule	72201027	GDSC	Targeted Therapy	Inhibitor of CREBBP/EP300 bromodomain,potent				
+az628	small molecule	11676786	GDSC	Targeted Therapy	Inhibitor of Flk-1/Flt-4/PDGFR-/c-Kit				
+gsk-lsd1-2hcl	small molecule	91663353	GDSC	Targeted Therapy	irreversible, and selective LSD1 inhibitor				
+bms-509744	small molecule	11467730	GDSC	Targeted Therapy	Itk inhibitor				
+az960	small molecule	25099184	GDSC	Targeted Therapy	JAKs inhibitor				
+wh-4-023	small molecule	11844351	GDSC	Targeted Therapy	Lck/Src inhibitor,potent and selective				
+gsk2578215a	small molecule	68107965	GDSC	Targeted Therapy	LRRK2 inhibitor				
+mim1	small molecule	135691163	GDSC	Targeted Therapy	Mcl-1 Inhibitor				
+azd5991	small molecule	131634760	GDSC	Targeted Therapy	Mcl-1 inhibitor with an IC50 of <3 nM in FRET assay.		investigational	DB14792	AZD5991
+nsc-207895	small molecule	42640	GDSC	Targeted Therapy	MDMX inhibitor,anti-cancer agent				
+etp-45835	small molecule	71755761	GDSC	Targeted Therapy	Mnk1/2 inhibitor				
+mirin	small molecule	137319711	GDSC	Targeted Therapy	Mre11-Rad50-Nbs1 (MRN)-ATM pathway inhibitor				
+at-7519	small molecule	11338033	GDSC	Targeted Therapy	Multi-CDK inhibitor				
+unc0379	small molecule	78357767	GDSC	Targeted Therapy	N-lysine methyltransferase SETD8 inhibitor				
+pfi3	small molecule	78243717	GDSC	Targeted Therapy	nhibitor of polybromo 1 and SMARCA4				pfi-3
+wz4003	small molecule	72200024	GDSC	Targeted Therapy	NUAK1/2 inhibitor, potent and selective				
+of-1	small molecule	35397514	GDSC	Targeted Therapy	OF-1 is a selective BRPF1B and BRPF2 bromodomain inhibitor 				
+gsk2830371	small molecule	70983932	GDSC	Targeted Therapy	Orally active, allosteric inhibitor of Wip1 phosphatase				
+azd-5153	small molecule	118693659	GDSC	Targeted Therapy	orally available, bivalent inhibitor of the bromodomain and extraterminal (BET) protein BRD4.		investigational	DB17018	azd5153
+otx015	small molecule	9936746	GDSC	Targeted Therapy	OTX-015 inhibits the binding of BRD2, BRD3, and BRD4 to acetylated histone 4 in a concentration-dependent manner		investigational	DB15189	Birabresib|OTX015
+elesclomol	small molecule	300471	GDSC	Targeted Therapy	Oxidative stress/apoptosis inducer,potent and novel		investigational	DB05719	Elesclomol|Élesclomol|Elesclomolum|GSK-842879|GSK-842879A|STA-4783
+pf-4708671	small molecule	51371303	GDSC	Targeted Therapy	P70 S6K1 isoform inhibitor,cell-permeabl				
+lji308	small molecule	118704762	GDSC	Targeted Therapy	pan-RSK inhibitor				
+cpi-613	small molecule	24770514	GDSC	Targeted Therapy	PDH/α-KGDH inhibitor				
+bx795	small molecule	10077147	GDSC	Targeted Therapy	PDK1 inhibitor				
+gsk2606414	small molecule	53469448	GDSC	Targeted Therapy	PERK inhibitor,potent and selective				
+ym201636	small molecule	9956222	GDSC	Targeted Therapy	PIKfyve inhibitor,potent and selective				
+bryostatin 1	small molecule	5280757	GDSC	Targeted Therapy	PKC activator				
+enzastaurin	small molecule	176167	GDSC	Targeted Therapy	PKC beta inhibitor,potent and selective				
+niraparib	small molecule	24958200	GDSC	Targeted Therapy	polymerase inhibitor		approved	DB11793	zejula
+talazoparib	small molecule	135565082	GDSC	Targeted Therapy	polymerase inhibitor		approved	DB11760	talazoparib tosylate|talzenna
+lgk974	small molecule	46926973	GDSC	Targeted Therapy	PORCN inhibitor,potent and specific				
+as605240	small molecule	5289247	GDSC	Targeted Therapy	Potent and selective PI 3-Kγ inhibitor				
+sb590885	small molecule	135421339	GDSC	Targeted Therapy	Potent B-Raf inhibitor				
+obatoclax mesylate	small molecule	16681698	GDSC	Targeted Therapy	Potent Bcl-2 inhibitor		investigational	DB12191	Obatoclax|GX 015-070|GX 05-070|GX15-070|
+rvx-208	small molecule	135564749	GDSC	Targeted Therapy	Potent BET bromodomain inhibitor		investigational		
+azd5438	small molecule	16747683	GDSC	Targeted Therapy	Potent CDK1/2/9 inhibitor				
+cct245232	small molecule	117996541	GDSC	Targeted Therapy	potent inhibitor of heat shock factor				
+crt0105950	small molecule	117918970	GDSC	Targeted Therapy	Potent LIMK1/2 inhibitor				
+rucaparib	small molecule	9931954	GDSC	Targeted Therapy	Potent PARP inhibitor		approved	DB12332	rubraca
+osu-03012	small molecule	10027278	GDSC	Targeted Therapy	Potent PDK1 inhibitor				
+pomhex	small molecule	122540908	GDSC	Targeted Therapy	potent, ENO2-specific inhibitor of enolase.				
+cct007093	small molecule	2314623	GDSC	Targeted Therapy	PPM1D inhibitor				
+gsk591	small molecule	117072552	GDSC	Targeted Therapy	PRMT5 inhibitor				
+berzosertib	small molecule	59472121	GDSC	Targeted Therapy	protein inhibitor		investigational	DB11794	
+buparlisib	small molecule	16654980	GDSC	Targeted Therapy	protein inhibitor		investigational	DB11666	Buparlisib|Buparlisibum|BKM 120|BKM-120|BKM-120NX|NVP-BKM-120|NVP-BKM120
+ipatasertib	small molecule	24788740	GDSC	Targeted Therapy	protein inhibitor		investigational	DB11743	Ipatasertib|GDC-0068|RG-7440
+ispinesib mesylate	small molecule	6450816	GDSC	Targeted Therapy	protein inhibitor				
+luminespib	small molecule	135539077	GDSC	Targeted Therapy	protein inhibitor				
+omipalisib	small molecule	25167777	GDSC	Targeted Therapy	protein inhibitor		investigational	DB12703	Omipalisib|GSK2126458
+taselisib	small molecule	51001932	GDSC	Targeted Therapy	protein inhibitor		investigational	DB12108	
+uprosertib	small molecule	51042438	GDSC	Targeted Therapy	protein inhibitor		investigational	DB11969	
+vistusertib	small molecule	25262792	GDSC	Targeted Therapy	protein inhibitor		investigational	DB11925	azd2014
+motesanib	small molecule	11667893	GDSC	Targeted Therapy	protein inhibitor,Inhibitor of Flk-1/Flt-4/PDGFR-/c-Kit				
+eht-1864	small molecule	9938202	GDSC	Targeted Therapy	Rac family small GTPases inhibitor				
+y-39983	small molecule	9810884	GDSC	Targeted Therapy	ROCK family inhibitor				
+gsk269962a	small molecule	16095342	GDSC	Targeted Therapy	ROCK inhibitor		investigational	DB17030	Benzamide|n-(3-((2-(4-amino-1,2,5-oxadiazol-3-yl)-1-ethyl-1h-imidazo(4,5-c)pyridin-6-yl)oxy)phenyl)-4-(2-(4-morpholinyl)ethoxy)-|N-(3-((2-(4-amino-1,2,5-oxadiazol-3-yl)-1-ethyl-1h-imidazo(4,5-c)pyridin-6-yl)oxy)phenyl)-4-(2-(4-morpholinyl)ethoxy)benzamide|GSK-269962|GSK-269962A|GSK269962A|GSK269962B
+sabutoclax	small molecule	46236925	GDSC	Targeted Therapy	Sabutoclax is an inhibitor of pan-Bcl-2 family				
+salubrinal	small molecule	5717801	GDSC	Targeted Therapy	Selective eIF2α inhibitor				
+gsk1904529a	small molecule	25124816	GDSC	Targeted Therapy	Selective IGF-1R/IR inhibitor				
+bptes	small molecule	3372016	GDSC	Targeted Therapy	selective kidney-type glutaminase (GLS) inhibitor				
+ci-1040	small molecule	6918454	GDSC	Targeted Therapy	Selective MEK inhibitor				
+bix02189	small molecule	135659062	GDSC	Targeted Therapy	Selective MEK5 inhibitor				
+gsk429286a	small molecule	11373846	GDSC	Targeted Therapy	Selective ROCK1/ROCK2 inhibitor				
+gsk650394	small molecule	25022668	GDSC	Targeted Therapy	SGK1 inhibitor				
+shikonin	small molecule	479503	GDSC	Targeted Therapy	Shikonin is a potent TMEM16A chloride channel inhibitor 				
+nsc-87877	small molecule	92577	GDSC	Targeted Therapy	Shp2 /shp1 PTP inhibitor				
+i-cbp112	small molecule	90488984	GDSC	Targeted Therapy	specific and potent acetyl-lysine competitive protein-protein interaction inhibitor, that inhibits the CBP/p300 bromodomains, enhances acetylation by p300.				
+bay-61-3606	small molecule	11784504	GDSC	Targeted Therapy	Syk Inhibitor				
+ng-25	small molecule	53340664	GDSC	Targeted Therapy	TAK1 inhibitor				
+xav939	small molecule	135418940	GDSC	Targeted Therapy	Tankyrase 1/2 inhibitor				
+az6102	small molecule	135905416	GDSC	Targeted Therapy	TNKS1/2 inhibitor				
+camptothecin	small molecule	24360	GDSC	Targeted Therapy	Topoisomerase I inhibitor		experimental	DB04690	
+gw441756	small molecule	9943465	GDSC	Targeted Therapy	TrkA inhibitor,potent and selective				
+unc1215	small molecule	57339144	GDSC	Targeted Therapy	UNC1215 is a selective inhibitor of L3MBTL3				
+ml323	small molecule	60167849	GDSC	Targeted Therapy	USP1-UAF1 inhibitor				
+p22077	small molecule	46931953	GDSC	Targeted Therapy	USP7/USP47 inhibitor				GDSC
+iwp-2	small molecule	2155128	GDSC	Targeted Therapy	Wnt production inhibitor,PORCN inhibitor				
+wnt-c59	small molecule	57519544	GDSC	Targeted Therapy	Wnt-C59 is a selective inhibitor				
+fh535	small molecule	3463933	GDSC	Targeted Therapy	Wnt/B-catenin inhibitor				
+embelin	small molecule	3218	GDSC	Targeted Therapy	XIAP inhibitor,cell-permeable				
+xmd8-92	small molecule	46843772	GDSC	Targeted Therapy	xmd8-92				
+avagacestat	small molecule	46883536	GDSC	Targeted Therapy	γ-secretase inhibitor		investigational	DB11893	Avagacestat|BMS 708163|BMS-708163
+a832234	small molecule	53413272	GDSC						
+acetalax	small molecule	8269	GDSC						
+aica ribonucleotide	small molecule	65110	GDSC				experimental	DB01700	AICA-ribonucleotide|AICAR
+alpha-lipoic acid	small molecule	864	GDSC				approved	DB00166	R)-lipoic acid|Alpha lipoic acid|alpha-Lipoic acid|alpha-Liponsäure|D-thioctic acid|Lipoic acid||R-alpha-lipoic acid|Thioctic acid|Thioctic acid D-form
+ara-g	small molecule	135499520	GDSC						
+arry-520	small molecule	44224257	GDSC				investigational	DB06040	Filanesib|ARRY-520
+ascorbate	small molecule	54670067	GDSC					DB00126	
+azd1332	small molecule	49831044	GDSC						
+azd4877	small molecule	10368812	GDSC						
+cap-232	small molecule	74053735	GDSC						
+cd532	small molecule	77232197	GDSC						
+elephantin	small molecule	442205	GDSC						
+gallibiscoquinazole	small molecule	353472	GDSC						
+gdc0810	small molecule	56941241	GDSC				investigational		
+glutathione	small molecule	124886	GDSC				approved	DB00143	Glutathion|Glutathione|Glutathione-SH|Reduced glutathione
+gsk-lsd1	small molecule	71522234	GDSC						
+gsk2110183b	small molecule	46843056	GDSC						
+jnk inhibitor viii	small molecule	11624601	GDSC						
+jnk-9l	small molecule	146156476	GDSC						
+kin001-266	small molecule	44143370	GDSC						
+l-oxonoreleagnine	small molecule	87371	GDSC						
+n-acetyl cysteine	small molecule	12035	GDSC						
+phenformin	small molecule	8249	GDSC				approved	DB00914	Fenformin|Fenformina|Phenformin|Phenformine|Phenforminum|W 32
+pidnarulex	small molecule	25257557	GDSC				investigational	DB16846	CX 5461|CX-5461
+podophyllotoxin bromide	small molecule	234820	GDSC						
+ql-x-138	small molecule	73707530	GDSC						
+ql-xii-47	small molecule	71748056	GDSC						
+sb52334	small molecule	97489	GDSC						
+schweinfurthin a	small molecule	643462	GDSC						
+sepantronium bromide	small molecule	11178236	GDSC				investigational	DB17062	1h-naphth(2,3-d)imidazolium|4,9-dihydro-1-(2-methoxyethyl)-2-methyl-4,9-dioxo-3-(2-pyrazinylmethyl)-|Sepantronium cation|Sepantronium ion
+sinularin	small molecule	5477029	GDSC						
+xmd8-85	small molecule	46844147	GDSC						
+z-llnle-cho	small molecule	21741774	GDSC						
+zg-10	small molecule	57340680	GDSC						
+navitoclax	small molecule	24978538	GDSC|CTRPV2	Targeted Therapy	A potent Bcl-2 family inhibitor		investigational	DB12340	Navitoclax|A-855071.0|ABT-263
+sirolimus	small molecule	5284616	GDSC|CTRPV2	Immunotherapy	antifungal antibiotic		approved	DB00877	fyarro|hyftor|rapamune|rapamycin
+ku-55933	small molecule	5278396	GDSC|CTRPV2	Targeted Therapy	ATM inhibitor,potent and selective				
+abt-737	small molecule	11228183	GDSC|CTRPV2	Targeted Therapy	Bcl-2 inhibitor		investigational	DB17023	abt737|Benzamide|4-(4-((4'-chloro(1,1'-biphenyl)-2-yl)methyl)-1-piperazinyl)-n-((4-(((1r)-3-(dimethylamino)-1-((phenylthio)methyl)propyl)amino)-3-nitrophenyl)sulfonyl)-| ABT 737|ABT-737
+su11274	small molecule	9549297	GDSC|CTRPV2	Targeted Therapy	C-Met inhibitor,potent and selective				
+azd4547	small molecule	51039095	GDSC|CTRPV2	Targeted Therapy	FGFR inhibitor				
+unc0638	small molecule	46224516	GDSC|CTRPV2	Targeted Therapy	G9a/GLP HMTase inhibitor, potent and selective				
+chir-99021	small molecule	9956119	GDSC|CTRPV2	Targeted Therapy	GSK-3β inhibitor and is considered the standard small-molecule Wnt agonist. CHIR-99021 is a potent inhibitor with high selectivity.				
+bms-754807	small molecule	24785538	GDSC|CTRPV2	Targeted Therapy	IGF-1R/InsR inhibitor,potent and selective		investigational	DB15399	
+tpca-1	small molecule	9903786	GDSC|CTRPV2	Targeted Therapy	IKK-2 inhibitor,potent and selective		investigational	DB17058	2-((aminocarbonyl)amino)-5-(4-fluorophenyl)-3-thiophenecarboxamide|3-thiophenecarboxamide, 2-((aminocarbonyl)amino)-5-(4-fluorophenyl)-|Ikk 2 inhibitor iv|Ikk-2 inhibitor iv|TPCA-1|TPCA1
+piperlongumine	small molecule	637858	GDSC|CTRPV2	Targeted Therapy	Inducer of cell-death				
+osi-930	small molecule	9868037	GDSC|CTRPV2	Targeted Therapy	Inhibitor of Kit, KDR, Flt, CSF-1R, c-Raf and Lck		investigational	DB05913	
+pha-793887	small molecule	46191454	GDSC|CTRPV2	Targeted Therapy	Pan-Cdk inhibitor		investigational	DB12686	PHA-793887
+gw-843682x	small molecule	9826308	GDSC|CTRPV2	Targeted Therapy	PLK1/PLK3 inhibitor,potent and selective				gw843682x
+olaparib	small molecule	23725625	GDSC|CTRPV2	Targeted Therapy	polymerase inhibitor		approved	DB09074	Olaparib|AZD 2281|AZD-2281|AZD2281|KU-0059436|KU-59436|KU59436
+veliparib	small molecule	11960529	GDSC|CTRPV2	Targeted Therapy	polymerase inhibitor		investigational	DB07232	abt-888
+bortezomib	small molecule	387447	GDSC|CTRPV2	Targeted Therapy	proteasome inhibitor		approved	DB00188	bortezomib accord|ldp-341|velcade|nsc-681239|ps-341|bortezomib hydrate
+alpelisib	small molecule	56649450	GDSC|CTRPV2	Targeted Therapy	protein inhibitor		approved	DB12015	piqray 300 mg daily dose|vijoice 50 mg 28 day|byl-719
+alvocidib	small molecule	5287969	GDSC|CTRPV2	Targeted Therapy	protein inhibitor		experimental	DB03496	alvocidib|alvocidib freebase|flavopiridol
+capivasertib	small molecule	25227436	GDSC|CTRPV2	Targeted Therapy	protein inhibitor		investigational	DB12218	azd5363
+Pictilisib	small molecule	17755052	GDSC|CTRPV2	Targeted Therapy	protein inhibitor		investigational	DB11663	Pictilisib|GDC 0941|GDC-0941
+molibresib	small molecule	46943432	GDSC|CTRPV2	Targeted Therapy	protein inhibitor,BET bromodomain inhibitor with IC50 of 32.5-42.5 nM.			DB16239	i-bet-762|gsk525762a
+idelalisib	small molecule	11625818	GDSC|CTRPV2	Targeted Therapy	protein inhibitor,deuterium labeled Idelalisib. Idelalisib is a highly selective and orally bioavailable p110δ inhibitor.		approved	DB09054	Idelalisib|CAL 101|CAL-101|CAL101|GS 1101|GS-1101|GS1101
+yk-4-279	small molecule	44632017	GDSC|CTRPV2	Targeted Therapy	RNA Helicase A (RHA) inhibitor				
+i-bet151	small molecule	52912189	GDSC|CTRPV2	Targeted Therapy	Selective BET inhibitor				i-bet-151
+nvp-adw742	small molecule	9825149	GDSC|CTRPV2	Targeted Therapy	Selective IGF-1R inhibitor				
+parthenolide	small molecule	7251185	GDSC|CTRPV2	Targeted Therapy	sesquiterpene lactone and active principle of feverfew		approved	DB13063	
+pf-543	small molecule	66577038	GDSC|CTRPV2	Targeted Therapy	SphK1 inhibitor,cell-permeate,potent and selective				sphingosine kinase 1 inhibitor ii
+bibr-1532	small molecule	9927531	GDSC|CTRPV2	Targeted Therapy	Telomerase inhibitor,novel and selective				
+bms-536924	small molecule	135440466	GDSC|CTRPV2						
+brd-k07442505	small molecule	3101542	GDSC|CTRPV2						bam7
+cay10576	small molecule	11626927	GDSC|CTRPV2						gsk319347a
+daporinad	small molecule	6914657	GDSC|CTRPV2				investigational	DB12731	APO 866|APO-866|APO866|FK 866|FK-866|K 22.175
+ex-527	small molecule	5113032	GDSC|CTRPV2				experimental	DB13978	Selisistat
+gsk1059615	small molecule	23582824	GDSC|CTRPV2				investigational	DB11962	
+mg-132	small molecule	462382	GDSC|CTRPV2						
+nvp-tae684	small molecule	16038120	GDSC|CTRPV2						
+pac-1	small molecule	135421197	GDSC|CTRPV2				investigational	DB13048	
+pevonedistat	small molecule	16720766	GDSC|CTRPV2				investigational	DB11759	Pevonedistat|MLN4924
+tanespimycin	small molecule	6505803	GDSC|CTRPV2				investigational	DB05134	
+telomerase inhibitor ix	small molecule	10385095	GDSC|CTRPV2						mst-312
+zstk474	small molecule	11647372	GDSC|CTRPV2	Targeted Therapy			investigational	DB12904	
+palonosetron	small molecule	6918303	TCGA	Targeted Therapy	5-HT3 antagonist used in the prevention and treatment of chemotherapy-induced nausea and vomiting (CINV).		approved	DB00377	aloxi
+anastrozole	small molecule	2187	TCGA	Hormone Therapy	a potent and selective inhibitor of aromatase 		approved	DB01217	rvg-106400|arimidex|ici d1033|nsc-719344|ici-d1033|nsc-759855|zd-1033|zd1033
+megestrol acetate	small molecule	11683	TCGA	Hormone Therapy	Anti-estrogen agent		approved	DB00351	megace
+sulindac	small molecule	1548887	TCGA	Targeted Therapy	Anti-inflammatory agent;COX inhibitor		approved	DB00605	
+mibefradil	small molecule	60663	TCGA	Targeted Therapy	Calcium channel blocker		withdrawn	DB01388	
+bevacizumab	biotech		TCGA	Targeted Therapy	circulatory system		approved	DB00112	avastin
+human interleukin-2	biotech		TCGA	Targeted Therapy	Cytokine,regulating WBC			DB14865	
+leucovorin calcium	small molecule	135403647	TCGA	Targeted Therapy	Derivative of folic acid		approved	DB00650	5-Formyltetrahydrofolate|Acide folinique|Acido folinico|Folinate|Folinic acid|Leucovorinum
+isotretinoin	small molecule	5282379	TCGA	Targeted Therapy	Dopamine β-hydroxylase activator			DB00982	
+denosumab	biotech		TCGA	Targeted Therapy	human IgG2 monovlonal antibody		approved	DB06643	
+resiquimod	small molecule	159603	TCGA	Immunotherapy	Immune response modifier		investigational	DB06530	
+ipilimumab	biotech		TCGA	Immunotherapy	immune system		approved	DB06186	yervoy
+ketoconazole	small molecule	456201	TCGA	Targeted Therapy	Inhibitor of cyclosporine oxidase and testosterone 6 beta-hydroxylase		approved	DB01026	
+cilengitide	small molecule	176873	TCGA	Targeted Therapy	Integrin inhibitor for αvβ3 and αvβ5		investigational	DB11890	cilengtide
+doxifluridine	small molecule	18343	TCGA	Targeted Therapy	oral prodrug of the antineoplastic agent 5-fluorouracil (5-FU)		investigational	DB12947	
+Veliparib	small molecule	45480520	TCGA	Targeted Therapy	polymerase inhibitor		investigational	DB07232	Veliparib|ABT-888
+braf inhibitor	small molecule	53438230	TCGA	Targeted Therapy	Potent B-raf inhibitor				
+benzylguanine	small molecule	135435090	TCGA	Targeted Therapy	Potent MGMT inhibitor		investigational		
+sonolisib	small molecule	9849735	TCGA	Targeted Therapy	protein inhibitor		investigational	DB12601	
+celecoxib	small molecule	2662	TCGA	Targeted Therapy	protein inhibitor,Selective cyclooxygenase-2 (COX-2) inhibitor		approved	DB0048	celebrex|celebrex|consensi|elyxyb|seglentis
+firtecan pegol	small molecule	59443782	TCGA	Targeted Therapy	selectively targets and neutralizes tumour necrosis factor-α (TNF-α).		investigational	DB14953	EZN-2208
+Pasireotide	small molecule	9941444	TCGA	Targeted Therapy	stable cyclohexapeptide somatostatin mimic		approved	DB06663	pasireotide|Pasiréotide|Pasireotide|Pasireotidum|SOM 230|SOM-230|SOM230
+exemestane	small molecule	60198	TCGA	Hormone Therapy	Steroidal aromatase inhibitor		approved	DB00990	aromasin
+cetuximab	biotech		TCGA	Targeted Therapy	tumor target		approved	DB00002	
+ontuxizumab	biotech		TCGA	Targeted Therapy	tumor target			DB16270	
+panitumumab	biotech		TCGA	Targeted Therapy	tumor target		approved	DB01269	vectibix
+teprotumumab	biotech		TCGA	Targeted Therapy	tumor target			DB06343	
+trastuzumab	biotech		TCGA	Immunotherapy	tumor target		approved	DB00072	
+rituximab	biotech		TCGA	Immunotherapy	tumor target, Rituximab inhibits the proliferation of stimulated human B cells		approved	DB00073	
+alpha-pyrrolidinononanophenone	small molecule	9247748	TCGA	Chemotherapy			investigational	DB05531	pv-10
+pv-10	small molecule	69438	TCGA	Chemotherapy			investigational	DB05531	
+cpt-11	small molecule	74990	TCGA	Chemotherapy					irinotecan hcl|irinotecan hydrochloride
+cytomel	small molecule	23666110	TCGA	Hormone Therapy			approved	DB00279	L-T3|Liothyronine|Liothyroninum|Liotironina|Triiodothyronine|NSC-80203
+dexamethasone phosphate	small molecule	9400	TCGA	Targeted Therapy			approved	DB01234	Dexametasona|Dexamethasone|Dexaméthasone|Dexamethasonum|ISV-305|NSC-34521|OTO-104
+didox	small molecule	3045	TCGA	Targeted Therapy			investigational	DB12948	
+fareston	small molecule	3005572	TCGA	Hormone Therapy					
+goserelin	small molecule	5311128	TCGA	Hormone Therapy			approved	DB00014	zoladex|goserelin acetate
+gp100	small molecule	3003004	TCGA	Immunotherapy			investigational		
+il2	small molecule	51397006	TCGA	Immunotherapy					
+karenitecin	small molecule	148202	TCGA	Targeted Therapy			investigational	DB05806	cositecan
+letrozole	small molecule	3902	TCGA	Hormone Therapy			approved	DB01006	femara
+levothyroxine	small molecule	5819	TCGA	Hormone Therapy			approved	DB00451	synthroid
+liposome	small molecule	453626	TCGA						
+mesna	small molecule	23662354	TCGA	Immunotherapy			approved		coenzyme m
+navelbine	small molecule	5311497	TCGA	Chemotherapy			approved	DB00361	
+nilutamide	small molecule	4493	TCGA	Hormone Therapy			approved	DB00665	
+nimustine	small molecule	39214	TCGA	Immunotherapy			investigational	DB13069	Nimustina|Nimustine|Nimustinum
+paclitaxol	small molecule	24728718	TCGA	Chemotherapy					
+pamidronic acid	small molecule	4674	TCGA	Targeted Therapy			approved	DB00282	pamidronate|pamisol|pamidronate disodium
+prednisone	small molecule	5865	TCGA	Immunotherapy			approved	DB00635	deltasone|rayos|winpred
+raloxifene	small molecule	5035	TCGA	Hormone Therapy			approved	DB00481	evista|optruma
+recombinant interferon alfa-2b	small molecule	71306834	TCGA	Immunotherapy					
+tegafur	small molecule	5386	TCGA	Chemotherapy			approved	DB09256	ts-1
+ts-1	small molecule	146157327	TCGA	Chemotherapy			approved	DB09256	
+valproic acid	small molecule	3121	TCGA	Targeted Therapy			approved	DB00313	depakene|depakote|epival
+votrient	small molecule	11525740	TCGA	Targeted Therapy					pazopanib
+interleukin-2	biotech	130168	TCGA	Immunotherapy			investigational		
+nivolumab	biotech		TCGA	Immunotherapy			approved		
+pegfilgrastim	biotech		TCGA					DB00019	
+pembrolizumab	biotech		TCGA	Immunotherapy			approved	DB09037	
+sargramostim	biotech		TCGA					DB00020	
+platin	small molecule	23939	TCGA|CTRPV2	Targeted Therapy	Antitumor agent that forms platinum-DNA adducts.		approved	DB12257	platinum
+tivantinib	small molecule	11494412	TCGA|CTRPV2	Targeted Therapy	tyrosine kinase inhibitor,C-Met inhibitor,non-ATP-competitive				arq-197
+ciclosporin	small molecule	5284373	TCGA|CTRPV2	Immunotherapy			approved	DB00091	Ciclosporin|Ciclosporina|Ciclosporine|Ciclosporinum|Cyclosporin|Cyclosporin A|Cyclosporine|27-400|Antibiotic S 7481F1|Antibiotic S-7481F1|NOVA-22007|NSC-290193|OL-27-400|SANG-35|SDZ-OXL-400
+gsk braf inhibitor	small molecule	448949	TCGA|CTRPV2	Targeted Therapy					gsk-3 inhibitor ix
+leflunomide	small molecule	3899	TCGA|GDSC	Targeted Therapy	AHR agonist,immunosuppressive agent		approved	DB01097	su101
+zoledronic acid	small molecule	68740	TCGA|GDSC	Targeted Therapy	Potent nitrogen-containing bisphosphonates		approved	DB00399	zoledronate|aclasta|reclast|zometa|zobone
+apitolisib	small molecule	25254071	TCGA|GDSC	Targeted Therapy	protein inhibitor		investigational	DB12180	Apitolisib|Apitolisibum|G-038390|G-038390.1|GDC 0980|GDC-0980|GDC-0980.1|GNE 390|RG 7422|RG-7422
+dabrafenib	small molecule	44462760	TCGA|GDSC|CTRPV2	Targeted Therapy	protein inhibitor,Inhibitor of BRAF(V600) mutants		approved	DB08912	
+tamoxifen	small molecule	2733526	TCGA|GDSC|CTRPV2	Hormone Therapy	TGF-β modulatory and PKC inhibitory effects		approved	DB00675	soltamox|tamoxifen citrate|54965-24-1|Istubal|Tamoxifen (Citrate)|Zitazonium|Kessar|Zemide|Tamoxifen citrate salt|ICI 46474|UNII-7FRV7310N6|C32H37NO8|ICI 46474 citrate|ICI 46,474|Tamoxifen Citrate (Nolvadex)|54965-24-1 (citrate)|7FRV7310N6|MFCD00058321|NSC180973|NSC-180973|NSC-757345|NCGC00024928-06|CAS-54965-24-1|DSSTox_CID_1301|DSSTox_RID_76068|DSSTox_GSID_21301|Ethanamine, 2-[4-(1,2-diphenyl-1-butenyl)phenoxy]-N,N-dimethyl-, (Z)-,2-hydroxy-1,2,3-propanetricarboxylate (1:1)|Caditam|Farmifeno|Ginarsan|Jenoxifen|Ledertam|Nourytan|Noxitem|Oncotam|Tafoxen|Tamofen|Tamoxasta|Terimon|Zynoplex|Emblon|Genox|Nolgen|Noltam|Tamax|Tamoxifencitrate|Tamox-Puren|(Z)-2-(4-(1,2-diphenylbut-1-en-1-yl)phenoxy)-N,N-dimethylethanamine 2-hydroxypropane-1,2,3-tricarboxylate|2-[4-[(Z)-1,2-diphenylbut-1-enyl]phenoxy]-N,N-dimethylethanamine;2-hydroxypropane-1,2,3-tricarboxylic acid|SMR000677949|Z-Tamoxifen citrate|SR-01000075523|Nourytam|Tamofene|Tomaxasta|CCRIS 6718|Tamoxifeni citras|Nolvadex (TN)|Soltamox (TN)|2-{4-[(1Z)-1,2-diphenylbut-1-en-1-yl]phenoxy}-N,N-dimethylethanamine 2-hydroxypropane-1,2,3-tricarboxylate (salt)|Prestwick_458|EINECS 259-415-2|Tamoxifen citrate [USAN:USP:JAN]|Tamoxifen (Nolvadex)|Tamoxifen Citrate,(S)|Tamoxifen, citrate salt|Lopac-T-9262|Tamoxifen Z-isomer citrate|CHEMBL786|SCHEMBL6365|MLS001055370|MLS002154210|SPECTRUM1500557|Nolvadex (TN) (AstraZeneca)|DTXSID8021301|Tamoxifen citrate (JP17/USP)|HMS500M20|Tamoxifen citrate salt, >=99%|HMS1568M14|HMS1921C13|HMS2092K17|HMS2095M14|HMS2232E08|HMS3263B08|HMS3675P04|HMS3712M14|I.C.I.46474 CITRATE|Pharmakon1600-01500557|EX-A5777|hydroxypropane-1,2,3-tricarboxylate|Tox21_110938|Tox21_202070|Tox21_300274|Tox21_501203|CCG-39629|NSC757345|s1238|s1972|AKOS005111126|Tox21_110938_1|CS-1852|KS-5046|LP01203|NCGC00016206-01|NCGC00016206-02|NCGC00016206-03|NCGC00016206-04|NCGC00016206-05|NCGC00016206-06|NCGC00024928-02|NCGC00024928-23|NCGC00094450-01|NCGC00094450-02|NCGC00094450-03|NCGC00094450-04|NCGC00254000-01|NCGC00259619-01|NCGC00261888-01|HY-13757|M936|BCP0726000223|Tamoxifen Citrate - CAS 54965-24-1|EU-0101203|SW219368-1|T2510|(Z)-2-(4-(1,2-diphenylbut-1-enyl)phenoxy)|A19582|D00966|J10303|T 9262|965T241|Q-201776|SR-01000075523-1|SR-01000075523-3|SR-01000075523-5|SR-01000075523-6|Q27108378|SR-01000075523-10|(Z)-1-(4-Dimethylaminoethoxyphenyl)-1,2-diphenyl-1-butene Citrate|Tamoxifen citrate, European Pharmacopoeia (EP) Reference Standard|(z)-2-(4-(1,2-diphenyl-1-butenyl)phenoxy)-n,n-dimethylethanamine,citrate|(Z)-2-[4-(1,2-Diphenyl-1-butenyl)phenoxy]-N,N-dimethylethanamine citrate|Tamoxifen citrate, United States Pharmacopeia (USP) Reference Standard|(Z)-2-[ p-(1,2-Diphenyl-1-butenyl)phenoxy]- N, N-dimethylethylamine citrate (1:1)|(Z)-2-[4-(1,2-Diphenyl-1-butenyl)phenoxy]-N,N-dimethyl-ethanamine cirtrate (1:1)|Tamoxifen citrate for performance test, European Pharmacopoeia (EP) Reference Standard|(2-{4-[1,2-diphenylbut-1-en-1-yl]phenoxy}ethyl)dimethylamine; 2-hydroxypropane-1,2,3-tricarboxylic acid|(Z)-(2-(4-(1,2-Diphenylbut-1-enyl)phenoxy)ethyl)dimethylammonium dihydrogen 2-hydroxypropane-1,2,3-tricarboxylate|(Z)-2-(4-(1,2-diphenylbut-1-enyl)phenoxy)-N,N-dimethylethanamine 2-hydroxypropane-1,2,3-tricarboxylate|{2-[4-(1,2-Diphenyl-1-buten-1-yl)phenoxy]ethyl}dimethylamine 2-hydroxy-1,2,3-propanetricarboxylate salt|Ethanamine, 2-(4-((1Z)-1,2-diphenyl-1-butenyl)phenoxy)-N,N-dimethyl-, 2-hydroxy-1,2,3-propanetricarboxylate (1:1)|Ethanamine,2-diphenyl-1-butenyl)phenoxy]-N,N-dimethyl-, (Z)-, 2-hydroxy-1,2,3-propanetricarboxylate (1:1)
+niraparib tosylate monohydrate	small molecule	74763937		Targeted Therapy	polymerase inhibitor		approved		
+rucaparib camsylate	small molecule	121490161		Targeted Therapy	polymerase inhibitor		approved		
+carfilzomib	small molecule	11556711		Targeted Therapy	proteasome inhibitor		approved	DB08889	
+ixazomib citrate	small molecule	56844015		Targeted Therapy	proteasome inhibitor		approved		
+duvelisib	small molecule	50905713		Targeted Therapy	protein inhibitor		approved	DB11952	Duvelisib|INK-1147|INK-1197|IPI-145
+enasidenib mesylate	small molecule	90480031		Targeted Therapy	protein inhibitor		approved		
+encorafenib	small molecule	50922675		Targeted Therapy	protein inhibitor		approved	DB11718	Encorafenib|LGX-818|LGX818|NVP-LGX-818-NXA|NVP-LGX818|NVP-LGX818-NXA
+glasdegib	small molecule	25166913		Targeted Therapy	protein inhibitor		approved	DB11978	daurismo
+glasdegib maleate	small molecule	122640033		Targeted Therapy	protein inhibitor		approved		
+tipifarnib-p1				Targeted Therapy	protein inhibitor				
+tipifarnib-p2				Targeted Therapy	protein inhibitor				
+ivosidenib	small molecule	71657455		Targeted Therapy	protein inhibitor,(R,S)-Ivosidenib ((R,S)-AG-120) is the less active enantiomer of Ivosidenib (AG-120).		approved	DB14568	Ivosidenib|AG-120
+asciminib	small molecule	72165228		Targeted Therapy	protein inhibitor,An allosteric inhibitor of Abl1		approved	DB12597	scemblix|asciminib hydrochloride
+sotorasib	small molecule	137278711		Targeted Therapy	protein inhibitor,first-in-class, orally bioavailable, and selective KRAS G12C covalent inhibitor. Sotorasib irreversibly inhibits KRAS G12C by locking it in an inactive GDP-bound state. Sotorasib is the first KRAS G12C inhibitor in clinical development and leads to the regression of KRAS G12C tumors.		approved	DB15569	lumakras
+dabrafenib mesylate	small molecule	44516822		Targeted Therapy	protein inhibitor,Inhibitor of BRAF(V600) mutants		approved	DB08912	
+enasidenib	small molecule	89683805		Targeted Therapy	protein inhibitor,mutant isocitrate dehydrogenase 2 (IDH2) inhibitor		approved	DB13874	Idhifa
+alemtuzumab	biotech				tumor target		approved	DB00087	campath|lemtrada|mabcampath
+blinatumomab	biotech			Immunotherapy	tumor target		approved		
+dinutuximab	biotech			Immunotherapy	tumor target		approved		
+elotuzumab	biotech				tumor target		approved		
+erbitux	biotech				tumor target		approved		
+gemtuzumab ozogamicin	biotech				tumor target		approved	DB00056	
+ibritumomab tiuxetan	biotech			Immunotherapy	tumor target		approved		
+inotuzumab ozogamicin	biotech			Immunotherapy	tumor target		approved		
+necitumumab	biotech				tumor target		approved		
+obinutuzumab	biotech				tumor target		approved	DB08935	
+ofatumumab	biotech				tumor target		approved		
+pertuzumab	biotech				tumor target		approved	DB06366	
+rituxan	biotech				tumor target		approved		
+sacituzumab govitecan-hziy	biotech				tumor target		approved		
+siltuximab	biotech				tumor target		approved		
+daratumumab and hyaluronidase-fihj					tumor target				
+rituximab and hyaluronidase human					tumor target				
+apalutamide	small molecule	24872560					approved	DB11901	Apalutamide|JNJ-56021927
+belzutifan	small molecule	117947097					approved	DB15463	Belzutifan|MK-6482|MK6482|PT 2977|PT-2977|PT2977|WHO 11196
+cedazuridine	small molecule	25267009					approved	DB15694	nqovi 5 Tablet Pack
+darolutamide	small molecule	67171867					approved	DB12941	Darolutamide|BAY 1841788|BAY-1841788|BAY1841788|ODM-201
+daunorubicin hydrochloride	small molecule	62770							
+doxorubicin hydrochloride	small molecule	443939					approved	DB00997	14-hydroxydaunomycin|14-hydroxydaunorubicine|Doxorubicin|Doxorubicina|Doxorubicine|Doxorubicinum|Hydroxydaunorubicin
+eligard	small molecule	657181		Hormone Therapy			approved	DB00007	leuprolide|leuprorelin
+enzalutamide	small molecule	15951529		Hormone Therapy			approved	DB08899	
+epirubicin hydrochloride	small molecule	65348					approved	DB00445	4'-EpiadriamycinEpiadriamycin|Epirubicin|Epirubicina|Epirubicine|Epirubicinum|Pidorubicina|Pidorubicine|Pidorubicinum|NSC-256942
+etirinotecan pegol	small molecule	71300725					investigational	DB14951	
+etoposide phosphate	small molecule	6918092					approved	DB00773	Etoposide|Etoposido|Etoposidum|trans-Etoposide|NSC-141540|VP-16-213
+fluconazole	small molecule	445283					approved	DB00196	diflucan
+flutamide	small molecule	3397		Hormone Therapy			approved	DB00499	flutamide|13311-84-7|Eulexin|Niftolide|Niftholide|2-Methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide|Sch 13521|NFBA|niftolid|Drogenil|Flutamin|Cebatrol, veterinary|Flutamida|Flutamidum|4'-Nitro-3'-trifluoromethylisobutyranilide|Sch-13521|2-Methyl-N-(4-nitro-3-[trifluoromethyl]phenyl)propanamide|N-(4-NITRO-3-(TRIFLUOROMETHYL)PHENYL)ISOBUTYRAMIDE|SCH13521|MFCD00072009|NSC 215876|Flutamide (Eulexin)|Propanamide, 2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]-|alpha,alpha,alpha-Trifluoro-2-methyl-4'-nitro-m-propionotoluidide|UNII-76W6J0943E|CHEMBL806|4-Nitro-3-(trifluoromethyl)isobutyranilide|CHEBI:5132|Propanamide, 2-methyl-N-(4-nitro-3-(trifluoromethyl)phenyl)-|76W6J0943E|NSC-215876|NCGC00015452-09|Eulexine|Chimax|4'-Nitro-3'-trifluoromethylisobutyramilide|CAS-13311-84-7|Ham's F-12 medium|Flutamidum [INN-Latin]|DSSTox_CID_11121|DSSTox_RID_78899|DSSTox_GSID_32004|Flutamida [INN-Spanish]|Flutamide USP25|N-[4-Nitro-3-(trifluoromethyl)phenyl]isobutyramide|Prostandril|Odyne|SMR000058187|Eulexin (TN)|CCRIS 7246|m-Propionotoluidide,.alpha.,.alpha.-trifluoro-|SR-01000075888|EINECS 236-341-9|BRN 2157663|.alpha.,.alpha.-Trifluoro-2-methyl-4'-nitro-m-propionotoluidide|m-Propionotoluidide,.alpha.,.alpha.-trifluoro-2-methyl-4'-nitro-|4'-Nitro-3'-(trifluoromethyl)isobutyranilide|Flutamide [USAN:USP:INN:BAN]|Flutamide,(S)|Prestwick_228|NK-601|Spectrum_001210|2-Methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propionamide|CPD000058187|Prestwick0_000180|Prestwick1_000180|Prestwick2_000180|Prestwick3_000180|Spectrum2_001201|Spectrum3_001421|Spectrum4_000829|Spectrum5_001450|Lopac-F-9397|F0663|Flutamide (pubertal study)|F 9397|SCHEMBL3934|Lopac0_000557|BSPBio_000079|BSPBio_003122|KBioGR_001377|KBioSS_001690|MLS000069634|MLS001065596|MLS002548892|DivK1c_000459|SPECTRUM1500995|SPBio_000982|SPBio_002000|Flutamide (JP17/USP/INN)|BPBio1_000087|GTPL6943|CHEMBL4759307|DTXSID7032004|SCHEMBL12932289|HMS501G21|KBio1_000459|KBio2_001690|KBio2_004258|KBio2_006826|KBio3_002342|NINDS_000459|HMS1568D21|HMS1921O16|HMS2090I18|HMS2092O14|HMS2095D21|HMS2230P19|HMS3259I03|HMS3261P15|HMS3373C12|HMS3655G22|HMS3712D21|Pharmakon1600-01500995|AMY32524|BCP23006|HY-B0022|ZINC3812944|Tox21_110154|Tox21_202169|Tox21_300536|Tox21_500557|BDBM50131270|CCG-39105|m-Propionotoluidide, 2-methyl-4'-nitro-alpha,alpha,alpha-triflouro-|NSC147834|NSC215876|NSC757817|s1908|AKOS001025465|AKOS025243203|m-Propionotoluidide, .alpha.,.alpha.,.alpha.-trifluoro-2-methyl-4'-nitro-|Tox21_110154_1|AB02835|DB00499|KS-5091|LP00557|MCULE-7498839065|NC00451|NSC-147834|NSC-757817|SDCCGSBI-0050540.P004|IDI1_000459|NCGC00015452-01|NCGC00015452-02|NCGC00015452-03|NCGC00015452-04|NCGC00015452-05|NCGC00015452-06|NCGC00015452-07|NCGC00015452-08|NCGC00015452-10|NCGC00015452-11|NCGC00015452-12|NCGC00015452-13|NCGC00015452-14|NCGC00015452-15|NCGC00015452-16|NCGC00015452-19|NCGC00015452-20|NCGC00015452-32|NCGC00091460-01|NCGC00091460-02|NCGC00091460-03|NCGC00091460-04|NCGC00091460-05|NCGC00091460-06|NCGC00091460-07|NCGC00091460-08|NCGC00091460-09|NCGC00254495-01|NCGC00259718-01|NCGC00261242-01|AC-24192|BF166239|SY036411|SBI-0050540.P003|DB-042163|3'-Trifluoromethyl-4'-Nitro-Isobutyranilide|AB00052188|EU-0100557|FT-0626493|FT-0668764|SW196536-4|4''-nitro-3''-trifluoromethylisobutyranilide|C07653|D00586|J10037|AB00052188-09|AB00052188_10|AB00052188_11|311F847|A806562|Q418669|Q-201131|SR-01000075888-1|SR-01000075888-6|SR-01000075888-7|SR-01000075888-9|BRD-K28307902-001-05-0|Flutamide, certified reference material, TraceCERT(R)|Z56755651|a,a,a-Trifluoro-2-methyl-4'-nitro- m-propionotoluidide|Flutamide, European Pharmacopoeia (EP) Reference Standard|2-Methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide #|Flutamide, United States Pharmacopeia (USP) Reference Standard|2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide;Flutamide|alpha,alpha,alpha-trifluoro-2-methyl-4''-nitro-m-propionotoluidide|.alpha.,.alpha.,.alpha.-Trifluoro-2-methyl-4'-nitro-m-propionotoluidide|m-Propionotoluidide, 2-methyl-4'-nitro-.alpha.,.alpha.,.alpha.-trifluoro-|m-Propionotoluidide, alpha,alpha,alpha-trifluoro-2-methyl-4'-nitro- (8CI)|Flutamide for system suitability, European Pharmacopoeia (EP) Reference Standard|37209-54-4
+ganetesip	small molecule	135564985					investigational	DB12047	sta 9090|sta-9090|ata9090
+imiquimod	small molecule	57469		Immunotherapy			approved	DB00724	
+iobenguane i 131	small molecule	71184					approved	DB06704	
+lanreotide	small molecule	71349		Hormone Therapy			approved	DB06791	somatuline|lanreotide acetate
+lurbinectedin	small molecule	57327016					approved	DB12674	Lurbinectedin|PM 01183|PM-01183|PM01183|PM1183|WHO 9397
+lutetium Lu 177 dotatate	small molecule	76966897					approved	DB13985	lutathera|lutetium lu 177-dotatate
+lutetium lu 177 vipivotide tetraxetan	small molecule	122706785					approved		
+megestrol	small molecule	19090		Hormone Therapy			approved	DB00351	Megestrol acetate|BDH 1298|BDH-1298|NSC-71423|SC 10363|SC-10363
+melphalan hydrochloride	small molecule	9927978					approved	DB01042	
+metformin	small molecule	4091					approved	DB00331	actoplus met|avandamet|fortamet|glubrava|glucophage|glucovance|glumetza|glycon|invokamet|janumet|jentadueto|kazano|kombiglyze|komboglyze|qternmet|riomet|segluromet|synjardy|trijardy|velmetia|xigduo
+methotrexate sodium	small molecule	23678981					approved	DB00563	Amethopterin|Methotrexat|Méthotrexate|Methotrexate|Methotrexatum|Metotrexato|CL 14377|CL-14377|EMT 25299|EMT-25299|NSC-740|R 9985|R-9985
+plerixafor	small molecule	65015					approved	DB06809	
+pnu-159548	small molecule	216232		Chemotherapy					
+pomalidomide	small molecule	134780					approved	DB08910	
+pralatrexate	small molecule	148121		Chemotherapy			approved	DB06813	
+propranolol hydrochloride	small molecule	62882					approved	DB00571	
+radium 223 dichloride	small molecule	374915728					approved	DB08913	xofigo|radium ra 223 dichloride
+relugolix	small molecule	10348973					approved	DB11853	Relugolix|TAK 385|TAK-385
+selinexor	small molecule	71481097					approved	DB11942	Selinexor|KPT 330|KPT-330
+tazemetostat	small molecule	71761627					approved	DB12887	tazemetostat hydrobromide
+toremifene	small molecule	3005573		Hormone Therapy			approved	DB00539	Toremifene|Toremifeno|Toremifenum|
+triptorelin	small molecule	25074470		Hormone Therapy			approved	DB06825	decapeptyl|trelstar|triptodur
+vamp	small molecule	90479729							
+yttrium Y-90	small molecule	104760					approved	DB13076	yttrium-90
+abve-pc	combination								adriamycin+bleomycin+vincristine sulfate+etoposide phosphate+prednisone+cyclophosphamide
+r-chop	combination								rituximab+cyclophosphamide+doxorubicin hydrochloride+vincristine+prednisolone
+r-cvp	combination								rituximab+cyclophosphamide+vincristine+prednisolone
+veip	combination								vinblastine+ifosfamide+cisplatin
+aldesleukin	biotech			Immunotherapy			approved	DB00041	IL-2|Proleukin|interleukin 2
+avelumab	biotech			Immunotherapy			approved	DB11945	
+bcg vaccine	biotech						approved	DB12768	bcg
+besremi	biotech						approved		
+buserelin	biotech			Hormone Therapy			approved	DB06719	
+herceptin	biotech						approved		
+human interleukin-2	biotech						investigational	DB14865	il-2
+interferon alpha	biotech			Immunotherapy			investigational		
+leukine	biotech						approved		
+morab-004	biotech						investigational		
+neulasta	biotech						approved		
+octreotide	biotech			Hormone Therapy			approved	DB00104	bynfezia|mycapssa|sandostatin
+olvimulogene nanivacirepvec	biotech						investigational	DB16268	gl-onc1|glv-1h68
+peg-intron	biotech						approved		
+peginterferon alfa-2b	biotech						approved	DB00022	segintron|sylatron
+r1507	biotech						approved		
+viper antivenom	biotech						approved	DB14114	vip
+vonlerolizumab	biotech						investigational	DB16352	moxr0916
+abve									
+ac-t									
+ade									
+ags67e									
+alvesin									
+angiocal									
+b12									
+bcl-lzh-4									
+bdp-00009066									
+bpd-00008900									
+brd-a02303741									
+brd-a71883111									
+brd-a86708339									
+brd-k03536150									
+brd-k03911514									
+brd-k11533227									
+brd-k13185470									
+brd-k16130065									
+brd-k26531177									
+brd-k27188169									
+brd-k28456706									
+brd-k34099515									
+brd-k34222889									
+brd-k35604418									
+brd-k42260513									
+brd-k61166597									
+brd-k66532283									
+brd-k71781559									
+brd-k78574327									
+brd-k79669418									
+brd-k80183349									
+brd-k85133207									
+brd-k88742110									
+brd-k99584050									
+brd-m00053801									
+brd1812									
+brd1835									
+brd8899									
+brd8958									
+bumel									
+caf									
+cancer vax									
+capox									
+cd-437									
+cdk9_5038									
+cdk9_5576									
+cem									
+cev									
+cil41									
+cil55									
+cil55a									
+cil56									
+cil70									
+compound 1541a									
+compound 23 citrate									
+compound 7d-cis									
+copdac									
+copolang caps									
+copp									
+copp-abv									
+cr-1-31b									
+cvp									
+doceaqualip									
+docetaxelum									
+ds-8273a									
+eg5_9814									
+elcpk									
+enoticumab									
+erk_2440									
+erk_6604									
+ezn-2968									
+folfox									
+fqi-1									
+fqi-2									
+fsc231									
+fu-lv									
+gardasil (recombinant hpv quadrivalent vaccine)									
+gardasil 9 (recombinant hpv nonavalent vaccine)									
+gemox									
+gliadel wafers									
+gsk-3 inhibitor ix									
+hsc vaccine injection									
+hyaluronidase-oysk									
+hyper-cvad									
+i131-81c6									
+iap_5620									
+igf1r_3801									
+inf									
+interferon									
+interferon-2									
+intravesicular									
+ipr-456									
+irak4_4710									
+isox									
+jak_8517									
+jak1_8709									
+jeb									
+kras (g12c) inhibitor-12									
+laferon									
+lhrh agonist									
+ly228820									
+mayo 425-20									
+mel-44									
+micomycin									
+ml320									
+mopp									
+mr1-1									
+multi-agent									
+nsc30930									
+oepa									
+off									
+onyx-015									
+oppa									
+paclitaxel albumin-stabilized nanoparticle formulation									
+pad									
+pak_5339									
+peb									
+pegasta									
+pi88									
+picolinici-acid									
+pl-di									
+plexxikon 									
+plfe									
+podophyllotoxin bromide									
+polyplatillen									
+qw-bi-011									
+r-epoch									
+r-ice									
+recmage- a3				Immunotherapy					
+recombinant human papillomavirus (hpv) nonavalent vaccine									
+recombinant human papillomavirus (hpv) quadrivalent vaccine									
+renamin									
+reolysin									
+repligen 136									
+rg-108									
+smer-3									
+sr-ii-138a									
+stanford v									
+taf1_5496									
+ulk1_4989									
+vaf-347									
+vmcl									
+vsp34_8731									

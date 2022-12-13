@@ -1,0 +1,483 @@
+	$node_id_79D5B5CAAE944716A6348456DE09E45B	ID	name	type	cas	atc	source_qry
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":280}"	DB00291	Chlorambucil	small molecule	305-03-3	L01AA02	DB00291
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":616}"	DB00631	Clofarabine	small molecule	123318-82-1	L01BB06	DB00631
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5888}"	DB06769	Bendamustine	small molecule	16506-27-7	L01AA09	DB06769
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1240}"	DB01262	Decitabine	small molecule	2353-33-5	L01BC08	DB01262
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5085}"	DB05482	7-ethyl-10-hydroxycamptothecin	small molecule	86639-52-3	None	DB05482
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":969}"	DB00987	Cytarabine	small molecule	147-94-4	L01BC01	DB00987
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1052}"	DB01073	Fludarabine	small molecule	21679-14-1	L01BB05	DB01073
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1258}"	DB01280	Nelarabine	small molecule	121032-29-9	L01BB07	DB01280
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":910}"	DB00928	Azacitidine	small molecule	320-67-2	L01BC07	DB00928
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":415}"	DB00428	Streptozocin	small molecule	18883-66-4	L01AD04	DB00428
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":511}"	DB00526	Oxaliplatin	small molecule	61825-94-3	L01XA03	DB00526
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":940}"	DB00958	Carboplatin	small molecule	41575-94-4	L01XA02	DB00958
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1080}"	DB01101	Capecitabine	small molecule	154361-50-9	L01BC06	DB01101
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":500}"	DB00515	Cisplatin	small molecule	15663-27-1	L01XA01	DB00515
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1011}"	DB01030	Topotecan	small molecule	123948-87-8	L01XX17	DB01030
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":500}"	DB00515	Cisplatin	small molecule	15663-27-1	L01XA01	DB00515
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7895}"	DB08871	Eribulin	small molecule	253128-41-5	L01XX41	DB08871
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":311}"	DB00322	Floxuridine	small molecule	50-91-9	L01BC09	DB00322
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":3863}"	DB04106	Fotemustine	small molecule	92118-27-9	L01AD05	DB04106
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":724}"	DB00741	Hydrocortisone	small molecule	50-23-7	S01CB03	DB00741
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":987}"	DB01005	Hydroxyurea	small molecule	127-07-1	L01XX05	DB01005
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":635}"	DB00650	Leucovorin	small molecule	58-05-9	V03AF06	DB00650
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1185}"	DB01206	Lomustine	small molecule	13010-47-4	L01AD02	DB01206
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1022}"	DB01042	Melphalan	small molecule	148-82-3	L01AA03	DB01042
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":633}"	DB00648	Mitotane	small molecule	53-19-0	L01XX23	DB00648
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":627}"	DB00642	Pemetrexed	small molecule	137281-23-3	L01BA04	DB00642
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9709}"	DB11678	Treosulfan	small molecule	299-75-2	L01AB02	DB11678
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":349}"	DB00361	Vinorelbine	small molecule	71486-22-1	L01CA04	DB00361
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1147}"	DB01168	Procarbazine	small molecule	671-16-9	L01XB01	DB01168
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":833}"	DB00851	Dacarbazine	small molecule	4342-03-4	L01AX04	DB00851
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4788}"	DB05109	Trabectedin	small molecule	114899-77-3	L01CX01	DB05109
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1160}"	DB01181	Ifosfamide	small molecule	3778-73-2	L01AA06	DB01181
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1213}"	DB01234	Dexamethasone	small molecule	50-02-2	R01AD53	DB01234
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1021}"	DB01041	Thalidomide	small molecule	50-35-1	L04AX02	DB01041
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":941}"	DB00959	Methylprednisolone	small molecule	83-43-2	D10AA02	DB00959
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":279}"	DB00290	Bleomycin	small molecule	11056-06-7	L01DC01	DB00290
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":251}"	DB00262	Carmustine	small molecule	154-93-8	L01AD01	DB00262
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":555}"	DB00570	Vinblastine	small molecule	865-21-4	L01CA01	DB00570
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":952}"	DB00970	Dactinomycin	small molecule	50-76-0	L01DA01	DB00970
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":432}"	DB00445	Epirubicin	small molecule	56420-45-2	L01DB03	DB00445
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":745}"	DB00762	Irinotecan	small molecule	97682-44-5	L01XX19	DB00762
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":627}"	DB00642	Pemetrexed	small molecule	137281-23-3	L01BA04	DB00642
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":835}"	DB00853	Temozolomide	small molecule	85622-93-1	L01AX03	DB00853
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":979}"	DB00997	Doxorubicin	small molecule	23214-92-8	L01DB01	DB00997
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":529}"	DB00544	Fluorouracil	small molecule	51-21-8	L01BC52	DB00544
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":529}"	DB00544	Fluorouracil	small molecule	51-21-8	L01BC52	DB00544
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":516}"	DB00531	Cyclophosphamide	small molecule	50-18-0	L01AA01	DB00531
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":548}"	DB00563	Methotrexate	small molecule	59-05-2	L04AX03	DB00563
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":428}"	DB00441	Gemcitabine	small molecule	95058-81-4	L01BC05	DB00441
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1227}"	DB01248	Docetaxel	small molecule	114977-28-5	L01CD02	DB01248
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":294}"	DB00305	Mitomycin	small molecule	50-07-7	L01DC03	DB00305
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":756}"	DB00773	Etoposide	small molecule	33419-42-0	L01CB01	DB00773
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1011}"	DB01030	Topotecan	small molecule	123948-87-8	L01XX17	DB01030
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":431}"	DB00444	Teniposide	small molecule	29767-20-2	L01CB02	DB00444
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":990}"	DB01008	Busulfan	small molecule	55-98-1	L01AB01	DB01008
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":231}"	DB00242	Cladribine	small molecule	4291-63-8	L04AA40	DB00242
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1148}"	DB01169	Arsenic trioxide	small molecule	1327-53-3	L01XX27	DB01169
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5888}"	DB06769	Bendamustine	small molecule	16506-27-7	L01AA09	DB06769
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":678}"	DB00694	Daunorubicin	small molecule	20830-81-3	L01DB02	DB00694
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1014}"	DB01033	Mercaptopurine	small molecule	50-44-2	L01BB02	DB01033
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1147}"	DB01168	Procarbazine	small molecule	671-16-9	L01XB01	DB01168
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":282}"	DB00293	Raltitrexed	small molecule	112887-68-0	L01BA03	DB00293
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":340}"	DB00352	Tioguanine	small molecule	154-42-7	L01BB03	DB00352
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4296}"	DB04572	Thiotepa	small molecule	52-24-4	L01AC01	DB04572
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8348}"	DB09343	Tipiracil	small molecule	183204-74-2	None	DB09343
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":419}"	DB00432	Trifluridine	small molecule	70-00-8	L01BC59	DB00432
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":373}"	DB00385	Valrubicin	small molecule	56124-62-0	L01DB09	DB00385
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":56}"	DB00059	Pegaspargase	biotech	130167-69-0	L01XX24	DB00059
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5854}"	DB06733	Bafilomycin A1	small molecule	88899-55-2	None	DB06733
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6453}"	DB07348	Brefeldin A	small molecule	20350-15-6	None	DB07348
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5569}"	DB06314	SGX-523	small molecule	1022150-57-7	None	DB06314
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9679}"	DB11648	Afuresertib	small molecule	1047644-62-1	None	DB11648
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6687}"	DB07594	CCT-018159	small molecule	171009-07-7	None	DB07594
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10590}"	DB12588	AZD-1480	small molecule	935666-88-9	None	DB12588
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10258}"	DB12242	AZD-7762	small molecule	860352-01-8	None	DB12242
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14013}"	DB16107	BI 2536	small molecule	755038-02-9	None	DB16107
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9981}"	DB11958	Brivanib	small molecule	649735-46-6	None	DB11958
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12662}"	DB14723	Larotrectinib	small molecule	1223403-58-4	L01XE53	DB14723
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12734}"	DB14795	AZD-3759	small molecule	1626387-80-1	None	DB14795
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10307}"	DB12291	Tacedinaline	small molecule	112522-64-2	None	DB12291
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4045}"	DB04297	Trichostatin A	small molecule	58880-19-6	None	DB04297
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5462}"	DB06176	Romidepsin	small molecule	128517-07-7	L01XX39	DB06176
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10389}"	DB12376	Ricolinostat	small molecule	1316214-52-4	None	DB12376
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5750}"	DB06603	Panobinostat	small molecule	404950-80-7	L01XX42	DB06603
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9868}"	DB11841	Entinostat	small molecule	209783-80-2	L01XX64	DB11841
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4710}"	DB05015	Belinostat	small molecule	866323-14-0	L01XX49	DB05015
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":2406}"	DB02546	Vorinostat	small molecule	149647-78-9	L01XX38	DB02546
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13327}"	DB15408	Silmitasertib	small molecule	1009820-21-6	None	DB15408
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5378}"	DB05984	RAF-265	small molecule	927880-90-8	None	DB05984
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10424}"	DB12411	Bemcentinib	small molecule	1037624-75-1	None	DB12411
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10508}"	DB12500	Fedratinib	small molecule	936091-26-8	L01XE57	DB12500
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5559}"	DB06302	Glesatinib	small molecule	936694-12-1	None	DB06302
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9791}"	DB11763	Momelotinib	small molecule	1056634-68-4	None	DB11763
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6267}"	DB07159	Tamatinib	small molecule	841290-80-0	None	DB07159
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5068}"	DB05465	Tandutinib	small molecule	387867-13-2	None	DB05465
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9855}"	DB11828	Neratinib	small molecule	698387-09-6	L01XE45	DB11828
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8090}"	DB09078	Lenvatinib	small molecule	417716-92-8	L01XE29	DB09078
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5031}"	DB05424	Canertinib	small molecule	267243-28-7	None	DB05424
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9759}"	DB11730	Ribociclib	small molecule	1211441-98-3	L01XE42	DB11730
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5479}"	DB06195	Seliciclib	small molecule	186692-46-6	None	DB06195
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9444}"	DB11363	Alectinib	small molecule	1256580-46-7	L01XE36	DB11363
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10142}"	DB12121	Entospletinib	small molecule	1229208-44-9	None	DB12121
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6209}"	DB07101	PD-0325901	small molecule	391210-10-9	None	DB07101
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8335}"	DB09330	Osimertinib	small molecule	1421373-65-0	L01XE35	DB09330
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5664}"	DB06469	Lestaurtinib	small molecule	111358-88-4	None	DB06469
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11890}"	DB13930	Ulixertinib	small molecule	869886-67-9	None	DB13930
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7925}"	DB08901	Ponatinib	small molecule	943319-70-8	L01XE24	DB08901
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10201}"	DB12183	Sapitinib	small molecule	848942-61-0	None	DB12183
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9986}"	DB11963	Dacomitinib	small molecule	1110813-31-4	L01XE47	DB11963
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10070}"	DB12048	Savolitinib	small molecule	1313725-88-0	None	DB12048
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6107}"	DB06999	PLX-4720	small molecule	918505-84-7	None	DB06999
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10044}"	DB12021	Dinaciclib	small molecule	779353-01-4	None	DB12021
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1905}"	DB02010	Staurosporine	small molecule	62996-74-1	None	DB02010
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9768}"	DB11740	MK-1775	small molecule	955365-80-7	None	DB11740
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9682}"	DB11651	Dactolisib	small molecule	915019-65-7	None	DB11651
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7890}"	DB08865	Crizotinib	small molecule	877399-52-5	L01XE16	DB08865
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8066}"	DB09053	Ibrutinib	small molecule	936563-96-1	L01XE27	DB09053
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10864}"	DB12874	Quizartinib	small molecule	950769-58-1	L01XE52	DB12874
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7901}"	DB08877	Ruxolitinib	small molecule	941678-49-5	L01XE18	DB08877
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5761}"	DB06616	Bosutinib	small molecule	380843-75-4	L01XE14	DB06616
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9683}"	DB11652	Tucatinib	small molecule	937263-43-9	None	DB11652
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4583}"	DB04868	Nilotinib	small molecule	641571-10-0	L01XE08	DB04868
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5405}"	DB06075	Linsitinib	small molecule	867160-71-2	None	DB06075
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7939}"	DB08916	Afatinib	small molecule	850140-72-6	L01XE13	DB08916
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9573}"	DB11526	Masitinib	small molecule	790299-79-5	L01XE22	DB11526
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9832}"	DB11805	Saracatinib	small molecule	379231-04-6	None	DB11805
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10323}"	DB12307	Foretinib	small molecule	849217-64-7	None	DB12307
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1518}"	DB01590	Everolimus	small molecule	159351-69-6	L01XE10	DB01590
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":604}"	DB00619	Imatinib	small molecule	152459-95-5	L01XE01	DB00619
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6209}"	DB07101	PD-0325901	small molecule	391210-10-9	None	DB07101
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9815}"	DB11787	Ralimetinib	small molecule	862505-00-8	None	DB11787
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7905}"	DB08881	Vemurafenib	small molecule	918504-65-1	G01AE10	DB08881
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1183}"	DB01204	Mitoxantrone	small molecule	65271-80-9	L01DB07	DB01204
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8085}"	DB09073	Palbociclib	small molecule	571190-30-2	L01XE33	DB09073
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7862}"	DB08828	Vismodegib	small molecule	879085-55-9	L01XX43	DB08828
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4889}"	DB05220	Alisertib	small molecule	1028486-01-2	None	DB05220
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":385}"	DB00398	Sorafenib	small molecule	284461-73-0	L01XE05	DB00398
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9720}"	DB11689	Selumetinib	small molecule	606143-52-6	None	DB11689
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":515}"	DB00530	Erlotinib	small molecule	183321-74-6	L01XE03	DB00530
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":515}"	DB00530	Erlotinib	small molecule	183321-74-6	L01XE03	DB00530
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1237}"	DB01259	Lapatinib	small molecule	231277-92-2	L01XE07	DB01259
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7935}"	DB08911	Trametinib	small molecule	871700-17-3	L01XE25	DB08911
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":604}"	DB00619	Imatinib	small molecule	152459-95-5	L01XE01	DB00619
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1246}"	DB01268	Sunitinib	small molecule	557795-19-4	L01XE04	DB01268
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":306}"	DB00317	Gefitinib	small molecule	184475-35-2	L01XE02	DB00317
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1233}"	DB01254	Dasatinib	small molecule	302962-49-8	L01XE06	DB01254
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5769}"	DB06626	Axitinib	small molecule	319460-85-0	L01XE17	DB06626
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7899}"	DB08875	Cabozantinib	small molecule	849217-68-1	L01XE26	DB08875
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10024}"	DB12001	Abemaciclib	small molecule	1231929-97-7	L01XE50	DB12001
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9734}"	DB11703	Acalabrutinib	small molecule	1420477-60-6	L01XE51	DB11703
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9990}"	DB11967	Binimetinib	small molecule	606143-89-9	L01XE41	DB11967
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9819}"	DB11791	Capmatinib	small molecule	1029712-80-8	None	DB11791
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8075}"	DB09063	Ceritinib	small molecule	1032900-25-6	L01XE28	DB09063
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4905}"	DB05239	Cobimetinib	small molecule	934660-93-2	L01XE38	DB05239
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10508}"	DB12500	Fedratinib	small molecule	936091-26-8	L01XE57	DB12500
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9913}"	DB11886	Infigratinib	small molecule	872511-34-7	None	DB11886
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9913}"	DB11886	Infigratinib	small molecule	872511-34-7	None	DB11886
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14295}"	DB16390	Mobocertinib	small molecule	1847461-43-1	None	DB16390
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13733}"	DB15822	Pralsetinib	small molecule	2097132-94-8	None	DB15822
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13064}"	DB15133	Tepotinib	small molecule	1100598-32-0	None	DB15133
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10283}"	DB12267	Brigatinib	small molecule	1197953-54-0	L01XE43	DB12267
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10168}"	DB12147	Erdafitinib	small molecule	1346242-81-6	None	DB12147
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12968}"	DB15035	Zanubrutinib	small molecule	1691249-45-2	None	DB15035
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13599}"	DB15685	Selpercatinib	small molecule	2152628-33-4	None	DB15685
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7935}"	DB08911	Trametinib	small molecule	871700-17-3	L01XE25	DB08911
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13034}"	DB15102	Pemigatinib	small molecule	1513857-77-6	None	DB15102
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7925}"	DB08901	Ponatinib	small molecule	943319-70-8	L01XE24	DB08901
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10964}"	DB12978	Pexidartinib	small molecule	1029044-16-3	None	DB12978
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1237}"	DB01259	Lapatinib	small molecule	231277-92-2	L01XE07	DB01259
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9728}"	DB11697	Pacritinib	small molecule	937272-79-2	None	DB11697
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7901}"	DB08877	Ruxolitinib	small molecule	941678-49-5	L01XE18	DB08877
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10151}"	DB12130	Lorlatinib	small molecule	1454846-35-5	L01XE44	DB12130
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12778}"	DB14840	Ripretinib	small molecule	1442472-39-0	None	DB14840
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13157}"	DB15233	Avapritinib	small molecule	1703793-34-3	None	DB15233
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10162}"	DB12141	Gilteritinib	small molecule	1254053-43-4	L01XE54	DB12141
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4905}"	DB05239	Cobimetinib	small molecule	934660-93-2	L01XE38	DB05239
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":2837}"	DB03010	Patupilone	small molecule	152044-54-7	None	DB03010
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4560}"	DB04845	Ixabepilone	small molecule	219989-84-1	L01DC04	DB04845
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5891}"	DB06772	Cabazitaxel	small molecule	183133-96-2	L01CD04	DB06772
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":526}"	DB00541	Vincristine	small molecule	57-22-7	L01CA02	DB00541
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1208}"	DB01229	Paclitaxel	small molecule	33069-62-4	L01CD01	DB01229
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10768}"	DB12774	AZD-8055	small molecule	1009298-09-2	None	DB12774
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10400}"	DB12387	OSI-027	small molecule	936890-98-1	None	DB12387
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5550}"	DB06287	Temsirolimus	small molecule	162635-04-3	L01XE09	DB06287
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5509}"	DB06233	Ridaforolimus	small molecule	572924-54-0	L01XE19	DB06233
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10050}"	DB12027	Serdemetan	small molecule	881202-45-5	None	DB12027
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4906}"	DB05241	XL765	small molecule	None	None	DB05241
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5131}"	DB05552	TG100-115	small molecule	677297-51-7	None	DB05552
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":2247}"	DB02375	Myricetin	small molecule	529-44-2	None	DB02375
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9800}"	DB11772	Pilaralisib	small molecule	934526-89-3	None	DB11772
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12962}"	DB15029	AZD-8186	small molecule	1627494-13-6	None	DB15029
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12914}"	DB14980	AZD-6482	small molecule	1173900-33-8	None	DB14980
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10167}"	DB12146	Rigosertib	small molecule	592542-59-1	None	DB12146
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":813}"	DB00831	Trifluoperazine	small molecule	117-89-5	N05AB06	DB00831
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":420}"	DB00433	Prochlorperazine	small molecule	58-38-8	N05AB04	DB00433
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":488}"	DB00501	Cimetidine	small molecule	51481-61-9	A02BA51	DB00501
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1797}"	DB01892	Hyperforin	small molecule	11079-53-1	None	DB01892
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7892}"	DB08868	Fingolimod	small molecule	162359-55-9	L04AA27	DB08868
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9785}"	DB11757	Istradefylline	small molecule	155270-99-8	None	DB11757
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10110}"	DB12088	TT-232	small molecule	147159-51-1	None	DB12088
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":296}"	DB00307	Bexarotene	small molecule	153559-49-0	L01XX25	DB00307
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5821}"	DB06699	Degarelix	small molecule	214766-78-6	L02BX02	DB06699
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":15}"	DB00016	Erythropoietin	biotech	11096-26-7	B03XA01	DB00016
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":886}"	DB00904	Ondansetron	small molecule	99614-02-5	A04AA01	DB00904
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1107}"	DB01128	Bicalutamide	small molecule	90357-06-5	L02BB03	DB01128
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":929}"	DB00947	Fulvestrant	small molecule	129453-61-8	L02BA03	DB00947
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4564}"	DB04849	Cediranib	small molecule	288383-20-0	L01XE32	DB04849
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":738}"	DB00755	Tretinoin	small molecule	302-79-4	D10AD51	DB00755
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5407}"	DB06080	Linifanib	small molecule	796967-16-3	None	DB06080
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8091}"	DB09079	Nintedanib	small molecule	656247-17-5	L01XE31	DB09079
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7920}"	DB08896	Regorafenib	small molecule	755037-03-7	L01XE21	DB08896
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4938}"	DB05294	Vandetanib	small molecule	443913-73-3	L01XE12	DB05294
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9828}"	DB11800	Tivozanib	small molecule	475108-18-0	L01XE34	DB11800
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5740}"	DB06589	Pazopanib	small molecule	444731-52-6	L01XE11	DB06589
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6891}"	DB07810	Phloretin	small molecule	60-82-2	None	DB07810
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":192}"	DB00203	Sildenafil	small molecule	139755-83-2	G01AE10	DB00203
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10842}"	DB12852	MK-0752	small molecule	471905-41-6	None	DB12852
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1239}"	DB01261	Sitagliptin	small molecule	486460-32-6	A10BH51	DB01261
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6139}"	DB07031	3-Fluoro-4-{[(2R)-2-hydroxy-2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydro-2-naphthalenyl)acetyl]amino}benzoic acid	small molecule	None	None	DB07031
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9943}"	DB11919	6-O-benzylguanine	small molecule	19916-73-5	None	DB11919
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5052}"	DB05448	PX-12	small molecule	141400-58-0	None	DB05448
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9703}"	DB11672	Curcumin	small molecule	458-37-7	None	DB11672
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9809}"	DB11781	Tosedostat	small molecule	238750-77-1	None	DB11781
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1694}"	DB01782	Pyrazolanthrone	small molecule	129-56-6	None	DB01782
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9678}"	DB11647	Incyclinide	small molecule	15866-90-7	None	DB11647
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10490}"	DB12480	Betulinic Acid	small molecule	472-15-1	None	DB12480
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1146}"	DB01167	Itraconazole	small molecule	84625-61-6	J02AC02	DB01167
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5373}"	DB05969	SNS-032	small molecule	345627-80-7	None	DB05969
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5465}"	DB06179	Darinaparsin	small molecule	69819-86-9	None	DB06179
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":2889}"	DB03068	Zebularine	small molecule	3690-10-6	None	DB03068
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1015}"	DB01034	Cerulenin	small molecule	17397-89-6	None	DB01034
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":545}"	DB00560	Tigecycline	small molecule	220620-09-7	J01AA20	DB00560
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":216}"	DB00227	Lovastatin	small molecule	75330-75-5	C10AA02	DB00227
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":626}"	DB00641	Simvastatin	small molecule	79902-63-9	A10BH51	DB00641
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1074}"	DB01095	Fluvastatin	small molecule	93957-54-1	C10AA04	DB01095
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5377}"	DB05983	Bardoxolone methyl	small molecule	218600-53-4	None	DB05983
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10048}"	DB12025	Triptolide	small molecule	38748-32-2	None	DB12025
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5603}"	DB06370	Indisulam	small molecule	165668-41-7	None	DB06370
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":3094}"	DB03285	Isoliquiritigenin	small molecule	961-29-5	None	DB03285
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":846}"	DB00864	Tacrolimus	small molecule	104987-11-3	D11AH01	DB00864
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1167}"	DB01188	Ciclopirox	small molecule	29342-05-0	D01AE14	DB01188
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10966}"	DB12980	CHS-828	small molecule	200484-11-3	None	DB12980
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11027}"	DB13044	Gossypol	small molecule	303-45-7	None	DB13044
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9803}"	DB11775	PF-03758309	small molecule	898044-15-0	None	DB11775
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8045}"	DB09030	Vorapaxar	small molecule	618385-01-6	B01AC26	DB09030
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10383}"	DB12369	Sotrastaurin	small molecule	425637-18-9	None	DB12369
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5266}"	DB05812	Abiraterone	small molecule	154229-19-3	L02BX03	DB05812
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9810}"	DB11782	Birinapant	small molecule	1260251-31-7	None	DB11782
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8466}"	DB09570	Ixazomib	small molecule	1072833-77-2	L01XX50	DB09570
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9935}"	DB11911	Galunisertib	small molecule	700874-72-2	None	DB11911
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5563}"	DB06306	Onalespib	small molecule	912999-49-6	None	DB06306
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8154}"	DB09143	Sonidegib	small molecule	956697-53-3	L01XX48	DB09143
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":565}"	DB00580	Valdecoxib	small molecule	181695-72-7	M01AH03	DB00580
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5128}"	DB05546	SB-743921	small molecule	618430-39-0	None	DB05546
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5920}"	DB06803	Niclosamide	small molecule	50-65-7	P02DA01	DB06803
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10474}"	DB12463	Semagacestat	small molecule	425386-60-3	None	DB12463
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14211}"	DB16305	DEBIO-1143	small molecule	1071992-99-8	None	DB16305
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5478}"	DB06194	Elocalcitol	small molecule	199798-84-0	None	DB06194
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10209}"	DB12191	Obatoclax	small molecule	803712-67-6	None	DB12191
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4580}"	DB04865	Omacetaxine mepesuccinate	small molecule	26833-87-4	L01XX40	DB04865
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1071}"	DB01092	Ouabain	small molecule	630-60-4	C01AC01	DB01092
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5435}"	DB06137	Tirbanibulin	small molecule	897016-82-9	None	DB06137
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10716}"	DB12719	Turofexorate isopropyl	small molecule	629664-81-9	None	DB12719
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":2867}"	DB03044	Doramapimod	small molecule	285983-48-4	None	DB03044
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9614}"	DB11581	Venetoclax	small molecule	1257044-40-8	L01XX52	DB11581
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5744}"	DB06595	Midostaurin	small molecule	120685-11-2	L01XE39	DB06595
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12851}"	DB14917	Ceralasertib	small molecule	1352226-88-0	None	DB14917
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":467}"	DB00480	Lenalidomide	small molecule	191732-72-6	L04AX04	DB00480
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10107}"	DB12085	LCL-161	small molecule	1005342-46-0	None	DB12085
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9924}"	DB11899	MK-8776	small molecule	891494-63-6	None	DB11899
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1006}"	DB01024	Mycophenolic acid	small molecule	24280-93-1	L04AA06	DB01024
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":194}"	DB00205	Pyrimethamine	small molecule	58-14-0	P01BD01	DB00205
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4665}"	DB04960	Tipifarnib	small molecule	192185-72-1	None	DB04960
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12731}"	DB14792	AZD-5991	small molecule	2143010-83-5	None	DB14792
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13114}"	DB15189	Birabresib	small molecule	202590-98-5	None	DB15189
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5200}"	DB05719	Elesclomol	small molecule	488832-69-5	None	DB05719
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9821}"	DB11793	Niraparib	small molecule	1038915-60-4	L01XX54	DB11793
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9788}"	DB11760	Talazoparib	small molecule	1207456-01-6	L01XX60	DB11760
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10209}"	DB12191	Obatoclax	small molecule	803712-67-6	None	DB12191
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10346}"	DB12332	Rucaparib	small molecule	283173-50-2	L01XX55	DB12332
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9822}"	DB11794	Berzosertib	small molecule	1232416-25-9	None	DB11794
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9697}"	DB11666	Buparlisib	small molecule	944396-07-0	None	DB11666
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9771}"	DB11743	Ipatasertib	small molecule	1001264-89-6	None	DB11743
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10700}"	DB12703	Omipalisib	small molecule	1086062-66-9	None	DB12703
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10129}"	DB12108	Taselisib	small molecule	1282512-48-4	None	DB12108
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9992}"	DB11969	Uprosertib	small molecule	1047634-65-0	None	DB11969
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9949}"	DB11925	Vistusertib	small molecule	1009298-59-2	None	DB11925
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4407}"	DB04690	Camptothecin	small molecule	7689-03-4	None	DB04690
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9919}"	DB11893	Avagacestat	small molecule	1146699-66-2	None	DB11893
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1619}"	DB01700	AICA ribonucleotide	small molecule	3031-94-5	None	DB01700
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":155}"	DB00166	Lipoic acid	small molecule	1200-22-2	A16AX01	DB00166
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5391}"	DB06040	Filanesib	small molecule	885060-09-3	None	DB06040
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":116}"	DB00126	Ascorbic acid	small molecule	50-81-7	G01AD03	DB00126
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":133}"	DB00143	Glutathione	small molecule	70-18-8	V03AB32	DB00143
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":896}"	DB00914	Phenformin	small molecule	114-86-3	A10BA01	DB00914
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10354}"	DB12340	Navitoclax	small molecule	923564-51-6	None	DB12340
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":859}"	DB00877	Sirolimus	small molecule	53123-88-9	S01XA23	DB00877
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13318}"	DB15399	BMS-754807	small molecule	1001350-96-4	None	DB15399
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5344}"	DB05913	OSI-930	small molecule	728033-96-3	None	DB05913
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10683}"	DB12686	PHA-793887	small molecule	718630-59-2	None	DB12686
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8086}"	DB09074	Olaparib	small molecule	763113-22-0	L01XX46	DB09074
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6337}"	DB07232	Veliparib	small molecule	912444-00-9	None	DB07232
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":177}"	DB00188	Bortezomib	small molecule	179324-69-7	L01XX32	DB00188
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10038}"	DB12015	Alpelisib	small molecule	1217486-61-7	L01XX65	DB12015
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":3294}"	DB03496	Alvocidib	small molecule	146426-40-6	None	DB03496
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10234}"	DB12218	Capivasertib	small molecule	1143532-39-1	None	DB12218
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9694}"	DB11663	Pictilisib	small molecule	957054-30-7	None	DB11663
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14145}"	DB16239	Molibresib	small molecule	1260907-17-2	None	DB16239
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8067}"	DB09054	Idelalisib	small molecule	870281-82-6	L01XX47	DB09054
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11046}"	DB13063	Parthenolide	small molecule	20554-84-1	None	DB13063
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10727}"	DB12731	Daporinad	small molecule	658084-64-1	None	DB12731
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11936}"	DB13978	Selisistat	small molecule	49843-98-3	None	DB13978
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9985}"	DB11962	GSK-1059615	small molecule	958852-01-2	None	DB11962
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11031}"	DB13048	PAC-1	small molecule	315183-21-2	None	DB13048
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9787}"	DB11759	Pevonedistat	small molecule	905579-51-3	None	DB11759
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4813}"	DB05134	Tanespimycin	small molecule	75747-14-7	None	DB05134
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10894}"	DB12904	ZSTK-474	small molecule	475110-96-4	None	DB12904
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":365}"	DB00377	Palonosetron	small molecule	135729-56-5	A04AA55	DB00377
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1196}"	DB01217	Anastrozole	small molecule	120511-73-1	L02BG03	DB01217
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":339}"	DB00351	Megestrol acetate	small molecule	595-33-5	G03FB04	DB00351
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":590}"	DB00605	Sulindac	small molecule	38194-50-2	M01AB02	DB00605
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1330}"	DB01388	Mibefradil	small molecule	116644-53-2	C08CX01	DB01388
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":103}"	DB00112	Bevacizumab	biotech	216974-75-3	L01XC07	DB00112
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12800}"	DB14865	Human interleukin-2	biotech	None	None	DB14865
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":635}"	DB00650	Leucovorin	small molecule	58-05-9	V03AF06	DB00650
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":964}"	DB00982	Isotretinoin	small molecule	4759-48-2	D10AD04	DB00982
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5781}"	DB06643	Denosumab	biotech	615258-40-7	M05BX04	DB06643
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5703}"	DB06530	Resiquimod	small molecule	144875-48-9	None	DB06530
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5471}"	DB06186	Ipilimumab	biotech	477202-00-9	L01XC11	DB06186
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1008}"	DB01026	Ketoconazole	small molecule	65277-42-1	G01AF11	DB01026
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9916}"	DB11890	Cilengitide	small molecule	188968-51-6	None	DB11890
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10933}"	DB12947	Doxifluridine	small molecule	3094-09-5	None	DB12947
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6337}"	DB07232	Veliparib	small molecule	912444-00-9	None	DB07232
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10601}"	DB12601	Sonolisib	small molecule	502632-66-8	None	DB12601
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12887}"	DB14953	Firtecan pegol	small molecule	946062-05-1	None	DB14953
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5795}"	DB06663	Pasireotide	small molecule	396091-73-9	H01CB05	DB06663
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":972}"	DB00990	Exemestane	small molecule	107868-30-4	L02BG06	DB00990
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1}"	DB00002	Cetuximab	biotech	205923-56-4	L01XC06	DB00002
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14176}"	DB16270	Ontuxizumab	biotech	946415-62-9	None	DB16270
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1247}"	DB01269	Panitumumab	biotech	339177-26-3	L01XC08	DB01269
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5586}"	DB06343	Teprotumumab	biotech	1036734-93-6	None	DB06343
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":68}"	DB00072	Trastuzumab	biotech	180288-69-1	L01XC03	DB00072
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":69}"	DB00073	Rituximab	biotech	174722-31-7	L01XC02	DB00073
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5121}"	DB05531	alpha-Pyrrolidinononanophenone	small molecule	13415-58-2	None	DB05531
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5121}"	DB05531	alpha-Pyrrolidinononanophenone	small molecule	13415-58-2	None	DB05531
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":268}"	DB00279	Liothyronine	small molecule	6893-02-3	H03AA03	DB00279
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1213}"	DB01234	Dexamethasone	small molecule	50-02-2	R01AD53	DB01234
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10934}"	DB12948	Didox	small molecule	69839-83-4	None	DB12948
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13}"	DB00014	Goserelin	small molecule	65807-02-5	L02AE03	DB00014
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5260}"	DB05806	Cositecan	small molecule	203923-89-1	None	DB05806
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":988}"	DB01006	Letrozole	small molecule	112809-51-5	L02BG04	DB01006
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":438}"	DB00451	Levothyroxine	small molecule	51-48-9	H03AA01	DB00451
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":349}"	DB00361	Vinorelbine	small molecule	71486-22-1	L01CA04	DB00361
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":650}"	DB00665	Nilutamide	small molecule	63612-50-0	L02BB02	DB00665
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11052}"	DB13069	Nimustine	small molecule	42471-28-3	L01AD06	DB13069
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":271}"	DB00282	Pamidronic acid	small molecule	40391-99-9	M05BA03	DB00282
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":620}"	DB00635	Prednisone	small molecule	53-03-2	A07EA03	DB00635
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":468}"	DB00481	Raloxifene	small molecule	84449-90-1	G03XC01	DB00481
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8263}"	DB09256	Tegafur	small molecule	17902-23-7	L01BC03	DB09256
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8263}"	DB09256	Tegafur	small molecule	17902-23-7	L01BC03	DB09256
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":302}"	DB00313	Valproic acid	small molecule	99-66-1	N03AG01	DB00313
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":18}"	DB00019	Pegfilgrastim	biotech	208265-92-3	L03AA13	DB00019
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8051}"	DB09037	Pembrolizumab	biotech	1374853-91-4	L01XC18	DB09037
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":19}"	DB00020	Sargramostim	biotech	123774-72-1	L03AA09	DB00020
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10273}"	DB12257	Platinum	small molecule	7440-06-4	None	DB12257
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":84}"	DB00091	Cyclosporine	small molecule	59865-13-3	L04AD01	DB00091
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1076}"	DB01097	Leflunomide	small molecule	75706-12-6	L04AA13	DB01097
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":386}"	DB00399	Zoledronic acid	small molecule	118072-93-8	M05BB08	DB00399
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10198}"	DB12180	Apitolisib	small molecule	1032754-93-0	None	DB12180
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7936}"	DB08912	Dabrafenib	small molecule	1195765-45-7	L01XE23	DB08912
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":659}"	DB00675	Tamoxifen	small molecule	10540-29-1	L02BA01	DB00675
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7913}"	DB08889	Carfilzomib	small molecule	868540-17-4	L01XX45	DB08889
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9975}"	DB11952	Duvelisib	small molecule	1201438-56-3	None	DB11952
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9749}"	DB11718	Encorafenib	small molecule	1269440-17-6	L01XE46	DB11718
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10001}"	DB11978	Glasdegib	small molecule	1095173-27-5	L01XX63	DB11978
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12508}"	DB14568	Ivosidenib	small molecule	1448347-49-6	L01XX62	DB14568
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10599}"	DB12597	Asciminib	small molecule	1492952-76-7	None	DB12597
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13486}"	DB15569	Sotorasib	small molecule	2252403-56-6	None	DB15569
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7936}"	DB08912	Dabrafenib	small molecule	1195765-45-7	L01XE23	DB08912
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11836}"	DB13874	Enasidenib	small molecule	1446502-11-9	L01XX59	DB13874
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":80}"	DB00087	Alemtuzumab	biotech	216503-57-0	L04AA34	DB00087
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":53}"	DB00056	Gemtuzumab ozogamicin	biotech	220578-59-6	L01XC05	DB00056
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7954}"	DB08935	Obinutuzumab	biotech	949142-50-1	L01XC15	DB08935
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5600}"	DB06366	Pertuzumab	biotech	380610-27-5	L01XC13	DB06366
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9926}"	DB11901	Apalutamide	small molecule	956104-40-8	L02BB05	DB11901
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13380}"	DB15463	Belzutifan	small molecule	1672668-24-4	None	DB15463
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13608}"	DB15694	Cedazuridine	small molecule	1141397-80-9	None	DB15694
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10927}"	DB12941	Darolutamide	small molecule	1297538-32-9	L02BB06	DB12941
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":979}"	DB00997	Doxorubicin	small molecule	23214-92-8	L01DB01	DB00997
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":6}"	DB00007	Leuprolide	small molecule	53714-56-0	L02AE51	DB00007
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7923}"	DB08899	Enzalutamide	small molecule	915087-33-1	L02BB04	DB08899
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":432}"	DB00445	Epirubicin	small molecule	56420-45-2	L01DB03	DB00445
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12885}"	DB14951	Etirinotecan pegol	small molecule	848779-32-8	L01XX56	DB14951
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":756}"	DB00773	Etoposide	small molecule	33419-42-0	L01CB01	DB00773
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":185}"	DB00196	Fluconazole	small molecule	86386-73-4	J01RA07	DB00196
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":486}"	DB00499	Flutamide	small molecule	13311-84-7	L02BB01	DB00499
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10069}"	DB12047	Ganetespib	small molecule	888216-25-9	None	DB12047
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":708}"	DB00724	Imiquimod	small molecule	99011-02-6	D06BB10	DB00724
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5826}"	DB06704	Iobenguane	small molecule	80663-95-2	V09IX01	DB06704
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5909}"	DB06791	Lanreotide	small molecule	108736-35-2	H01CB03	DB06791
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10671}"	DB12674	Lurbinectedin	small molecule	497871-47-3	None	DB12674
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11943}"	DB13985	Lutetium Lu 177 dotatate	small molecule	437608-50-9	None	DB13985
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":339}"	DB00351	Megestrol acetate	small molecule	595-33-5	G03FB04	DB00351
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1022}"	DB01042	Melphalan	small molecule	148-82-3	L01AA03	DB01042
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":319}"	DB00331	Metformin	small molecule	657-24-9	A10BD23	DB00331
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":548}"	DB00563	Methotrexate	small molecule	59-05-2	L04AX03	DB00563
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5923}"	DB06809	Plerixafor	small molecule	110078-46-1	L03AX16	DB06809
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7934}"	DB08910	Pomalidomide	small molecule	19171-19-8	L04AX06	DB08910
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5927}"	DB06813	Pralatrexate	small molecule	146464-95-1	L01BA05	DB06813
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":556}"	DB00571	Propranolol	small molecule	525-66-6	C07FX01	DB00571
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7937}"	DB08913	Radium Ra 223 dichloride	small molecule	444811-40-9	None	DB08913
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9880}"	DB11853	Relugolix	small molecule	737789-87-6	None	DB11853
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9965}"	DB11942	Selinexor	small molecule	1393477-72-9	L01XX66	DB11942
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10877}"	DB12887	Tazemetostat	small molecule	1403254-99-8	None	DB12887
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":524}"	DB00539	Toremifene	small molecule	89778-26-7	L02BA02	DB00539
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5938}"	DB06825	Triptorelin	small molecule	57773-63-4	L02AE04	DB06825
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":11059}"	DB13076	Yttrium Y-90	small molecule	10098-91-6	V10AA01	DB13076
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":38}"	DB00041	Aldesleukin	biotech	110942-02-4	L03AC01	DB00041
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9968}"	DB11945	Avelumab	biotech	1537032-82-8	L01XC31	DB11945
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10763}"	DB12768	BCG vaccine	biotech	None	L03AX03	DB12768
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5841}"	DB06719	Buserelin	small molecule	57982-77-1	L02AE01	DB06719
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12800}"	DB14865	Human interleukin-2	biotech	None	None	DB14865
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":95}"	DB00104	Octreotide	small molecule	83150-76-9	H01CB02	DB00104
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14174}"	DB16268	Olvimulogene nanivacirepvec	biotech	1473430-36-2	None	DB16268
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":20}"	DB00022	Peginterferon alfa-2b	biotech	215647-85-1	L03AB10	DB00022
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12063}"	DB14114	Viper antivenom	biotech	None	None	DB14114
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14258}"	DB16352	Vonlerolizumab	biotech	1638935-72-4	None	DB16352
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":3069}"	DB03256	(6R)-Folinic acid	small molecule	73951-54-9	None	folinic acid
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":1841}"	DB01944	(S)-blebbistatin	small molecule	None	None	blebbistatin
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5073}"	DB05470	VX-702	small molecule	745833-23-2	None	vx-702
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10704}"	DB12707	AR-42	small molecule	935881-37-1	None	ar-42
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10193}"	DB12174	CUDC-101	small molecule	1012054-59-9	None	cudc-101
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10737}"	DB12742	Amuvatinib	small molecule	850879-09-3	None	amuvatinib
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5117}"	DB05524	Pelitinib	small molecule	257933-82-7	None	pelitinib
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5565}"	DB06309	Refametinib	small molecule	923032-37-5	None	refametinib
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10009}"	DB11986	Entrectinib	small molecule	1108743-60-7	L01XE56	entrectinib
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10413}"	DB12400	Voxtalisib	small molecule	934493-76-2	None	voxtalisib
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5770}"	DB06629	Zibotentan	small molecule	186497-07-4	None	zibotentan
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8019}"	DB09002	Cloperastine	small molecule	3703-76-2	R05DB21	erastin
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":14014}"	DB16108	TAK-715	small molecule	303162-79-0	None	tak-715
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7214}"	DB08142	AT-7519	small molecule	844442-38-2	None	at-7519
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10130}"	DB12109	CPI-613	small molecule	95809-78-2	None	cpi-613
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9780}"	DB11752	Bryostatin 1	small molecule	83314-01-6	None	bryostatin 1
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5677}"	DB06486	Enzastaurin	small molecule	170364-57-5	None	enzastaurin
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5138}"	DB05575	Motesanib	small molecule	453562-69-1	None	motesanib
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10442}"	DB12429	CI-1040	small molecule	212631-79-3	None	ci-1040
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7356}"	DB08289	N-(PARA-GLUTARAMIDOPHENYL-ETHYL)-PIPERIDINIUM-N-OXIDE	small molecule	None	None	ara-g
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":9943}"	DB11919	6-O-benzylguanine	small molecule	19916-73-5	None	benzylguanine
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12800}"	DB14865	Human interleukin-2	biotech	None	None	interleukin-2
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8049}"	DB09035	Nivolumab	biotech	946414-94-4	L01XC17	nivolumab
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10218}"	DB12200	Tivantinib	small molecule	905854-02-6	None	tivantinib
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8065}"	DB09052	Blinatumomab	biotech	853426-35-4	L01XC19	blinatumomab
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8089}"	DB09077	Dinutuximab	biotech	1363687-32-4	L01XC16	dinutuximab
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5570}"	DB06317	Elotuzumab	biotech	915296-00-3	L01XC23	elotuzumab
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":73}"	DB00078	Ibritumomab tiuxetan	biotech	206181-63-7	V10XX02	ibritumomab tiuxetan
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5329}"	DB05889	Inotuzumab ozogamicin	biotech	635715-01-4	L01XC26	inotuzumab ozogamicin
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8460}"	DB09559	Necitumumab	biotech	906805-06-9	L01XC22	necitumumab
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5785}"	DB06650	Ofatumumab	biotech	679818-59-8	L01XC10	ofatumumab
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8050}"	DB09036	Siltuximab	biotech	541502-14-1	L04AC11	siltuximab
+0	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":7}"	DB00008	Peginterferon alfa-2a	biotech	198153-51-4	L03AB11	interferon
+1	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10}"	DB00011	Interferon alfa-n1	biotech	74899-72-2	L03AB06	interferon
+2	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":17}"	DB00018	Interferon alfa-n3	biotech	None	None	interferon
+3	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":20}"	DB00022	Peginterferon alfa-2b	biotech	215647-85-1	L03AB10	interferon
+4	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":31}"	DB00033	Interferon gamma-1b	biotech	98059-61-1	None	interferon
+5	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":32}"	DB00034	Interferon alfa-2a	biotech	76543-88-9	L03AB04	interferon
+6	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":57}"	DB00060	Interferon beta-1a	biotech	145258-61-3	L03AB07	interferon
+7	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":64}"	DB00068	Interferon beta-1b	biotech	145155-23-3	L03AB08	interferon
+8	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":65}"	DB00069	Interferon alfacon-1	biotech	118390-30-0	L03AB09	interferon
+9	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":96}"	DB00105	Interferon alfa-2b	biotech	98530-12-2	L03AB05	interferon
+10	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":4918}"	DB05258	Interferon alfa	biotech	None	None	interferon
+11	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5006}"	DB05396	Albinterferon Alfa-2B	biotech	472960-22-8	L03AB12	interferon
+12	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5075}"	DB05472	Human interferon omega-1	biotech	None	None	interferon
+13	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":5305}"	DB05860	Peginterferon alfacon-1	biotech	None	None	interferon
+14	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":8134}"	DB09122	Peginterferon beta-1a	biotech	1211327-92-2	L03AB13	interferon
+15	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":10805}"	DB12814	Cepeginterferon alfa-2B	biotech	1192706-52-7	L03AB14	interferon
+16	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12706}"	DB14767	Peginterferon lambda-1a	biotech	914617-98-4	None	interferon
+17	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":12932}"	DB14999	Human interferon beta	biotech	74899-71-1	None	interferon
+18	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13050}"	DB15119	Ropeginterferon alfa-2b	biotech	1335098-50-4	L03AB15	interferon
+19	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13062}"	DB15131	Interferon alfa-2c	biotech	142192-09-4	None	interferon
+20	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13663}"	DB15749	Interferon Kappa	biotech	None	None	interferon
+21	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13666}"	DB15752	Recombinant Super-Compound Interferon	biotech	None	None	interferon
+22	"{""type"":""node"",""schema"":""dbo"",""table"":""Drugs"",""id"":13667}"	DB15753	Interferon Gamma	biotech	None	L03AB03	interferon
