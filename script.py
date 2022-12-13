@@ -26,27 +26,40 @@ engine = sa.create_engine("mssql+pyodbc:///?odbc_connect={}".format(params))
 
 #%%
 results = []
+no_res = []
 for name in tqdm(drug_names):
     if len(name)>4:
         qry = "SELECT * FROM Drugs WHERE LOWER(name) LIKE \'%" + str(name) + "%\'"
     else:
         qry = "SELECT * FROM Drugs WHERE LOWER(name) = \'" + str(name) + "\'"
     df = pd.read_sql(qry, engine)
-    df['source_qry'] = [name] * len(df)
-    results.append(df)
+    if len(df) > 0:
+        df['source_qry'] = [name] * len(df)
+        results.append(df)
+    else:
+        no_res.append(name)
 
 result_df = pd.concat(results)
+
 # %%
 drug_ids = source_valid_drugbank.drugbank_id.to_list()
 results = []
 for id in tqdm(drug_ids):
     qry = "SELECT * FROM Drugs WHERE ID = \'" + str(id) +"\'"
     df = pd.read_sql(qry, engine)
-    df['source_qry'] = [id] * len(df)
-    results.append(df)
+    if len(df) > 0:
+        df['source_qry'] = [name] * len(df)
+        results.append(df)
+    else:
+        no_res.append(name)
 
 result_df_2 = pd.concat(results)
 
+#%%
+with open("no_results.tsv","w+") as f:
+    for item in no_res:
+        f.write(str(item) + "\n")
+        
 # %%
 nodes = pd.concat([result_df_2, result_df])
 nodes.to_csv("nodes_mapped_from_db.tsv", sep="\t")
