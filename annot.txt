@@ -1,0 +1,33 @@
+q, c
+risk or severity of adverse effects can be increased, adverse
+may increase the hypotensive activities, increase_hypotensive
+may decrease the antihypertensive activities, decrease_antihypertensive
+may increase the thrombogenic activities, increase_thrombogenic
+may increase the bradycardic activities, increase_bradycardic
+may increase the nephrotoxic activities, increase_nephrotoxic
+may increase the neurotoxic activities, increase neurotoxic
+may increase the hepatotoxic activities, increase_hepatotoxic
+may increase the immunosuppressive activities, increase_immunosuppressive
+risk or severity of hypoglycemia can be increased, increase_hypoglycemia
+risk or severity of cardiotoxicity can be increased, increase_cardiotoxicity
+risk or severity of bleeding can be increased, increase_bleeding
+risk or severity of Thrombosis can be increased, increase_Thrombosis
+risk or severity of QTc prolongation can be increased, increase_QTc_prolongation
+risk or severity of infection can be increased, increase_infection
+risk or severity of neuropsychiatric effects can be increased, increase_neuropsychiatric
+increase the hepatotoxic and myelosuppressive activities, increase_myelosuppressive
+increase the central nervous system depressant (CNS depressant) activities, increase_cns_depressant
+increase the hypoglycemic activities, increase_hypoglycemic
+increase the neutropenic activities, increase_neutropenic
+decrease the cardiotoxic activities, increase_cardiotoxic
+risk or severity of myopathy rhabdomyolysis and myoglobinuria can be increased, increase_myopathy
+therapeutic efficacy of _can be decreased, decreased_therapeutic_efficacy
+excretion of _ can be decreased when combined, excretion_decreased
+can cause a decrease in the absorption of _ resulting in a reduced serum concentration and potentially a decrease in efficacy, decreased_absorption
+may increase the excretion rate of _ which could result in a lower serum level and potentially a reduction in efficacy, increased_excretion_rate
+bioavailability of _ can be increased when combined with, increased_bioavailability
+metabolism of _ can be decreased when combined, decreased_metabolism
+metabolism of _ can be increased when combined, increased_metabolism
+serum concentration of _ can be increased, increased_serum_concentrations
+serum concentration of _ can be decreased, decreased_serum_concentrations
+may decrease the excretion rate of _ which could result in a higher serum level, decreased_excretion_rate
